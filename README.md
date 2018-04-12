@@ -10,6 +10,8 @@
 
 ## Requirements
 - Python 3.3+ (Tested on Python 3.6.4)
+- Unidecode 1.0.22
+- unidecodecsv 0.14.1
 
 ## Set up
 
