@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+#PyCharm
+.idea
+idea/
