@@ -30,12 +30,14 @@ Training data received from `ajz-train.txt`. Text file contains large corpus of 
 
 ## Process
 
-> Attempt #1:
+**Attempt #1:**
+
 Dictionary Style Approach
 Memorized each word in training data. If found in test data, replaced word with example seen in training data.
 Result: 0.60232
 
-> Attempt #2/3:
+**Attempt #2/3:**
+
 Single letter unigram approach
 Records each instance of a unique character. Every character is replaced individually with the most commonly seen equivalent, diacritically decorated or not. Attempt #3 was due to fixing logic mistake in code.
 Result: 0.53447
