@@ -7,6 +7,6 @@
 venv/
 ENV/
 
-#PyCharm
+# PyCharm
 .idea
 idea/
