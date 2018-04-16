@@ -1,6 +1,7 @@
 from unidecode import unidecode
 from helper_functions import helperFunctions
 
+
 def buildLetterFreq():
     letterList = {}
     letterFreq = {}
