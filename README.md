@@ -43,7 +43,7 @@ Records each instance of a unique character. Every character is replaced individ
 Combines previous attempts in filter-like style approach. Code has been structured to support multi-line contexual analysis (not yet implemented as of 15 April 2018). Conditionals test if line has been seen before in dictionary style, otherwise defaults to evaluating each letter against the frequency list described above.
 > Result: 0.84613
 
-**Attempt #5:** 5/4/3 Letter Recognition, Dictionary, and Frequency List
+**Attempt #5/6:** 5/4/3 Letter Recognition, Dictionary, and Frequency List
 
-Filter-like approach expanded upon. After comparing word to dictionary, each word is analyzed for a before seen 5/4/3 letter pattern. The word will undergo any replacements necessary, and then be passed through the frequency list comparison. Capitalization is still preserved. Program reports never finding a letter pattern it hasn't seen in training, so suspecting bug. Very inefficent. Processing requires several minutes (recorded at about 2:20) to complete. Will be looking into storing processed lists externally instead of fully recreating each time.
-> Result: 0.83943
+Filter-like approach expanded upon. After comparing word to dictionary, each word is analyzed for a before seen 5/4/3 letter pattern. The word will undergo any replacements necessary, and then be passed through the frequency list comparison. Capitalization is still preserved. ~~Program reports never finding a letter pattern it hasn't seen in training, so suspecting bug.~~ Logic error resolved (or at least improved). Program is currently very inefficent. Processing requires several minutes (recorded at about 2:20) to complete. Will be looking into storing processed lists externally instead of fully recreating each time.
+> Result: ~~0.83943~~ 0.85174
