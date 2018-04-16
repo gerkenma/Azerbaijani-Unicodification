@@ -47,3 +47,7 @@ Combines previous attempts in filter-like style approach. Code has been structur
 
 Filter-like approach expanded upon. After comparing word to dictionary, each word is analyzed for a before seen 5/4/3 letter pattern. The word will undergo any replacements necessary, and then be passed through the frequency list comparison. Capitalization is still preserved. ~~Program reports never finding a letter pattern it hasn't seen in training, so suspecting bug.~~ Logic error resolved (or at least improved). Program is currently very inefficent. Processing requires several minutes (recorded at about 2:20) to complete. Will be looking into storing processed lists externally instead of fully recreating each time.
 > Result: ~~0.83943~~ 0.85174
+
+**Attempt #7:** Two and Three Line Context
+Completed dictionary to file processing, drastically reducing run time of program. All text processing is now saved to CSV files and read back. If CSV files are not present, program will simply redo the processing. Attempted incorporating multi-line comparisons for context. Processing time begam impossibly large, and could not devise way to reduce efficiently. All necessary code was migrated to a single file, documented appropriately, and removed from program functionality.
+> Result: No submission
