@@ -2,6 +2,7 @@ from helper_functions import vocabulary
 from helper_functions import letterFreq
 from helper_functions import multiLetter
 from helper_functions import helperFunctions
+import re
 
 # All training data is saved to files for faster processing
 # Create dictionary of seen words
@@ -37,14 +38,13 @@ with open("input.csv", "r", encoding="UTF-8") as test:
 
     for line in test:
         i += 1
-        line = line[3:].rstrip().replace('"', '')
+        line = re.split('[0-9]+,', line)[1].rstrip().replace('"', '')
         predictions[i] = vocabulary.testVocabulary(line, wordSet)
 
         if predictions[i] is None:
             predictions[i] = letterFreq.testLetterFreq(line, freqList)
             multiLetterEval = multiLetter.testMultiLetter(predictions[i], threeLetter, fourLetter, fiveLetter)
             predictions[i] = multiLetterEval
-
 
 helperFunctions.writeDictionary(predictions, "prediction.csv")
 print("Output file successfully written.")
