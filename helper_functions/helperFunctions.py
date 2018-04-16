@@ -1,4 +1,6 @@
 import unicodecsv
+import codecs
+
 
 def mostCommon(lst):
     return max(set(lst), key=lst.count)
@@ -39,7 +41,21 @@ def readDictionary(name):
     return dict
 
 
+def writeList(lst, name):
+    output = codecs.open("lists/"+name, "wb", encoding="utf-8")
+    for item in lst:
+        output.write(item)
+    output.close()
+
+
+def readList(name):
+    lst = []
+    input = codecs.open("lists/"+name, "r", encoding="utf-8")
+    lst = input.read()
+    return lst
+
 if __name__ == "__main__":
-    sample = readDictionary("sampleOut.csv")
-    print(sample)
-    writeDictionary(sample, "sample.csv")
+    sample = ["hello", "world", "I", "am", "jackie", "chan"]
+    writeList(sample, "sample.csv")
+    sampleLst = readList("sample.csv")
+    print(sampleLst)
