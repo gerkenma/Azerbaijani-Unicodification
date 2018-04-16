@@ -90,10 +90,7 @@ def testMultiLetter(word, threeL, fourL, fiveL):
                 except KeyError:
                     pass
 
-            if replace is not None:
-                return helperFunctions.fixCaps(orig, word)
-
             start += 1
         length -= 1
 
-    return None
+    return helperFunctions.fixCaps(orig, word)
