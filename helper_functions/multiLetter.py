@@ -1,18 +1,21 @@
 from unidecode import unidecode
 from helper_functions import helperFunctions
 
-threeLetter = {}
-fourLetter = {}
-fiveLetter = {}
+# Function finds every five, four, and three letter combination
+# Combos are first added to a set
+# After all training has completed, each dictionary key's set
+# is reduced to the single most prevalent combo associated
+# wit that key
 
 
 def buildMultiLetter():
-    count = 0
+    threeLetter = {}
+    fourLetter = {}
+    fiveLetter = {}
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
         line = training.readline()
 
         for line in training:
-            count += 1
             line = line.rstrip()
 
             length = 5
@@ -42,9 +45,7 @@ def buildMultiLetter():
                     start += 1
                 length -= 1
 
-            if count >= 335:
-                break
-
+    # Reduces each key's to single most common variant
     for key in threeLetter:
         threeLetter[key] = helperFunctions.mostCommon(threeLetter[key])
 
@@ -63,7 +64,7 @@ def testMultiLetter(word, threeL, fourL, fiveL):
     length = 5
     replace = None
 
-    capitalArray = helperFunctions.getCapArray(word)
+    orig = word
     word = word.lower()
 
     while length >= 3:
@@ -89,18 +90,7 @@ def testMultiLetter(word, threeL, fourL, fiveL):
                 except KeyError:
                     pass
 
-            if replace is not None:
-                capitalReplace = ""
-                for i in range(len(capitalArray)):
-                    if capitalArray[i] == 1:
-                        capitalReplace += replace[i].upper()
-                    else:
-                        capitalReplace += replace[i]
-
-                return capitalReplace
-
-
             start += 1
         length -= 1
 
-    return None
+    return helperFunctions.fixCaps(orig, word)

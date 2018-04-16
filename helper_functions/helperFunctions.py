@@ -13,14 +13,23 @@ def findSubset(X, Y):
     return locations
 
 
-def getCapArray(word):
+def fixCaps(original, lower):
     capArray = []
-    for letter in word:
+    for letter in original:
         if letter.isupper():
             capArray.append(1)
         else:
             capArray.append(0)
-    return capArray
+
+    reCapped = ""
+    for i in range(len(lower)):
+        if capArray[i] == 1:
+            reCapped += lower[i].upper()
+        else:
+            reCapped += lower[i]
+
+    return reCapped
+
 
 
 def writeDictionary(dict, name):
@@ -55,7 +64,6 @@ def readList(name):
     return lst
 
 if __name__ == "__main__":
-    sample = ["hello", "world", "I", "am", "jackie", "chan"]
-    writeList(sample, "sample.csv")
-    sampleLst = readList("sample.csv")
-    print(sampleLst)
+    orig = "hElLo!"
+    word = "hello!"
+    print(fixCaps(orig, word))
