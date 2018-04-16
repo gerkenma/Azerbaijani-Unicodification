@@ -14,7 +14,7 @@ with open("input.csv", "r", encoding="UTF-8") as test:
     predictions = {}
     test.readline()
     eof = False
-    wordsNotFound = 0
+    wordsFound = 0
 
     line1 = None
     line2 = None
@@ -31,17 +31,14 @@ with open("input.csv", "r", encoding="UTF-8") as test:
 
         if predictions[i] is None:
             predictions[i] = vocabulary.testVocabulary(line3, wordSet)
-
-        if predictions[i] is None:
-            predictions[i] = multiLetter.testMultiLetter(line3, threeLetter, fourLetter, fiveLetter)
+            if predictions[i] is not None: wordsFound += 1
 
         if predictions[i] is None:
             predictions[i] = letterFreq.testLetterFreq(line3, freqList)
-            if predictions[i] is not None:
-                predictions[i] = letterFreq.testLetterFreq(predictions[i], freqList)
-            else:
-                predictions[i] = letterFreq.testLetterFreq(line3, freqList)
-                wordsNotFound += 1
+            multiLetterEval = multiLetter.testMultiLetter(predictions[i], threeLetter, fourLetter, fiveLetter)
+            if multiLetterEval is not None:
+                wordsFound += 1
+            predictions[i] = multiLetterEval
 
         line1 = line2
         line2 = line3
@@ -49,7 +46,7 @@ with open("input.csv", "r", encoding="UTF-8") as test:
         eof = not line3
 
 
-print("Found ", i-wordsNotFound, " out of ", i)
+print("Found ", wordsFound, " out of ", i)
 with open('prediction.csv', 'wb') as output:
     writer = unicodecsv.writer(output)
     writer.writerow(["id", "token"])

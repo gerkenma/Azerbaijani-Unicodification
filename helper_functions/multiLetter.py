@@ -1,4 +1,5 @@
 from unidecode import unidecode
+from helper_functions import helperFunctions
 
 threeLetter = {}
 fourLetter = {}
@@ -6,69 +7,98 @@ fiveLetter = {}
 
 
 def buildMultiLetter():
+    count = 0
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
         line = training.readline()
+
         for line in training:
+            count += 1
             line = line.rstrip()
 
-            for i in range(0, len(line) - 2):
-                for j in range(i+3, min(len(line)+1, i+6)):
-                    if len(line[i:j]) == 3:
-                        threeLetter[unidecode(line[i:j]).replace("@", "e")] = line[i:j]
+            length = 5
+            while length >= 3:
+                start = 0
+                while start <= len(line) - length:
+                    end = start + length
 
-                    elif len(line[i:j]) == 4:
-                        fourLetter[unidecode(line[i:j]).replace("@", "e")] = line[i:j]
+                    if len(line[start:end]) == 3:
+                        try:
+                            threeLetter[unidecode(line[start:end]).replace("@", "e")].append(line[start:end])
+                        except KeyError:
+                            threeLetter[unidecode(line[start:end]).replace("@", "e")] = [(line[start:end])]
+
+                    elif len(line[start:end]) == 4:
+                        try:
+                            fourLetter[unidecode(line[start:end]).replace("@", "e")].append(line[start:end])
+                        except KeyError:
+                            fourLetter[unidecode(line[start:end]).replace("@", "e")] = [(line[start:end])]
 
                     else:
-                        fiveLetter[unidecode(line[i:j]).replace("@", "e")] = line[i:j]
+                        try:
+                            fiveLetter[unidecode(line[start:end]).replace("@", "e")].append(line[start:end])
+                        except KeyError:
+                            fiveLetter[unidecode(line[start:end]).replace("@", "e")] = [(line[start:end])]
+
+                    start += 1
+                length -= 1
+
+            if count >= 335:
+                break
+
+    for key in threeLetter:
+        threeLetter[key] = helperFunctions.mostCommon(threeLetter[key])
+
+    for key in fourLetter:
+        fourLetter[key] = helperFunctions.mostCommon(fourLetter[key])
+
+    for key in fiveLetter:
+        fiveLetter[key] = helperFunctions.mostCommon(fiveLetter[key])
 
     return threeLetter, fourLetter, fiveLetter
 
 
 def testMultiLetter(word, threeL, fourL, fiveL):
-    upperFlag = not word == word.lower()
+    length = 5
+    replace = None
+
+    capitalArray = helperFunctions.getCapArray(word)
     word = word.lower()
 
-    if not upperFlag:
-        for i in range(0, len(word) - 2):
-            for j in range(i+3, min(len(word)+1, i+6)):
-                if len(word[i:j]) == 5:
-                    try:
-                        return word.replace(word[i:j], fiveL[word[i:j]])
-                    except KeyError:
-                        pass
+    while length >= 3:
+        start = 0
+        while start <= len(word) - length:
+            end = start + length
 
-                elif len(word[i:j]) == 4:
-                    try:
-                        return word.replace(word[i:j], fourL[word[i:j]])
-                    except KeyError:
-                        pass
+            if len(word[start:end]) == 5:
+                try:
+                    replace = word.replace(word[start:end], fiveL[(word[start:end])])
+                except KeyError:
+                    pass
 
-                else:
-                    try:
-                        return word.replace(word[i:j], threeL[word[i:j]])
-                    except KeyError:
-                        pass
-        return None
+            elif len(word[start:end]) == 4:
+                try:
+                    replace = word.replace(word[start:end], fourL[(word[start:end])])
+                except KeyError:
+                    pass
 
-    else:
-        for i in range(0, len(word) - 2):
-            for j in range(i+3, min(len(word)+1, i+6)):
-                if len(word[i:j]) == 5:
-                    try:
-                        return word.replace(word[i:j], fiveL[word[i:j]].capitalize())
-                    except KeyError:
-                        pass
+            else:
+                try:
+                    replace = word.replace(word[start:end], threeL[(word[start:end])])
+                except KeyError:
+                    pass
 
-                elif len(word[i:j]) == 4:
-                    try:
-                        return word.replace(word[i:j], fourL[word[i:j]].capitalize())
-                    except KeyError:
-                        pass
+            if replace is not None:
+                capitalReplace = ""
+                for i in range(len(capitalArray)):
+                    if capitalArray[i] == 1:
+                        capitalReplace += replace[i].upper()
+                    else:
+                        capitalReplace += replace[i]
 
-                else:
-                    try:
-                        return word.replace(word[i:j], threeL[word[i:j]].capitalize())
-                    except KeyError:
-                        pass
-        return None
+                return capitalReplace
+
+
+            start += 1
+        length -= 1
+
+    return None
