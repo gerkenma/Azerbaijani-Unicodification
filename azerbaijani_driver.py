@@ -1,13 +1,35 @@
-import unicodecsv
 from helper_functions import testContext
 from helper_functions import vocabulary
 from helper_functions import letterFreq
 from helper_functions import multiLetter
+from helper_functions import helperFunctions
 
 # wordList = testContext.buildWordList()
-wordSet = vocabulary.buildVocabulary()
-threeLetter, fourLetter, fiveLetter = multiLetter.buildMultiLetter()
-freqList = letterFreq.buildLetterFreq()
+try:
+    wordSet = helperFunctions.readDictionary("vocabulary.csv")
+except FileNotFoundError:
+    wordSet = vocabulary.buildVocabulary()
+try:
+    wordSet = helperFunctions.readDictionary("vocabulary.csv")
+except FileNotFoundError:
+    vocabulary.buildVocabulary()
+    wordSet = helperFunctions.readDictionary("vocabulary.csv")
+
+try:
+    threeLetter = helperFunctions.readDictionary("threeLetter.csv")
+    fourLetter = helperFunctions.readDictionary("fourLetter.csv")
+    fiveLetter = helperFunctions.readDictionary("fiveLetter.csv")
+except FileNotFoundError:
+    multiLetter.buildMultiLetter()
+    threeLetter = helperFunctions.readDictionary("threeLetter.csv")
+    fourLetter = helperFunctions.readDictionary("fourLetter.csv")
+    fiveLetter = helperFunctions.readDictionary("fiveLetter.csv")
+
+try:
+    freqList = helperFunctions.readDictionary("letterFreq.csv")
+except FileNotFoundError:
+    letterFreq.buildLetterFreq()
+    freqList = helperFunctions.readDictionary("letterFreq.csv")
 
 with open("input.csv", "r", encoding="UTF-8") as test:
     i = 0
@@ -47,9 +69,5 @@ with open("input.csv", "r", encoding="UTF-8") as test:
 
 
 print("Found ", wordsFound, " out of ", i)
-with open('prediction.csv', 'wb') as output:
-    writer = unicodecsv.writer(output)
-    writer.writerow(["id", "token"])
-    for key,value in predictions.items():
-        writer.writerow([key, value])
-    print("Output file successfully written.")
+helperFunctions.writeDictionary(predictions, "prediction.csv")
+print("Output file successfully written.")

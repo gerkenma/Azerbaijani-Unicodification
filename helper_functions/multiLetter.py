@@ -54,7 +54,9 @@ def buildMultiLetter():
     for key in fiveLetter:
         fiveLetter[key] = helperFunctions.mostCommon(fiveLetter[key])
 
-    return threeLetter, fourLetter, fiveLetter
+    helperFunctions.writeDictionary(threeLetter, "threeLetter.csv")
+    helperFunctions.writeDictionary(fourLetter, "fourLetter.csv")
+    helperFunctions.writeDictionary(fiveLetter, "fiveLetter.csv")
 
 
 def testMultiLetter(word, threeL, fourL, fiveL):

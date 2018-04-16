@@ -21,7 +21,7 @@ def buildVocabulary():
         else:
             vocab[key] = vocab[key][0]
 
-    return vocab
+    helperFunctions.writeDictionary(vocab, "vocabulary.csv")
 
 
 def testVocabulary(word, vocab):

@@ -19,7 +19,8 @@ def buildLetterFreq():
     for item in letterList:
         letterFreq[item] = helperFunctions.mostCommon(letterList[item])
 
-    return letterFreq
+    helperFunctions.writeDictionary(letterFreq, "letterFreq.csv")
+
 
 def testLetterFreq(word, freqList):
     # Unicode characters that resolve to be two or more ASCII characters
