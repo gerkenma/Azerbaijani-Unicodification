@@ -35,8 +35,8 @@ Memorized each word in training data. If found in test data, replaced word with 
 
 **Attempt #2/3:** Single letter Unigram
 
-Records each instance of a unique character. Every character is replaced individually with the most commonly seen equivalent, diacritically decorated or not. Attempt #3 was due to fixing logic mistake in code.
-> Result: 0.53447
+Records each instance of a unique character. Every character is replaced individually with the most recently seen equivalent, diacritically decorated or not. Attempt #3 was the fix of a logic error, which caused every single character to be replaced with a decorated character.
+> Result: ~~0.12493~~ 0.53447
 
 **Attempt #4:** Dictionary and Frequency List
 
