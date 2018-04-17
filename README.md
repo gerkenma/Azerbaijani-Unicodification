@@ -54,5 +54,6 @@ Completed dictionary to file processing, drastically reducing run time of progra
 > Result: No submission
 
 **Attempt #8:** Minor bug fixes and short string resolution
+
 Program would skip short strings, as well as cut out lines with commas. Logic and bug fixes. Program cleaned up in general. Context functionality removed.
 > Result: 0.90558
