@@ -49,5 +49,10 @@ Filter-like approach expanded upon. After comparing word to dictionary, each wor
 > Result: ~~0.83943~~ 0.85174
 
 **Attempt #7:** Two and Three Line Context
+
 Completed dictionary to file processing, drastically reducing run time of program. All text processing is now saved to CSV files and read back. If CSV files are not present, program will simply redo the processing. Attempted incorporating multi-line comparisons for context. Processing time begam impossibly large, and could not devise way to reduce efficiently. All necessary code was migrated to a single file, documented appropriately, and removed from program functionality.
 > Result: No submission
+
+**Attempt #8:** Minor bug fixes and short string resolution
+Program would skip short strings, as well as cut out lines with commas. Logic and bug fixes. Program cleaned up in general. Context functionality removed.
+> Result: 0.90558
