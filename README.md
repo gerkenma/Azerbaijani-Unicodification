@@ -58,7 +58,7 @@ Completed dictionary to file processing, drastically reducing run time of progra
 Program would skip short strings, as well as cut out lines with commas. Logic and bug fixes. Program cleaned up in general. Context functionality removed.
 > Result: 0.90558
 
-**Attempt #9:** Handled weird ASCII characters, fixed default resolution
+**Attempt #9/10:** Handled weird ASCII characters, fixed default resolution
 
-Program would return empty strings on ASCII characters not encountered before, now resolved. Changed order of restoration to Dictionary -> 5 Letter -> 4 Letter -> 3 Letter -> Frequency List -> Default. Needs functionality for allowing multiple multiLetter replacements in a single line.
-> Result: 0.88577
+Program would return empty strings on ASCII characters not encountered before, now resolved. Changed order of restoration to Dictionary -> 5 Letter -> 4 Letter -> 3 Letter -> Frequency List -> Default. Needs functionality for allowing multiple multiLetter replacements in a single line. Attempt #10 involved restoring lines with quotes to see if possible error came from only commas being surrounded by quotes. Made no affect. Unsure why percentage went down by two percent.
+> Result: ~~0.88577~~ 0.88577
