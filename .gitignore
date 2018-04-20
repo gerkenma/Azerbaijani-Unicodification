@@ -1,7 +1,6 @@
 venv/
 .idea/
-*.pyc
-*.pyo
+*.py[cod]
 build/
 dist/
-helper_functions/__pycache__/
+__pycache__/
