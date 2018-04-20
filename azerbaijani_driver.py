@@ -38,7 +38,7 @@ with open("input.csv", "r", encoding="UTF-8") as test:
 
     for line in test:
         i += 1
-        line = re.split('[0-9]+,', line)[1].rstrip().replace('"', '')
+        line = re.split('[0-9]+,', line)[1].strip().replace('"', '')
         predictions[i] = vocabulary.testVocabulary(line, wordSet)
 
         if predictions[i] is None:

@@ -9,7 +9,7 @@ def buildVocabulary():
 
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
         for line in training:
-            line = line.lower().rstrip()
+            line = line.lower().strip()
             try:
                 vocab[unidecode(line).replace("@", "e")].append(line)
             except KeyError:

@@ -31,7 +31,6 @@ def fixCaps(original, lower):
     return reCapped
 
 
-
 def writeDictionary(dict, name):
     with open('dictionaries/' + name, 'wb') as output:
         writer = unicodecsv.writer(output)
@@ -45,7 +44,7 @@ def readDictionary(name):
     with open('dictionaries/' + name, 'r', encoding="UTF-8") as data:
         data.readline()
         for line in data:
-            dict[line.split(",")[0]] = line.split(",")[1].rstrip().replace('"', '')
+            dict[line.split(",")[0]] = line.split(",")[1].strip().replace('"', '')
 
     return dict
 

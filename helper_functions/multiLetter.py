@@ -16,7 +16,7 @@ def buildMultiLetter():
         line = training.readline()
 
         for line in training:
-            line = line.rstrip()
+            line = line.strip()
 
             length = 5
             while length >= 3:

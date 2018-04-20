@@ -8,7 +8,7 @@ def buildLetterFreq():
 
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
         for word in training:
-            word = word.rstrip()
+            word = word.strip()
             if word.isalpha():
                 for letter in word:
                     try:
@@ -46,5 +46,8 @@ def testLetterFreq(word, freqList):
         if upperFlag:
             guess = guess[0:len(guess)-1] + guess[len(guess)-1].upper()
 
-    return guess
+    if guess == "":
+        return word
+    else:
+        return guess
 
