@@ -64,8 +64,9 @@ def testMultiLetter(word, threeL, fourL, fiveL):
 
     orig = word
     word = word.lower()
-
+    changes = 0
     while length >= 3:
+        temp = word
         start = 0
         found = False
         while start <= len(word) - length:
@@ -73,26 +74,32 @@ def testMultiLetter(word, threeL, fourL, fiveL):
 
             if len(word[start:end]) == 5:
                 try:
-                    replace = word.replace(word[start:end], fiveL[(word[start:end])])
+                    word = word.replace(word[start:end], fiveL[(word[start:end])])
+                    print("Replaced", temp[start:end], "with", word[start:end])
+                    changes += 1
                     found = True
                 except KeyError:
                     pass
 
             elif len(word[start:end]) == 4:
                 try:
-                    replace = word.replace(word[start:end], fourL[(word[start:end])])
+                    word = word.replace(word[start:end], fourL[(word[start:end])])
+                    print("Replaced", temp[start:end], "with", word[start:end])
+                    changes += 1
                     found = True
                 except KeyError:
                     pass
 
             else:
                 try:
-                    replace = word.replace(word[start:end], threeL[(word[start:end])])
+                    word = word.replace(word[start:end], threeL[(word[start:end])])
+                    print("Replaced", temp[start:end], "with", word[start:end])
+                    changes += 1
                     found = True
                 except KeyError:
                     pass
 
             start += 1
         length -= 1
-
+    print("Changes:", changes)
     return helperFunctions.fixCaps(orig, replace), found

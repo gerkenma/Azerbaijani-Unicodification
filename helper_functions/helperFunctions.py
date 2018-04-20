@@ -34,13 +34,14 @@ def fixCaps(original, lower):
 
 def writeDictionary(dict, name):
     with open('dictionaries/' + name, 'wb') as output:
-        quotes = False
-        if name == "prediction.csv":
-            writer = unicodecsv.writer(output)
-            writer.writerow(["id", "token"])
-            writer = unicodecsv.writer(output, quoting=unicodecsv.QUOTE_NONNUMERIC)
-        else:
-            writer = unicodecsv.writer(output)
+        writer = unicodecsv.writer(output)
+        # quotes = False
+        # if name == "prediction.csv":
+        #     writer = unicodecsv.writer(output)
+        #     writer.writerow(["id", "token"])
+        #     writer = unicodecsv.writer(output, quoting=unicodecsv.QUOTE_NONNUMERIC)
+        # else:
+        #     writer = unicodecsv.writer(output)
 
         for key, value in dict.items():
             writer.writerow([key, value])

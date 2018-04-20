@@ -1,4 +1,3 @@
-id,token
 Diger,Digər
 teref,tərəf
 erefi,ərəfi
@@ -47,7 +46,7 @@ aglar,ağlar
 glari,ğları
 larin,ların
 arini,arını
-kosku,köşkü
+kosku,köskü
 oskun,öskün
 skund,şkünd
 kunde,kündə
@@ -963,7 +962,7 @@ tesli,təsli
 eslim,əslim
 etmek,etmək
 Romal,Romal
-omali,omali
+omali,omalı
 malil,malıl
 alila,alıla
 adeti,adəti
@@ -1755,7 +1754,7 @@ oksre,oksre
 ksres,ksres
 srese,srese
 resen,rəsən
-esens,əşəns
+esens,esens
 sensk,sensk
 enska,enska
 nskay,nskay
@@ -3131,7 +3130,7 @@ rtlar,rtlar
 anliy,anlıy
 nliyi,nliyi
 liyis,lıyış
-iyisi,iyisı
+iyisi,iyisi
 elebl,ələbl
 leble,ləblə
 bleri,bləri
@@ -3771,7 +3770,7 @@ tfeli,tfeli
 xilin,xilin
 subli,subli
 ublim,ublim
-blimi,blımı
+blimi,blimi
 limit,limit
 imitl,imitl
 mitle,mitlə
@@ -3896,7 +3895,7 @@ hmede,hmede
 eden-,ədən-
 den-s,dən-ş
 en-se,ən-şə
-n-sec,n-seç
+n-sec,n-sec
 -sech,-sech
 sechm,sechm
 echme,echme
@@ -4004,7 +4003,7 @@ yatim,yatım
 atimi,atımı
 artib,artıb
 Yonma,Yonma
-slarl,şlarl
+slarl,slarl
 yolla,yolla
 kesdi,kəsdi
 dolas,dolaş
@@ -4083,7 +4082,7 @@ novle,növlə
 ovler,övlər
 luxma,luxma
 pesti,pesti
-estil,əştil
+estil,estil
 lavas,lavas
 tandu,tandu
 andur,andur
@@ -4868,7 +4867,7 @@ qayid,qayıd
 ayida,ayıda
 yidan,yıdan
 yer-g,yer-g
-er-go,ər-gö
+er-go,er-gö
 r-goy,r-göy
 dagil,dağıl
 agils,ağıls
@@ -7743,7 +7742,7 @@ ozeny,ozeny
 zenya,zenya
 satti,sattı
 attir,attir
-ttird,ttird
+ttird,ttırd
 asqas,aşqas
 sqasi,şqası
 qasin,qasın
@@ -8355,7 +8354,7 @@ ogurd,oğurd
 gurdu,ğurdu
 tunel,tunel
 uneld,uneld
-nelde,neldə
+nelde,nəldə
 erpas,ərpas
 rpasi,rpası
 arili,arılı
@@ -8436,7 +8435,7 @@ enzed,ənzəd
 nzede,nzədə
 zedek,zədək
 sican,siçan
-icana,icana
+icana,içana
 Sican,Siçan
 icani,içanı
 Heres,Hərəs
@@ -8530,7 +8529,7 @@ onumu,önümü
 resm-,rəsm-
 esm-s,əsm-s
 sm-se,sm-sə
-m-ser,m-şər
+m-ser,m-sər
 -serg,-sərg
 biqes,biqəs
 Dusun,Düşün
@@ -9234,7 +9233,7 @@ davas,davas
 vasin,vasın
 efkar,əfkar
 fkari,fkarı
-kari-,karı-
+kari-,kari-
 ari-u,arı-ü
 ri-um,rı-üm
 i-umu,i-ümu
@@ -10561,7 +10560,7 @@ hsila,hsila
 silal,silal
 ilalm,ilalm
 lalma,lalma
-rles-,rləş-
+rles-,rles-
 les-d,ləş-d
 es-di,əş-di
 s-dir,ş-dir
@@ -10583,7 +10582,7 @@ tarma,tarma
 geneg,geneg
 enege,ənəgə
 neger,nəgər
-egerc,Əgərç
+egerc,əgərc
 gerce,gerçə
 ercek,erçək
 itkis,itkis
@@ -10802,7 +10801,7 @@ qlayi,qlayı
 redir,rədir
 gulen,gülən
 kokel,kökəl
-okeli,ökəli
+okeli,ökeli
 kelir,kəlir
 Kisil,Kişil
 cixac,çıxac
@@ -11518,7 +11517,7 @@ Ictim,İctim
 calin,çalın
 sgali,şğalı
 qanli,qanlı
-rgind,rgind
+rgind,rğınd
 ddarl,ddarl
 Sieli,Şiəli
 ielik,iəlik
@@ -12759,7 +12758,7 @@ lyana,lyana
 yanal,yanal
 analt,analt
 nalti,naltı
-altid,altid
+altid,altıd
 ltida,ltıda
 dogma,doğma
 ogmam,oğmam
@@ -12905,8 +12904,8 @@ rafil,rafil
 afilo,afilo
 krinc,krinc
 ETPEI,ETPEİ
-TPEI-,TPEİ-
-PEI-n,PEİ-n
+TPEI-,TPEI-
+PEI-n,PEI-n
 EI-ni,Eİ-ni
 eyise,əyişə
 yisen,yişən
@@ -12995,7 +12994,7 @@ budur,budur
 serie,şəriə
 eriet,əriət
 rieti,riəti
-multe,mülte
+multe,mültə
 ultez,ültəz
 ltezi,ltəzi
 tezim,təzim
@@ -13560,7 +13559,7 @@ ag-qa,ağ-qa
 g-qar,ğ-qar
 qarat,qarat
 arate,arate
-rates,ratəs
+rates,rates
 atesv,atəsv
 svire,svirə
 elmel,əlməl
@@ -13651,7 +13650,7 @@ zekal,zəkal
 ekali,əkalı
 Demir,Dəmir
 yasid,yasıd
-asidu,asidü
+asidu,asıdu
 Efend,Efend
 fendi,fəndi
 endiy,əndiy
@@ -14061,10 +14060,10 @@ xamca,xamca
 Damal,Damal
 encek,əncək
 rendd,rendd
-enddi,enddi
-nddir,nddir
+enddi,ənddi
+nddir,nddır
 apokr,apokr
-pokri,pokrı
+pokri,pokri
 okrif,okrif
 krifd,krifd
 rifdi,rifdi
@@ -14970,7 +14969,7 @@ havad,havad
 Muhar,Mühar
 SRI-d,SRİ-d
 RI-de,Rİ-də
-Sehve,Şəhvə
+Sehve,Səhvə
 ehven,əhvən
 ddinc,ddinc
 dinci,dinci
@@ -15726,7 +15725,7 @@ li-Cu,li-Çu
 i-Cux,i-Çux
 -Cuxu,-Çuxu
 Cuxur,Çuxur
-bele-,belə-
+bele-,bələ-
 ele-D,ələ-D
 le-Di,lə-Di
 e-Diz,ə-Diz
@@ -15967,7 +15966,7 @@ rnonu,rnonu
 linci,lıncı
 incin,ıncın
 ncini,ncını
-erelm,erelm
+erelm,ərəlm
 relmi,rəlmi
 vaqon,vaqon
 aqonu,aqonu
@@ -16270,7 +16269,7 @@ pozuc,pozuc
 ozucu,ozucu
 rsidi,rşıdı
 sidil,şidil
-idilm,ıdılm
+idilm,idilm
 separ,separ
 aratc,aratç
 meyil,meyil
@@ -16558,7 +16557,7 @@ anett,anett
 netti,netti
 ettir,ettir
 halki,halki
-alkin,alkın
+alkin,alkin
 lkina,lkina
 oyley,öyləy
 yleyi,yləyi
@@ -16922,7 +16921,7 @@ SeLeL,SƏLƏL
 eLeLe,ƏLƏLƏ
 LeLeR,LƏLƏR
 Merce,Merce
-ercey,ərcəy
+ercey,erçəy
 rceyi,rcəyi
 Teqli,Təqli
 eqlid,əqlid
@@ -16982,7 +16981,7 @@ rubde,rübdə
 David,David
 Tkese,Tkeşe
 kesel,kəsəl
-esela,esela
+esela,əsəla
 selas,səlas
 elasv,elaşv
 Sulav,Şulav
@@ -17097,7 +17096,7 @@ t-la-,t-la-
 -la-r,-la-r
 la-ri,la-rı
 a-rin,a-rın
--rini,-rını
+-rini,-rini
 kuc-m,kuç-m
 uc-me,uç-mə
 c-med,ç-məd
@@ -17143,7 +17142,7 @@ ygisi,yğısı
 gisiz,ğısız
 Cenab,Cənab
 enabi,ənabı
-nabin,nabin
+nabin,nabın
 biniz,biniz
 eshab,Əshab
 shabe,shabə
@@ -17424,7 +17423,7 @@ llava,llava
 lavaz,lavaz
 avazl,avazl
 vazli,vazlı
-eliso,əliso
+eliso,Əliso
 lisol,lisol
 isolt,isolt
 solta,solta
@@ -17475,7 +17474,7 @@ teqov,teqov
 eqova,eqova
 ovet-,ovet-
 vet-R,vet-R
-et-Ru,ət-Ru
+et-Ru,et-Ru
 t-Rus,t-Rus
 ekari,əkarı
 daqoq,daqoq
@@ -17533,7 +17532,7 @@ mleme,mləmə
 sulug,şuluğ
 ulugu,uluğu
 ocure,öçürə
-curec,curec
+curec,çürəc
 Acliq,Aclıq
 irib-,ırıb-
 rib-y,rıb-y
@@ -18711,7 +18710,7 @@ BLIKA,BLİKA
 LIKAT,LİKAT
 Medis,Medis
 disig,disig
-isign,isign
+isign,ışığn
 desti,dəsti
 yinet,yinet
 inetm,inetm
@@ -18914,7 +18913,7 @@ uplet,uplet
 pleti,pleti
 krarl,krarl
 rusca,rusca
-casti,çastı
+casti,casti
 astiy,astıy
 Altay,Altay
 Balka,Balka
@@ -19408,7 +19407,7 @@ dadi-,dadı-
 adi-d,adı-d
 di-du,dı-du
 i-duz,ı-düz
--duzu,-düzü
+-duzu,-duzu
 Gotur,Götür
 Memor,Memor
 emora,emora
@@ -19420,7 +19419,7 @@ Sarva,Sarva
 allav,allav
 lavar,lavar
 kehri,kəhri
-hrizl,hrızl
+hrizl,hrizl
 rizle,rizlə
 razid,razid
 azide,azidə
@@ -19556,7 +19555,7 @@ d-to-,d-to-
 -to-C,-to-C
 to-Ca,to-Ca
 o-Car,o-Car
--Card,-Card
+-Card,-Çard
 lkeda,lkəda
 kedax,kədax
 kartl,kartl
@@ -19616,7 +19615,7 @@ Komun,Komun
 omuni,omuni
 logil,logil
 ogila,ogila
-gilay,gilay
+gilay,ğılay
 ilaya,ılaya
 layal,layal
 sayta,sayta
@@ -19709,10 +19708,10 @@ mohte,möhtə
 ohtes,öhtəş
 htese,htəşə
 tesem,təşəm
-fsini,fşini
+fsini,fsini
 carli,çarlı
 Maver,Mavər
-avere,avərə
+avere,averə
 renne,rənnə
 enneh,ənnəh
 nnehr,nnəhr
@@ -20284,7 +20283,7 @@ fiqel,fiqəl
 runus,rünüş
 kosme,kosme
 osmet,osmet
-smeti,sməti
+smeti,smeti
 metik,metik
 defek,dəfək
 efekt,efekt
@@ -20417,7 +20416,7 @@ Xanla,Xanla
 damda,damda
 Pisni,Pisni
 isniy,isniy
-sniyy,sniyy
+sniyy,şniyy
 vsumu,vsümü
 sumun,sümün
 enarl,ənarl
@@ -20430,7 +20429,7 @@ tamad,tamad
 buzun,buzun
 rimes,riməs
 qum-d,qum-d
-um-du,üm-dü
+um-du,um-dü
 m-duz,m-duz
 sepil,səpil
 epili,əpili
@@ -20803,7 +20802,7 @@ oysay,oysay
 ysayd,ysayd
 aydil,aydıl
 ydila,ydıla
-zerib,zərib
+zerib,zerib
 eriba,əriba
 ribay,ribay
 ibayc,ibayc
@@ -21070,7 +21069,7 @@ Beera,Beera
 vlaxd,vlaxd
 laxda,laxda
 axdak,axdak
-xdaki,xdakı
+xdaki,xdaki
 Oyunu,Oyunu
 Sedri,Sədri
 Ziyaf,Ziyaf
@@ -21468,7 +21467,7 @@ ovest,ovest
 iki-u,iki-ü
 ki-uc,ki-üç
 qarli,qarlı
-ediye,ediye
+ediye,ədiyə
 diyer,diyer
 pesin,pəsin
 palaz,palaz
@@ -21672,7 +21671,7 @@ atagl,atağl
 tagli,tağlı
 amida,amıda
 midas,midas
-idase,idaşe
+idase,idaşə
 dasek,daşək
 aseki,aşəki
 adirv,adırv
@@ -21917,7 +21916,7 @@ ercin,ərçin
 Tamil,Tamil
 milla,milla
 dovay,dovay
-Priye,Priyə
+Priye,Priye
 ovusu,ovuşu
 vusur,vuşur
 yatir,yatır
@@ -21999,7 +21998,7 @@ ibern,ibern
 berne,berne
 Mevla,Mevla
 gorel,görəl
-oreli,oreli
+oreli,örəli
 relim,rəlim
 neyle,neylə
 ylers,ylərs
@@ -22378,7 +22377,7 @@ Ozume,Özümə
 Ailel,Ailəl
 Gunel,Günel
 Hacie,Hacıə
-ielil,iəlil
+ielil,ıəlil
 limes,liməs
 Sehla,Şəhla
 nmusl,nmuşl
@@ -22531,7 +22530,7 @@ ogle-,ogle-
 gle-u,gle-u
 le-un,le-un
 Mesaj,Mesaj
-Lands,Landş
+Lands,Lands
 andst,andst
 ndste,ndste
 dstey,dstey
@@ -23401,7 +23400,7 @@ kedah,kedah
 iudai,iudai
 udaiz,udaiz
 daizm,daizm
-aizmd,aizmd
+aizmd,aızmd
 izmde,izmdə
 nalog,nalog
 ondad,ondad
@@ -23432,7 +23431,7 @@ II-de,İİ-də
 Baqra,Baqra
 aqrat,aqrat
 qrati,qrati
-ratil,ratıl
+ratil,ratil
 atile,atilə
 Mehem,Məhəm
 ehemm,əhəmm
@@ -23895,9 +23894,9 @@ yanad,yanad
 cdikd,çdikd
 uditi,uditi
 emden,əmdən
-el-Si,əl-Si
+el-Si,el-Şi
 l-Sid,l-Sid
--Sidd,-Sidd
+-Sidd,-Sıdd
 Siddi,Siddi
 iddiq,iddiq
 Sevva,Şəvva
@@ -24027,7 +24026,7 @@ ymese,yməsə
 qsirk,qsirk
 sirka,sirka
 irkar,irkar
-Satir,Satir
+Satir,Şatır
 erami,eramı
 ramiz,ramız
 IV-II,IV-II
@@ -24123,18 +24122,18 @@ zgund,zgünd
 umids,ümids
 inmes,inməs
 esulu,əsulu
-Xulde,Xulde
+Xulde,Xuldə
 ulder,ulder
 ldere,ldərə
 esili,əsili
 ebird,əbird
 yediy,yediy
-abayi,abayı
+abayi,abayi
 bayig,bayiğ
 ayigi,ayığı
 yigit,yigit
 igitl,iğitl
-gitle,gitlə
+gitle,ğitle
 iyirs,ıyırs
 uhlar,uhlar
 rib-c,rıb-ç
@@ -24244,7 +24243,7 @@ vtoqr,vtoqr
 toqre,toqre
 oqrey,oqrey
 qreyd,qreyd
-reyde,reyde
+reyde,rəydə
 danil,danıl
 lli-m,lli-m
 li-me,li-mə
@@ -24491,7 +24490,7 @@ Ciddi,Ciddi
 sluql,şluql
 xaris,xarış
 kimiq,kimiq
-imiqe,imiqə
+imiqe,imiqe
 miqey,miqey
 iqeyd,iqeyd
 ndase,ndasə
@@ -24583,7 +24582,7 @@ Aygun,Aygün
 Nesib,Nəsib
 esibo,əsibo
 sibov,sibov
-ibova,ıbova
+ibova,ibova
 bovay,bovay
 udanm,udanm
 danmi,danmı
@@ -24803,7 +24802,7 @@ Amale,Amale
 maleq,maleq
 aleql,aleql
 leqli,leqli
-eqlin,eqlin
+eqlin,əqlin
 qlini,qlını
 Seyid,Seyid
 Arioz,Arioz
@@ -25084,7 +25083,7 @@ kolxo,kolxo
 olxoz,olxoz
 lxozc,lxozç
 xozcu,xozçu
-ozcus,ozçus
+ozcus,özçüs
 zcusi,zçusi
 rencb,rəncb
 encbe,əncbə
@@ -25427,7 +25426,7 @@ femer,femer
 inma-,ınma-
 nma-m,nma-m
 ma-mi,ma-mı
-a-mis,a-mış
+a-mis,a-mis
 ilata,ilata
 kotuy,kötüy
 otuyu,ötüyü
@@ -25532,7 +25531,7 @@ e-tib,ə-tib
 -tibb,-tibb
 stave,stave
 aveli,aveli
-velid,vəlid
+velid,velid
 elide,əlidə
 muter,mütər
 eyall,əyall
@@ -25541,7 +25540,7 @@ terav,tərav
 erave,əravə
 ravet,ravət
 ebi-e,əbi-e
-bi-es,bi-es
+bi-es,bi-əs
 i-est,i-est
 -este,-este
 blasa,blaşa
@@ -25580,7 +25579,7 @@ elani,elanı
 Lexan,Lexan
 Mares,Mareş
 aresa,areşa
-resan,resan
+resan,reşan
 Laada,Laada
 Bet-A,Bet-A
 et-As,ət-As
@@ -25629,7 +25628,7 @@ Aviqa,Aviqa
 viqai,viqai
 iqail,iqail
 qaild,qaild
-Kilav,Kılav
+Kilav,Kilav
 uncus,üncüs
 ncusu,ncüsü
 Gesur,Geşur
@@ -25752,7 +25751,7 @@ erqii,ərqii
 rqiid,rqiid
 qiidi,qiidi
 iidir,iidir
-bbasi,bbasi
+bbasi,bbası
 liyar,liyar
 Pehle,Pəhlə
 hleva,hləva
@@ -26126,8 +26125,8 @@ sderl,sdərl
 katim,katım
 ilell,iləll
 lelle,ləllə
-lesdu,ləşdu
-esdur,əşdür
+lesdu,ləşdü
+esdur,əsdür
 urmax,urmax
 rasdu,raşdu
 asdur,aşdur
@@ -26165,7 +26164,7 @@ Agsta,Ağsta
 gstaf,ğstaf
 jetin,jetin
 suita,süita
-uitan,uıtan
+uitan,üitan
 lezgi,ləzgi
 kumik,kumık
 uitay,üitay
@@ -26388,7 +26387,7 @@ esuva,əsuva
 uvard,uvard
 varda,varda
 Namiq,Namiq
-eyeve,əyevə
+eyeve,eyevə
 nsult,nsult
 ultas,ultas
 ltasi,ltasi
@@ -26400,7 +26399,7 @@ faltl,faltl
 altla,altla
 ltlan,ltlan
 foto-,foto-
-oto-s,oto-ş
+oto-s,oto-s
 to-st,to-st
 o-ste,o-ste
 -sten,-sten
@@ -26661,7 +26660,7 @@ murgi,mürgi
 urgil,ürgil
 rgili,rgili
 giliy,giliy
-Zulum,Zulum
+Zulum,Zülüm
 adres,adres
 dresi,dresi
 olmiy,olmiy
@@ -27085,7 +27084,7 @@ oyany,oyany
 yanyi,yanyı
 anyir,anyır
 nyird,nyırd
-irdiz,ırdız
+irdiz,irdiz
 ildil,ildil
 -VHF-,-VHF-
 VHF-n,VHF-n
@@ -27143,7 +27142,7 @@ unuru,ünürü
 nuruk,nürük
 ukdea,ükdəa
 kdeal,kdəal
-ealim,əalim
+ealim,ealım
 rantl,rantl
 istrl,istrl
 yetsu,yətşü
@@ -27341,7 +27340,7 @@ nubsa,nubsa
 qlarl,qlarl
 vikto,vikto
 orina,orina
-rinal,rınal
+rinal,rinal
 lansl,lansl
 nslas,nslaş
 leyis,ləyiş
@@ -27872,7 +27871,7 @@ rcixa,rçixa
 b-qac,b-qac
 -qaca,-qaça
 lehim,lehim
-ehim-,əhim-
+ehim-,ehim-
 him-l,him-l
 im-le,im-lə
 m-lem,m-ləm
@@ -28125,11 +28124,11 @@ Filfi,Filfi
 ilfil,ilfil
 lfilc,lfilç
 filca,filça
-ilcay,ilcay
+ilcay,ilçay
 Tikan,Tikan
 anlic,anlıç
-nlica,nlıca
-licay,lıçay
+nlica,nlıça
+licay,liçay
 icaya,içaya
 Baale,Baale
 keruv,keruv
@@ -28193,9 +28192,9 @@ rvino,rvino
 Dosem,Döşəm
 semed,şəməd
 tebas,təbaş
-ebasi,əbaşi
+ebasi,əbası
 basir,basır
-irink,ırınk
+irink,irink
 rinki,rınkı
 nkine,nkinə
 yuxun,yuxun
@@ -28226,7 +28225,7 @@ hnele,hnələ
 agliy,ağlıy
 gliyd,ğlıyd
 rxura,rxura
-yisid,yişid
+yisid,yışıd
 npere,npere
 restl,rəstl
 estle,əştlə
@@ -28642,7 +28641,7 @@ qiqaq,qiqaq
 iopot,iopot
 opote,opote
 derim,derim
-unuzs,unuzs
+unuzs,ünüzs
 nuzsa,nuzsa
 uzsa-,uzsa-
 zsa-o,zsa-o
@@ -28660,7 +28659,7 @@ elinm,əlinm
 yaqua,yaqua
 aquar,aquar
 eopar,eopar
-Tolos,Toloş
+Tolos,Tolos
 olosl,olosl
 losla,losla
 Asiya,Asiya
@@ -29032,7 +29031,7 @@ Biler,Bilər
 kecic,keçic
 ecici,eçici
 erdem,ərdəm
-rdeml,rdəml
+rdeml,rdeml
 qanim,qanım
 humuz,humuz
 muzda,muzda
@@ -29089,7 +29088,7 @@ alimt,alimt
 limta,limta
 inint,ınınt
 ninte,nıntə
-intes,intəs
+intes,ıntes
 ntest,ntest
 welli,welli
 detid,dətid
@@ -29159,7 +29158,7 @@ e-olc,ə-ölç
 ede-e,edə-e
 de-ed,də-ed
 e-ede,ə-edə
-akele,akələ
+akele,akele
 Tel-A,Tel-A
 el-Av,el-Av
 l-Avi,l-Avi
@@ -29473,7 +29472,7 @@ as-ya,aş-ya
 s-yav,ş-yav
 -yava,-yava
 sozlu,sözlü
-sikil,sikil
+sikil,şikil
 Obali,Obalı
 mmedr,mmədr
 medrz,mədrz
@@ -29521,7 +29520,7 @@ dvatc,dvatç
 vatca,vatça
 atcat,atçat
 tcati,tçatı
-catiy,çatiy
+catiy,çatıy
 playi,playı
 dukan,dükan
 ukanl,ükanl
@@ -29587,7 +29586,7 @@ qapal,qapal
 pali-,palı-
 ali-a,alı-a
 li-ac,lı-ac
--aciq,-açıq
+-aciq,-acıq
 ylenc,ylənc
 lence,ləncə
 ovuzl,ovuzl
@@ -29689,7 +29688,7 @@ islav,islav
 slavs,slavs
 lavsk,lavsk
 avski,avski
-Nemir,Nəmir
+Nemir,Nemir
 irovi,irovi
 rovic,roviç
 ovic-,oviç-
@@ -29789,7 +29788,7 @@ Gullu,Güllü
 ullut,üllüt
 llute,llütə
 lutep,lütəp
-utepe,utepe
+utepe,ütəpə
 Caxir,Çaxır
 xirli,xırlı
 essey,eşşəy
@@ -29819,7 +29818,7 @@ h-cel,h-cəl
 celal,cəlal
 elall,əlall
 lalli,lallı
-temri,təmri
+temri,temri
 kodda,kodda
 oddan,oddan
 runer,rünər
@@ -30089,7 +30088,7 @@ talyo,talyo
 alyon,alyon
 rube-,rübə-
 ube-s,übə-s
-be-si,bə-si
+be-si,bə-sı
 e-sin,ə-sin
 -sina,-sına
 mi-in,mi-in
@@ -30123,7 +30122,7 @@ guzda,ğuzda
 tismi,tişmi
 Viran,Viran
 ncelt,ncəlt
-celtd,cəltd
+celtd,çəltd
 ltdik,ltdik
 lmurs,lmürs
 mursu,mursu
@@ -30482,7 +30481,7 @@ sanks,sanks
 anksi,anksi
 imdek,imdək
 oydun,oydun
-ydunu,ydunu
+ydunu,ydünü
 Kesil,Kəsil
 esils,əsils
 silse,silsə
@@ -30755,7 +30754,7 @@ muzle,müzlə
 eceyl,əcəyl
 ceyle,cəylə
 Pense,Pensə
-enser,enser
+enser,ensər
 qavra,qavra
 avram,avram
 vrama,vrama
@@ -31314,7 +31313,7 @@ id-mu,id-mü
 d-mur,d-mür
 -murs,-mürş
 mursi,mürşi
-ursid,urşid
+ursid,ürşid
 stad-,stad-
 tad-s,tad-ş
 ad-sa,ad-sa
@@ -31603,7 +31602,7 @@ aruli,aruli
 somxu,somxu
 omxur,omxur
 mxuri,mxuri
-asuru,asuru
+asuru,aşuru
 uruli,uruli
 surya,sürya
 uryan,üryan
@@ -31715,7 +31714,7 @@ rtlat,rtlat
 tlatm,tlatm
 barit,barıt
 fitil,fitil
-hukum,hüküm
+hukum,hükum
 ukume,ükûme
 edcec,edcəc
 dcece,dcəcə
@@ -31751,7 +31750,7 @@ nanar,nanar
 kubok,kubok
 ubokl,ubokl
 bokla,bokla
-opunu,öpünü
+opunu,opunu
 igmak,ığmak
 gmako,ğmako
 makom,makom
@@ -31893,7 +31892,7 @@ igmiy,ığmiy
 gmiya,ğmiya
 Kendi,Kəndi
 nimis,nımış
-imiss,imişs
+imiss,ımişs
 misse,mişsə
 lasdu,laşdu
 alidu,alidu
@@ -32744,7 +32743,7 @@ bimin,bimin
 vlerd,vlərd
 ltlas,ltlaş
 xunas,xunas
-serdi,şərdi
+serdi,sərdi
 Nofel,Nofəl
 kilig,kılığ
 xecal,xəcal
@@ -32878,7 +32877,7 @@ ltuni,ltuni
 altun,altun
 denqa,dənqa
 tenqe,tenqe
-in-al,ın-al
+in-al,in-al
 n-alt,n-alt
 -altu,-altu
 abazi,abazi
@@ -32957,7 +32956,7 @@ odite,odite
 ditel,ditel
 poroy,poroy
 mestn,mestn
-estni,estni
+estni,estnı
 stniy,stnıy
 isxod,isxod
 sxodn,sxodn
@@ -33183,7 +33182,7 @@ qorta,qorta
 sdura,şdura
 yadal,yadal
 ariyd,arıyd
-riydi,rıydı
+riydi,riydi
 bibli,bibli
 bliya,bliya
 sifil,sifil
@@ -33249,8 +33248,8 @@ RMS-i,RMS-i
 evmek,evmək
 Kubok,Kubok
 uboku,uboku
-FIFA-,FİFA-
-IFA-n,İFA-n
+FIFA-,FIFA-
+IFA-n,IFA-n
 FA-ni,FA-nı
 onatl,onatl
 alibl,alibl
@@ -33296,13 +33295,13 @@ ntdir,ntdir
 siner,siner
 neraz,nəraz
 vereb,verəb
-rebil,rebil
+rebil,rəbil
 lbimi,lbimi
 onces,öncəs
 icrad,ıçrad
 cradi,çradı
 dalad,dalad
-korsa,korsa
+korsa,korşa
 orsan,orsan
 iyama,iyama
 mecis,məçis
@@ -33422,7 +33421,7 @@ vurru,vürrü
 urrun,ürrün
 rrunu,rrünü
 runuz,rünüz
-gencs,gencs
+gencs,gəncs
 encse,əncsə
 ncsen,ncsən
 Cyber,Cyber
@@ -34180,7 +34179,7 @@ osura,oşura
 nizat,nizat
 qotik,qotik
 slubd,slubd
-be-le,be-lə
+be-le,bə-lə
 uduqc,uduqc
 oluyo,oluyo
 luyor,luyor
@@ -34188,7 +34187,7 @@ anims,anıms
 nimsi,nımsı
 imsiy,ımsıy
 msiyo,msıyo
-siyor,sıyor
+siyor,şiyor
 iyord,ıyord
 yordu,yordu
 isadc,isadç
@@ -34220,9 +34219,9 @@ anazl,anazl
 nazli,nazlı
 anemi,anəmi
 nemiy,nemiy
-urekg,ürəkg
-rekge,rekge
-ekget,əkget
+urekg,urekg
+rekge,rəkge
+ekget,ekget
 kgetm,kgetm
 bayil,bayıl
 unyam,ünyam
@@ -34316,7 +34315,7 @@ abdir,abdır
 Dasta,Dasta
 tutsa,tutsa
 utsaq,utsaq
-oldig,öldig
+oldig,oldığ
 Tatya,Tatya
 atyan,atyan
 Aqseq,Aqsəq
@@ -34692,7 +34691,7 @@ udeci,udəçi
 solcu,solçu
 genal,genal
 enalo,enalo
-panir,panır
+panir,panir
 niran,niran
 irani,iranı
 kunun,kunun
@@ -34721,7 +34720,7 @@ ebe-m,əbə-m
 be-mu,bə-mü
 Super,Super
 kb-di,kb-dı
-b-dir,b-dır
+b-dir,b-dir
 nisiy,nisiy
 siyla,sıyla
 sokdu,sökdü
@@ -34920,8 +34919,8 @@ lumuz,lumuz
 yolud,yolud
 oludu,oludu
 Nazal,Nazal
-lukok,lukok
-ukoko,ukoko
+lukok,lükok
+ukoko,ükoko
 kokor,kokor
 okort,okort
 korti,korti
@@ -35410,7 +35409,7 @@ eskov,eskov
 ovlam,ovlam
 vlama,vlama
 stiqc,stıqç
-tiqca,tıqça
+tiqca,tıqca
 iqcal,ıqcal
 qcala,qcala
 tukle,tüklə
@@ -35688,7 +35687,7 @@ atiii,atıiı
 tiiin,tıiın
 anikl,anikl
 dirss,dirşş
-irsse,irşşə
+irsse,irsşe
 rsse-,rşşə-
 sse-s,şşə-s
 se-si,şə-si
@@ -36033,7 +36032,7 @@ Zavda,Zavda
 avday,avday
 iledi,ilədi
 Uzunu,Üzünü
-yanki,yankı
+yanki,yanki
 Eurov,Eurov
 urovi,urovi
 rovis,rovis
@@ -36073,7 +36072,7 @@ Helim,Həlim
 kkurl,kkürl
 kurle,kürlə
 yekte,yektə
-sdili,şdılı
+sdili,şdili
 lirlm,lırlm
 irlma,ırlma
 rlmal,rlmal
@@ -36118,7 +36117,7 @@ Srebr,Srebr
 rebre,rebre
 ebren,ebren
 breni,breni
-renis,rəniş
+renis,renis
 enisa,enisa
 inenl,inənl
 Arvad,Arvad
@@ -36454,7 +36453,7 @@ tahaa,tahaa
 ahaac,ahaaç
 haaci,haaçı
 aacic,aaçıc
-acici,aciçi
+acici,açıcı
 cicid,çicid
 14-15,14-15
 sseld,sseld
@@ -36557,7 +36556,7 @@ asike,asıkə
 ikesi,ıkəsi
 onik-,onik-
 nik-r,nik-r
-ik-re,ik-rə
+ik-re,ik-re
 k-req,k-rəq
 -reqs,-rəqs
 Ishak,İshak
@@ -36891,7 +36890,7 @@ ANASI,ANASI
 Imamz,İmamz
 mamza,mamza
 amzad,amzad
-Fotos,Fotos
+Fotos,Fotoş
 525-c,525-c
 118-1,118-1
 18-15,18-15
@@ -37024,7 +37023,7 @@ akovd,akovd
 kovda,kovda
 Taney,Taney
 neyev,neyev
-eyevd,əyevd
+eyevd,eyevd
 ezmed,ezməd
 zmede,zmədə
 Dosto,Dosto
@@ -37167,7 +37166,7 @@ amcig,amcığ
 mciga,mcığa
 Adria,Adria
 driat,driat
-riati,riatı
+riati,riati
 iatik,iatik
 siqim,siqim
 iqimi,iqimi
@@ -37594,9 +37593,9 @@ MODEL,MODEL
 ODELI,ODELİ
 erlis,erliş
 KURIK,KURİK
-URIKU,URİKU
+URIKU,URIKU
 RIKUL,RIKUL
-IKULU,İKULU
+IKULU,IKULU
 KULUM,KULUM
 Takso,Takso
 akson,akson
@@ -37861,7 +37860,7 @@ birar,birar
 torta,torta
 ortar,ortar
 besar,beşar
-altis,altıs
+altis,altış
 ltisa,ltışa
 nizla,nızla
 azaxl,azaxl
@@ -38094,7 +38093,7 @@ yikse,yiksə
 unend,ünənd
 ilahe,ilahə
 Artem,Artem
-rtemi,rtemi
+rtemi,rtəmi
 temid,temid
 emida,emida
 idani,idanı
@@ -38303,7 +38302,7 @@ ghes',ghes’
 hes'u,hes’u
 es'un,es’un
 evesd,əvəsd
-vesde,vəsdə
+vesde,veşdə
 28-ci,28-ci
 narel,narəl
 basta,başta
@@ -38454,7 +38453,7 @@ etnim,ətnim
 tnimi,tnimi
 Geced,Gecəd
 Lumin,Lümin
-umine,umine
+umine,ümine
 mineu,mineu
 ineux,ineux
 reatl,reatl
@@ -38585,7 +38584,7 @@ ladas,ladas
 Visen,Visen
 isent,isent
 sente,sente
-simdi,şımdı
+simdi,simdi
 Enrik,Enrik
 nrike,nrike
 Movle,Mövlə
@@ -38626,7 +38625,7 @@ mmetl,mmətl
 efon-,efon-
 fon-t,fon-t
 on-te,on-te
-n-tel,n-tel
+n-tel,n-təl
 loqum,loqum
 oqumd,oqumd
 qumda,qumda
@@ -39057,7 +39056,7 @@ ketid,kətid
 nendo,nendo
 endor,endor
 ndorf,ndorf
-Serfi,Serfi
+Serfi,Sərfi
 erfit,erfit
 rfiti,rfiti
 fitik,fitik
@@ -39347,7 +39346,7 @@ ZMM-n,ZMM-n
 MM-ni,MM-ni
 ianel,ianəl
 Numay,Nümay
-ugras,uğras
+ugras,uğraş
 grasa,ğraşa
 Seker,Şəkər
 irniy,irniy
@@ -39424,7 +39423,7 @@ nsipc,nsipc
 sipce,sipcə
 rluga,rluğa
 lekta,lekta
-ektas,ektaş
+ektas,ektas
 ktasi,ktasi
 boyut,böyüt
 oyutd,öyütd
@@ -39481,7 +39480,7 @@ Tifil,Tifil
 sozuk,sözük
 ozuke,özüke
 zukec,zükeç
-ukece,ükəcə
+ukece,ükeçə
 agorm,agörm
 d-san,d-san
 Defel,Dəfəl
@@ -40199,7 +40198,7 @@ Selem,Şelem
 eleml,ələml
 Teqsi,Təqsi
 Borec,Börəç
-oreca,örəca
+oreca,örəça
 recal,rəçal
 ecala,ecala
 cokey,çökəy
@@ -40562,7 +40561,7 @@ angir,angir
 Batas,Bataş
 ataso,ataşo
 tasov,taşov
-asovu,asovu
+asovu,aşovu
 sovun,sovun
 dlikl,dlikl
 Mesud,Məsud
@@ -40646,7 +40645,7 @@ Prato,Prato
 devri,devri
 evrid,evrid
 vride,vridə
-evest,evest
+evest,əvest
 vesta,vesta
 gonle,gönlə
 onler,önlər
@@ -40809,7 +40808,7 @@ ikasv,ikaşv
 VERDI,VERDİ
 Atesk,Atəşk
 zdenk,zdənk
-denko,dənkö
+denko,denko
 enkon,enkon
 nkonu,nkonu
 onuld,önüld
@@ -40920,7 +40919,7 @@ umley,ümləy
 sahsa,şahşa
 ahsah,ahşah
 hsaha,hşaha
-sahal,sahal
+sahal,şahal
 halid,halid
 Sukko,Sukko
 ukkot,ukkot
@@ -41033,7 +41032,7 @@ bangu,bangu
 angul,angul
 nguly,nguly
 rdimu,rdimu
-dimuh,dimüh
+dimuh,dimuh
 imuha,imuha
 muham,muham
 uhame,uhame
@@ -41043,7 +41042,7 @@ medow,medow
 kuzey,kuzey
 kibri,kibri
 ibris,ıbrıs
-kirim,kirim
+kirim,kırım
 mahmu,mahmu
 ahmut,ahmut
 necde,necde
@@ -41273,7 +41272,7 @@ xpo-2,xpo-2
 025-e,025-ə
 imese,iməsə
 letes,lətəs
-etese,ətəşə
+etese,ətəsə
 xurda,xurda
 Axirk,Axırk
 xirke,xırkə
@@ -41361,7 +41360,7 @@ oapar,oapar
 oturl,oturl
 turlu,turlu
 ralma,ralma
-nmurs,nmurs
+nmurs,nmürs
 murse,mürsə
 qirxs,qırxs
 irxsi,ırxsı
@@ -41641,7 +41640,7 @@ niski,niski
 cokuk,çökük
 niskl,niskl
 iskli,iskli
-ekuld,əkuld
+ekuld,ekuld
 kulda,kulda
 cezbe,cəzbe
 ezbed,əzbed
@@ -41751,7 +41750,7 @@ yirir,yırır
 Qarag,Qarag
 aragu,aragü
 ragun,ragün
-agune,agünə
+agune,agüne
 Atamd,Atamd
 tamda,tamda
 geysi,geysi
@@ -42377,7 +42376,7 @@ ersed,ersed
 rsede,rsede
 sedes,şədəs
 Mariy,Mariy
-azisa,azışa
+azisa,azısa
 zisan,zısan
 isanm,ısanm
 dalgi,dalğı
@@ -42477,7 +42476,7 @@ orber,orber
 rbert,rbert
 Hofer,Hofer
 tebib,təbib
-eddiq,əddiq
+eddiq,eddiq
 Eller,Ellər
 atasa,atasa
 tasar,tasar
@@ -42600,7 +42599,7 @@ girti,ğırtı
 indac,ındac
 rsime,rsimə
 kasib,kasıb
-erted,ərtəd
+erted,ertəd
 rtede,rtədə
 zlens,zləns
 lense,lənsə
@@ -42614,7 +42613,7 @@ icqir,ıçqır
 cqira,çqıra
 rkles,rkləş
 usmay,uşmay
-olunc,ölünc
+olunc,olunc
 lunca,lunca
 Tehqi,Təhqi
 doze-,dözə-
@@ -42954,7 +42953,7 @@ ssenc,ssenc
 sence,səncə
 nceri,ncəri
 Messe,Messe
-sseng,şşəng
+sseng,sseng
 senge,səngə
 enger,əngər
 laved,lavəd
@@ -42972,7 +42971,7 @@ rdero,rdero
 derob,derob
 Kritl,Kritl
 ritli,ritli
-itlil,itlil
+itlil,ıtlıl
 qarin,qarın
 arinq,arınq
 rinqu,rınqu
@@ -42982,7 +42981,7 @@ edibi,ədibi
 Serur,Şərur
 elilk,əlilk
 lilke,lilkə
-ilken,ilken
+ilken,ilkən
 lkend,lkənd
 QLOBA,QLOBA
 LOBAL,LOBAL
@@ -43011,7 +43010,7 @@ xbuca,xbuca
 19.10,19.10
 9.10.,9.10.
 i-mes,i-məs
--mese,-meşə
+-mese,-məsə
 drede,drədə
 sagib,şağıb
 agibu,ağıbü
@@ -43019,7 +43018,7 @@ gibud,ğıbüd
 ibudc,ıbüdc
 dceli,dcəli
 ecmir,eçmir
-cmirs,çmırs
+cmirs,çmirs
 MS-li,MS-li
 S-lik,S-lik
 hrand,hrand
@@ -43128,7 +43127,7 @@ Mysti,Mysti
 veget,veget
 egeta,egeta
 getas,getas
-cille,çillə
+cille,cillə
 lleme,lləmə
 Behlu,Bəhlu
 sefey,səfəy
@@ -43240,7 +43239,7 @@ onoml,onoml
 nomla,nomla
 siqen,siqən
 Rende,Rende
-ensek,ənsək
+ensek,ensək
 tevek,təvək
 evekk,əvəkk
 vekku,vəkkü
@@ -43418,7 +43417,7 @@ likti,likti
 iktir,iktir
 ktric,ktric
 trice,triçe
-rices,riçes
+rices,rices
 icest,içest
 cestv,çestv
 estvo,estvo
@@ -43759,8 +43758,8 @@ hesar,həşar
 esara,əşara
 sarat,şarat
 safta,şafta
-ivriq,ivriq
-vriql,vrıql
+ivriq,ıvrıq
+vriql,vriql
 mlers,mlərs
 tekzi,təkzi
 ekzib,əkzib
@@ -43901,7 +43900,7 @@ Sadiy,Sadıy
 Termi,Termi
 exind,əxind
 kufte,küftə
-colme,cölme
+colme,çölmə
 pitis,pitis
 bozar,bozar
 ozart,ozart
@@ -43925,7 +43924,7 @@ qcasi,qçası
 boyla,boyla
 oylan,oylan
 ylana,ylana
-talil,talil
+talil,talıl
 ortac,ortaç
 rtaci,rtaçı
 Beyre,Beyrə
@@ -43937,7 +43936,7 @@ xlisi,xlısı
 sini-,şini-
 ini-B,ını-B
 ni-Ba,ni-Ba
-i-Ban,ı-Ban
+i-Ban,i-Ban
 -Bani,-Banı
 Banic,Banıç
 anici,anıçi
@@ -43968,7 +43967,7 @@ imame,imamə
 mamet,mamət
 fetli,fətli
 omusl,omuşl
-imami,iмaмı
+imami,imamı
 olers,ölərs
 hiliy,hiliy
 rdins,rdıns
@@ -44234,7 +44233,7 @@ tesi',tesi’
 esi'n,esi’n
 si'ni,si’ni
 usub-,üşüb-
-sub-d,şüb-d
+sub-d,şub-d
 ub-di,üb-di
 b-din,b-din
 -dinm,-dinm
@@ -44481,7 +44480,7 @@ Get-g,Get-g
 ygulu,yğulu
 agiz-,ağız-
 giz-k,ğız-k
-iz-ku,ız-ku
+iz-ku,ız-kü
 z-kug,z-kuğ
 -kugu,-kuğu
 kuguz,kuğuz
@@ -44631,7 +44630,7 @@ asiq-,aşıq-
 siq-c,şıq-ç
 iq-ce,ıq-çə
 q-cen,q-çən
--ceng,-cəng
+-ceng,-çəng
 cenge,çəngə
 engel,əngəl
 alumi,alümi
@@ -44928,7 +44927,7 @@ i-Ave,i-Ave
 -Aven,-Aven
 Avent,Avent
 venti,venti
-entis,entis
+entis,əntis
 Merck,Merck
 Alcon,Alcon
 Chemi,Chemi
@@ -44993,7 +44992,7 @@ edelo,ədəlo
 10-mu,10-mü
 0-mur,0-mür
 -mura,-müra
-goriy,goriy
+goriy,göriy
 zecid,zəçid
 vaxit,vaxıt
 zaniy,zaniy
@@ -45265,7 +45264,7 @@ yiets,yiəts
 ietsi,iətsi
 tsiz-,tsiz-
 siz-s,siz-s
-iz-sa,iz-şa
+iz-sa,iz-sa
 z-sah,z-şah
 ahids,ahids
 hidsi,hidsi
@@ -45319,7 +45318,7 @@ ni-sa,ni-sa
 i-sad,i-sad
 -sade,-sadə
 ani-t,ani-t
-ni-te,ni-tə
+ni-te,ni-te
 i-ter,i-tər
 -terk,-tərk
 ani-l,ani-l
@@ -45328,7 +45327,7 @@ i-len,i-lən
 -leng,-ləng
 zune-,zünə-
 une-u,ünə-ü
-ne-uz,nə-üz
+ne-uz,nə-uz
 e-uzu,ə-üzü
 -uzun,-uzun
 IFA-y,İFA-y
@@ -45588,7 +45587,7 @@ d-din,d-din
 Tapar,Tapar
 e'tib,e'tib
 'tiba,'tiba
-liyey,liyəy
+liyey,liyey
 namag,namağ
 Ummul,Ümmül
 mmulb,mmülb
@@ -45656,7 +45655,7 @@ s-rel,s-rel
 elizl,əlizl
 ativi,ativi
 Qorki,Qorki
-orkin,orkin
+orkin,örkin
 Danko,Danko
 dalay,dalay
 Bibli,Bibli
@@ -46066,7 +46065,7 @@ imdak,ımdak
 Bogaz,Boğaz
 gazic,ğaziç
 dini-,dini-
-ini-e,ini-e
+ini-e,ini-ə
 ni-et,ni-et
 ferqe,fərqə
 lenek,lənək
@@ -46087,7 +46086,7 @@ onuls,önüls
 nulsu,nülsü
 turqi,turqi
 urqiy,urqiy
-rqiya,rqıya
+rqiya,rqiya
 qiyas,qiyas
 Duzel,Düzəl
 besde,beşdə
@@ -46470,7 +46469,7 @@ r-xir,r-xır
 ITN-d,İTN-d
 TN-de,TN-də
 xosdu,xoşdu
-xiran,xiran
+xiran,xıran
 gezer,gəzər
 ezers,əzərs
 zerse,zərsə
@@ -46544,7 +46543,7 @@ fdaki,fdakı
 alliy,alliy
 lliya,llıya
 amatd,amatd
-tdirl,tdirl
+tdirl,tdırl
 Salam,Salam
 aklay,aklay
 klayi,klayı
@@ -46635,7 +46634,7 @@ lorta,lorta
 Qoli-,Qoli-
 oli-b,oli-b
 li-bu,li-bu
-i-bud,i-büd
+i-bud,i-bud
 -budi,-budi
 isacu,ısacu
 sacuk,sacuk
@@ -46659,8 +46658,8 @@ stadl,stadl
 tadla,tadla
 Zerge,Zərgə
 gedeb,gədəb
-axtiy,axtiy
-xtiyl,xtıyl
+axtiy,axtıy
+xtiyl,xtiyl
 18.30,18.30
 12.30,12.30
 ilibs,ilibs
@@ -47099,7 +47098,7 @@ elies,əlıəs
 Seksi,Seksi
 qresd,qresd
 resde,resdə
-Donem,Dönem
+Donem,Dönəm
 Gelis,Gəliş
 lisim,lişim
 Yonet,Yönət
@@ -47118,7 +47117,7 @@ rslux,rslux
 sluxl,sluxl
 luxla,luxla
 olmax,olmax
-kecur,keçür
+kecur,keçur
 ecurm,eçürm
 curma,çürma
 ivall,ivall
@@ -47249,7 +47248,7 @@ e-tes,ə-təs
 hifez,hifəz
 ifezi,ifəzi
 fezim,fəzim
-ezimd,əzimd
+ezimd,əzımd
 nsuzs,nsuzs
 suzsa,suzsa
 uzsan,uzsan
@@ -47397,7 +47396,7 @@ abdal,abdal
 oroni,oroni
 udir-,üdir-
 dir-i,dir-i
-ir-is,ir-iş
+ir-is,ır-is
 r-isc,r-işç
 -isci,-işçi
 iyera,iyera
@@ -47487,8 +47486,8 @@ os-bo,oş-bo
 s-bos,ş-boş
 -bosu,-boşu
 bosun,boşun
-zamis,zamış
-amisu,amisu
+zamis,zamiş
+amisu,amişü
 misun,mişün
 #AnaD,#AnaD
 AnaDi,AnaDi
@@ -48544,7 +48543,7 @@ ksuze,ksüzə
 suzem,süzəm
 Notla,Notla
 ngirz,ngirz
-girza,girza
+girza,ğırza
 Nermi,Nərmi
 orcia,orcia
 Robin,Robin
@@ -48637,7 +48636,7 @@ sauri,sauri
 elipa,Əlipa
 lipas,lipaş
 ipasa,ipaşa
-nsero,nsəro
+nsero,nsero
 serov,sərov
 Vaxtl,Vaxtl
 axtli,axtlı
@@ -48773,7 +48772,7 @@ ilemm,iləmm
 lemmi,ləmmi
 turqa,turqa
 urqax,urqax
-inder,inder
+inder,indər
 ucdan,ucdan
 uzans,uzans
 zansi,zansı
@@ -48905,7 +48904,7 @@ cheye,cheyə
 idira,ıdıra
 diram,dıram
 bdehi,bdehi
-dehin,dehin
+dehin,dəhin
 izmim,izmim
 zmimi,zmimi
 piyle,piylə
@@ -48949,7 +48948,7 @@ siyib,şıyıb
 tekte,təktə
 kterk,ktərk
 vazil,vazil
-saci-,saçı-
+saci-,şaçı-
 aci-s,açı-s
 ci-sa,çı-sa
 i-saq,ı-saq
@@ -48996,7 +48995,7 @@ yyedi,yyədi
 Konde,Konde
 qenbe,qənbə
 osenm,öşənm
-ancan,ançan
+ancan,ancan
 ncani,ncanı
 Lemki,Lemki
 rimi-,rımı-
@@ -49062,7 +49061,7 @@ xmird,xmırd
 camid,camıd
 nmusa,nmuşa
 presi,presi
-resiy,resiy
+resiy,rəsiy
 mehve,məhve
 hvetm,hvetm
 Olsem,Ölsəm
@@ -49505,7 +49504,7 @@ Came-,Came-
 ame-e,ame-Ə
 me-el,me-Əl
 e-elh,e-Əlh
--elha,-Əlha
+-elha,-əlha
 elhan,əlhan
 latid,latıd
 umusa,umuşa
@@ -49909,8 +49908,8 @@ dinql,dinql
 guvec,güvəc
 gemuk,gəmük
 yemen,yəmən
-komle,komle
-omlek,omlek
+komle,kömlə
+omlek,ömlək
 enems,ənəmş
 nemse,nəmşə
 li-an,lı-an
@@ -50230,7 +50229,7 @@ ddedi,ddədi
 kekil,kəkil
 unuse,ünüşə
 urlun,urlun
-rlunu,rlünü
+rlunu,rlunu
 ulukd,ülükd
 zengu,zəngu
 engul,əngül
@@ -50283,7 +50282,7 @@ xiyer,xiyer
 kbasa,kbaşa
 basan,basan
 girlu,ğırlu
-irlux,irlux
+irlux,ırlux
 mermi,mərmi
 ermiy,ərmiy
 tfunu,tfünü
@@ -50347,7 +50346,7 @@ guden,güdən
 udenl,üdənl
 irafd,irafd
 rafdi,rafdı
-zuneq,zünəq
+zuneq,zunəq
 uneqa,ünəqa
 neqay,nəqay
 eqayi,eqayı
@@ -50381,7 +50380,7 @@ rkan-,rkan-
 kan-i,kan-i
 lamiy,lamiy
 amiye,amiye
-miyed,miyəd
+miyed,miyed
 ydliy,ydliy
 zekat,zəkat
 oleli,öləli
@@ -50457,7 +50456,7 @@ Nofda,Nofda
 ofdak,ofdak
 32-34,32-34
 Fatog,Fatog
-atogl,atoğl
+atogl,atogl
 ardac,ardac
 efsun,Əfsun
 blogu,blogu
@@ -50510,7 +50509,7 @@ aqall,aqall
 kasid,kasıd
 sxet-,sxet-
 xet-c,xet-c
-et-ca,ət-ça
+et-ca,et-ca
 t-cav,t-cav
 cavax,cavax
 avaxe,avaxe
@@ -50582,7 +50581,7 @@ nes-m,nes-m
 es-me,es-mə
 s-mer,s-mər
 bizse,bizsə
-enciy,ənciy
+enciy,ənçiy
 nciye,nciyə
 agir-,ağır-
 gir-a,ğır-a
@@ -50716,7 +50715,7 @@ udiyn,udiyn
 iyniy,iynıy
 instu,instu
 nstur,nstur
-sturm,sturm
+sturm,şturm
 urmen,ürmən
 rment,rment
 ehime,əhimə
@@ -51045,12 +51044,12 @@ sqand,sqand
 Arama,Arama
 XIII-,XIII-
 I-XIV,I-XIV
-cunuy,çünüy
+cunuy,çünuy
 unuyg,ünuyğ
 nuygu,nuyğu
 larib,larıb
 ariba,arıba
-ribag,rıbağ
+ribag,ribağ
 ibagl,ıbağl
 niteq,nitəq
 iteqd,itəqd
@@ -51071,7 +51070,7 @@ b-cat,b-çat
 geria,geria
 eriad,eriad
 riada,riada
-berme,bermə
+berme,berme
 cirde,çirdə
 cirts,çirts
 irtsi,irtsi
@@ -51323,7 +51322,7 @@ ri-oz,ri-öz
 i-ozl,i-özl
 cilie,çiliə
 ilier,iliər
-lieri,lıəri
+lieri,lieri
 ierin,ierin
 aspaz,aşpaz
 spazi,şpazı
@@ -51369,7 +51368,7 @@ li-Ku,li-Ku
 i-Kul,i-Kul
 -Kula,-Kula
 Kula-,Kula-
-ula-s,ula-s
+ula-s,ula-ş
 la-sv,la-şv
 a-svi,a-şvi
 -Kuli,-Kuli
@@ -51436,7 +51435,7 @@ ebbey,əbbey
 bbeyk,bbeyk
 anma-,anma-
 nma-q,nma-q
-ma-qi,ma-qı
+ma-qi,ma-qi
 a-qid,a-qid
 -qida,-qida
 Sevil,Sevil
@@ -51475,7 +51474,7 @@ san-s,şan-ş
 an-so,an-şö
 n-soh,n-şöh
 -sohr,-şöhr
-irims,irimş
+irims,ırıms
 rimsu,rımsu
 imsur,ımsür
 msure,msürə
@@ -51577,7 +51576,7 @@ enbiy,ənbiy
 nbiya,nbiya
 biya-,biya-
 iya-y,iya-y
-ya-yi,ya-yı
+ya-yi,ya-yi
 Beni-,Bəni-
 eni-I,əni-İ
 ni-Is,ni-İs
@@ -51804,7 +51803,7 @@ aker-,aker-
 ker-i,ker-i
 er-in,er-in
 Meddl,Meddl
-eddle,eddle
+eddle,əddlə
 Micha,Micha
 ichae,ichae
 chael,chael
@@ -51863,7 +51862,7 @@ riArt,riArt
 Epiku,Epikü
 pikur,pikür
 ikurc,ikürç
-kurcu,kürcü
+kurcu,kürçü
 Stois,Stois
 toist,toist
 opusl,öpüşl
@@ -52043,7 +52042,7 @@ idqor,idqor
 dqori,dqori
 hedim,hədim
 rumur,rumur
-umuru,umuru
+umuru,ümürü
 elirz,Əlirz
 lirza,lirza
 lsizd,lsizd
@@ -52133,7 +52132,7 @@ defor,defor
 eform,eform
 esriy,əşriy
 sriyy,şriyy
-riyet,riyet
+riyet,riyət
 kordu,kordu
 laldi,laldı
 rdana,rdana
@@ -52155,7 +52154,7 @@ x-nol,x-nol
 uncu-,üncü-
 ncu-k,ncü-k
 cu-ke,cü-ke
-u-kec,ü-keç
+u-kec,u-keç
 o-tex,o-tex
 15.16,15.16
 5.16.,5.16.
@@ -52171,7 +52170,7 @@ Blogg,Blogg
 logge,logge
 ogger,ogger
 arafi,arafi
-nmekt,nmekt
+nmekt,nməkt
 ekted,əktəd
 ktedi,ktedi
 23.05,23.05
@@ -52182,7 +52181,7 @@ rkced,rkcəd
 kcede,kcədə
 yler-,ylər-
 ler-r,lər-r
-er-ru,ər-rü
+er-ru,ər-ru
 r-ruh,r-ruh
 -ruhl,-ruhl
 dusek,düşək
@@ -52223,7 +52222,7 @@ gziml,ğzıml
 zimla,zımla
 uzvde,üzvdə
 zvden,zvdən
-sler-,şlər-
+sler-,slər-
 ler-g,lər-g
 er-ge,ər-gə
 aldiz,aldız
@@ -52477,7 +52476,7 @@ osili,osili
 bolgs,bolğş
 olgso,olğşo
 lgsoy,lğşoy
-xozey,xozəy
+xozey,xozey
 ozeys,ozəys
 zeyst,zəyst
 eystv,əystv
@@ -52579,7 +52578,7 @@ narsi,narsı
 bdulq,bdülq
 dulqa,dülqa
 ulqad,ülqad
-lqadi,lqadı
+lqadi,lqadi
 1353-,1353-
 353-1,353-1
 53-14,53-14
@@ -52729,7 +52728,7 @@ eketn,əketn
 ketno,ketno
 noslu,noslu
 lkesu,lkəşu
-kesun,kəşun
+kesun,kəşün
 imlei,imləi
 mleir,mləir
 leirn,ləirn
@@ -52754,7 +52753,7 @@ aciqc,açıqc
 ciqca,çıqca
 rtofl,rtofl
 toflu,toflu
-blinc,blinc
+blinc,blinç
 ehvea,əhvəa
 hveal,hvəal
 vealt,vəalt
@@ -52978,7 +52977,7 @@ Evinc,Evinc
 ererT,erərT
 rerTe,rərTƏ
 erTeL,ərTƏL
-rcedi,rcədi
+rcedi,rcedi
 irezl,irəzl
 ezlib,əzlib
 zliba,zliba
@@ -53172,7 +53171,7 @@ Novxa,Novxa
 ovxan,ovxan
 vxani,vxanı
 xaniy,xanıy
-brike,brike
+brike,brikə
 rasse,rässe
 asser,asser
 mayec,mayəç
@@ -53562,7 +53561,7 @@ akyay,akyay
 kyaya,kyaya
 hlile,hlilə
 nbehl,nbehl
-behle,bəhlə
+behle,behlə
 Tarme,Tarme
 rmenx,rmenx
 menxa,menxa
@@ -53616,7 +53615,7 @@ r139h,r139h
 9hash,9hash
 qelme,qəlmə
 Sekne,Şəkne
-Seken,Şekən
+Seken,Şəken
 Sekke,Şəkkə
 ekken,əkkən
 Europ,Europ
@@ -53691,7 +53690,7 @@ avbel,avbel
 uariN,uarıN
 ariNo,arıNo
 riNov,rıNov
-iNovr,iNovr
+iNovr,ıNovr
 998-j,998-j
 98-ji,98-ji
 yasis,yasıs
@@ -53901,7 +53900,7 @@ ehbem,əhbəm
 hbemi,hbəmi
 bemiz,bəmiz
 mizse,mizsə
-enins,ənins
+enins,enins
 insen,insən
 Yanan,Yanan
 ananb,ananb
@@ -53997,8 +53996,8 @@ qunlu,qunlu
 capal,çapal
 apala,apala
 palay,palay
-aya-c,aya-c
-ya-ca,ya-ca
+aya-c,aya-ç
+ya-ca,ya-ça
 a-cap,a-çap
 -capa,-çapa
 lxmag,lxmağ
@@ -54073,7 +54072,7 @@ revia,revia
 eviat,eviat
 adlay,adlay
 dlaya,dlaya
-ametk,amətk
+ametk,ametk
 metka,mətka
 etkah,ətkah
 tkahi,tkahı
@@ -54181,7 +54180,7 @@ salga,şalğa
 nsafa,nsafa
 biins,biins
 iinsa,iinsa
-sarva,sarva
+sarva,şarva
 lvarm,lvarm
 nvand,nvand
 3.1.7,3.1.7
@@ -54225,11 +54224,11 @@ Green,Green
 Keski,Kəski
 ilsey,ilsəy
 qarpi,qarpı
-ozuya,özüya
+ozuya,ozuya
 zuyaz,züyaz
 uyaza,üyaza
 peroy,peroy
-eroya,eroya
+eroya,əroya
 otosi,otosi
 tosin,tosin
 osint,osint
@@ -54504,7 +54503,7 @@ urgay,urğay
 rgaya,rğaya
 gayad,ğayad
 Yesan,Yeşan
-esana,eşana
+esana,əsana
 sanan,şanan
 leerl,ləərl
 eerle,əərlə
@@ -54679,7 +54678,7 @@ yazlu,yazlu
 azlux,azlux
 govhe,gövhə
 herdi,hərdi
-leldi,leldi
+leldi,ləldi
 eveti,əvəti
 orekx,örəkx
 rekxa,rəkxa
@@ -54770,7 +54769,7 @@ xalir,xalır
 5.4.8,5.4.8
 rtuna,rtuna
 aqaja,aqaja
-TS-ni,TŞ-nı
+TS-ni,TS-nı
 S-nin,S-nin
 Qutad,Qutad
 tadak,tadak
@@ -54780,7 +54779,7 @@ Kirsa,Kirsa
 Ilyum,İlyum
 lyumj,lyumj
 yumji,yumji
-umjin,ümjin
+umjin,umjin
 mjino,mjino
 jinov,jinov
 QIK-l,QİK-l
@@ -54915,7 +54914,7 @@ algon,algön
 lgond,lgönd
 qlerl,qlərl
 caric,çariç
-ricas,riças
+ricas,ricas
 Yekat,Yekat
 ekate,ekate
 kater,kater
@@ -54950,7 +54949,7 @@ pozsa,pozsa
 ozsan,ozsan
 zsani,zsanı
 qilsa,qılsa
-ilsan,ilşan
+ilsan,ılsan
 ndatl,ndatl
 Vilso,Vilso
 ilson,ilson
@@ -55011,7 +55010,7 @@ zdede,zdədə
 Baban,Baban
 degil,dəgil
 Hrist,Hrist
-ibanc,ibanc
+ibanc,ibanç
 banca,banca
 ysinl,ysınl
 kufrl,küfrl
@@ -55447,7 +55446,7 @@ deeyi,dəəyi
 eeyis,əəyiş
 eelav,əəlav
 lavee,lavəə
-aveel,avəəl
+aveel,aveel
 veele,vəələ
 barad,barad
 radee,radəə
@@ -55701,7 +55700,7 @@ Sifet,Sifət
 211.1,211.1
 11.1.,11.1.
 .1.1.,.1.1.
-cinir,cinir
+cinir,çinir
 edarm,ədarm
 xsars,xşars
 Iylen,İylən
@@ -55944,7 +55943,7 @@ tcasi,tcası
 tay-f,tay-f
 ay-fa,ay-fa
 y-fas,y-fas
--fasi,-fası
+-fasi,-faşi
 lnis-,lnis-
 nis-K,nis-K
 is-Ke,is-Kə
@@ -56040,7 +56039,7 @@ heven,heven
 eveng,əvəng
 vengd,vəngd
 oyerd,öyərd
-Genda,Genda
+Genda,Gənda
 endab,əndab
 Tezek,Təzək
 ezeke,əzəkə
@@ -56084,7 +56083,7 @@ Cesur,Cəsur
 orene,örənə
 uhurd,ühurd
 hurda,hurda
-beddu,bəddü
+beddu,bəddu
 eddul,əddül
 ddula,ddula
 dulat,dülat
@@ -56097,7 +56096,7 @@ Yaxci,Yaxçı
 caydi,çaydı
 ltdig,ltdığ
 ayene,ayənə
-eneds,ənədş
+eneds,ənəds
 nedsi,nədsi
 23.2.,23.2.
 3.2.3,3.2.3
@@ -56219,7 +56218,7 @@ dlula,dlula
 Anaml,Anaml
 namli,namlı
 Lehav,Lehav
-ehavl,əhavl
+ehavl,ehavl
 havli,havlı
 Naftu,Naftu
 aftuh,aftuh
@@ -56276,7 +56275,7 @@ RAFIN,RAFIN
 AFINI,AFINI
 Veele,Vəəle
 eeley,əəley
-leyku,leyku
+leyku,leykü
 eykum,eykum
 ykum-,yküm-
 kum-e,küm-ə
@@ -56482,7 +56481,7 @@ erdic,ərdic
 qicir,qıcır
 icirt,içirt
 irtiy,ırtıy
-rtiyl,rtıyl
+rtiyl,rtiyl
 tiyla,tıyla
 qopan,qopan
 arpil,arpıl
@@ -56511,7 +56510,7 @@ Masao,Masao
 asaok,asaok
 saoki,saoki
 Okasi,Okasi
-kasim,kasim
+kasim,kasım
 starr,starr
 tarri,tarri
 night,night
@@ -56559,7 +56558,7 @@ Congr,Congr
 ongre,ongre
 ngres,ngres
 dis-m,dis-m
-s-mes,ş-məs
+s-mes,s-məs
 -mesl,-məsl
 SIM-k,SIM-k
 IM-ka,IM-ka
@@ -56579,7 +56578,7 @@ ecinc,eçinc
 cince,çincə
 incey,incəy
 Cildi,Çıldı
-Bedre,Bedre
+Bedre,Bədrə
 Azgur,Azğur
 Hirti,Hırtı
 cecer,cecer
@@ -56648,7 +56647,7 @@ tnele,tnələ
 irams,ırams
 renem,rənəm
 rcels,rçəls
-celsi,cəlsi
+celsi,çəlsi
 katak,katak
 atakl,atakl
 takli,takli
@@ -56768,7 +56767,7 @@ farkt,farkt
 goruy,goruy
 eelik,əəlik
 suvaq,suvaq
-kmisi,kmişi
+kmisi,kmisi
 heroi,heroi
 eroin,eroin
 Coxum,Çoxum
@@ -56912,7 +56911,7 @@ estax,əstax
 staxa,staxa
 eyisl,əyişl
 pecat,peçat
-birse,birse
+birse,birşe
 rtird,rtırd
 elibs,əlibs
 libse,libsə
@@ -57115,7 +57114,7 @@ t-teh,t-təh
 -tehv,-təhv
 qaraq,qaraq
 araqa,araqa
-agriq,ağriq
+agriq,ağrıq
 griqa,ğrıqa
 qirqo,qırqo
 irqov,ırqov
@@ -57257,7 +57256,7 @@ idial,idial
 Xosbu,Xoşbu
 osbul,oşbul
 sbula,şbula
-vesfe,vəsfe
+vesfe,vəsfə
 esfed,əsfed
 sfedi,şfedi
 fedic,fedic
@@ -57268,7 +57267,7 @@ londa,londa
 ylesm,yləşm
 ssubu,ssübü
 subun,sübün
-Humay,Hümay
+Humay,Humay
 xtaro,xtaro
 axin-,axın-
 xin-u,xın-u
@@ -57654,7 +57653,7 @@ qelin,qəlin
 konde,konde
 densa,densa
 riyiq,rıyıq
-apuri,apuri
+apuri,apurı
 purim,purım
 223-c,223-c
 etmvk,etmvk
@@ -57716,7 +57715,7 @@ ariAz,arıAz
 riAze,rıAzə
 iAzer,ıAzər
 0-ci-,0-ci-
--ci-1,-ci-1
+-ci-1,-cı-1
 ci-19,cı-19
 i-193,i-193
 -1930,-1930
@@ -57834,7 +57833,7 @@ i-ger,i-ger
 erike,ərikə
 riken,rikən
 otegu,ötəgü
-tegun,tegün
+tegun,təgün
 olind,olind
 birig,birig
 irigu,irigü
@@ -57871,7 +57870,7 @@ Hasta,Hasta
 stane,stane
 jener,jener
 nerat,nerat
-torle,torlə
+torle,torle
 orler,orler
 litre,litrə
 itrel,itrel
@@ -57967,7 +57966,7 @@ unabe,unabə
 gicis,giciş
 icisd,icişd
 cisdi,çışdı
-cisir,çışır
+cisir,cişir
 Xetti,Xətti
 kinem,kinem
 Ikavo,İkavo
@@ -58166,7 +58165,7 @@ rin-s,rin-s
 in-se,in-sə
 n-sen,n-sən
 nin-q,nin-q
-in-qe,in-qə
+in-qe,ın-qə
 n-qeb,n-qəb
 bulu-,bulu-
 ulu-a,ulu-a
@@ -58206,7 +58205,7 @@ l-Qai,l-Qai
 Qaide,Qaidə
 Tahri,Tahri
 ahrir,ahrir
-skesd,şkəsd
+skesd,skəsd
 -sani,-sanı
 uruns,ürüns
 Ailem,Ailem
@@ -58339,7 +58338,7 @@ yoxar,yoxar
 oxari,oxari
 aki-Q,akı-Q
 ki-Qe,kı-Qə
-i-Qeb,ı-Qəb
+i-Qeb,i-Qəb
 -Qebe,-Qəbə
 5.878,5.878
 lants,lantş
@@ -58349,7 +58348,7 @@ tsaft,tşaft
 tebit,təbit
 ebite,əbitə
 galig,ğalığ
-dinog,dinoğ
+dinog,dınoğ
 inogl,ınoğl
 nogli,noğli
 bulka,bulka
@@ -58481,9 +58480,9 @@ vadac,vadac
 Yaraq,Yaraq
 Farah,Farah
 rgahl,rgahl
-llu-c,llü-ç
-lu-ci,lu-çi
-u-cic,u-çiç
+llu-c,llu-ç
+lu-ci,lü-çi
+u-cic,ü-çiç
 evetl,əvətl
 booki,booki
 ookin,ookin
@@ -58670,7 +58669,7 @@ ferar,fərar
 raril,raril
 golud,gölüd
 Amili,Amili
-keici,kəiçi
+keici,keiçi
 eicir,eiçir
 tinqs,tinqs
 lhama,lhama
@@ -58700,7 +58699,7 @@ qtima,qtima
 sqcil,şqçil
 Memer,Məmər
 galay,ğalay
-ye-ic,yə-ic
+ye-ic,ye-iç
 e-icm,ə-icm
 -icma,-icma
 ivanq,ıvanq
@@ -58894,7 +58893,7 @@ obock,oboçk
 bocka,boçka
 flutu,flutu
 nsaro,nsaro
-sarov,sarov
+sarov,şarov
 Ahisq,Ahısq
 hisqa,hısqa
 Efrat,Efrat
@@ -58937,7 +58936,7 @@ ankau,ankau
 nkaus,nkaus
 kausk,kausk
 auska,auska
-uskas,uskas
+uskas,uşkas
 yevad,yevad
 sanim,sanım
 Incel,İncəl
@@ -59249,7 +59248,7 @@ nqrad,nqrad
 7-28-,7-28-
 -28-d,-28-d
 tankl,tankl
-sinid,şınıd
+sinid,sınıd
 tekel,təkəl
 lduzc,lduzç
 duzcu,duzçu
@@ -59272,13 +59271,13 @@ puxov,puxov
 sdirl,şdirl
 ilaxi,ilaxı
 laxir,laxır
-rinap,rınap
+rinap,rinap
 inapa,inapa
 napar,napar
 ilisa,ılışa
 vuleb,vüləb
 ulebu,üləbu
-lebur,ləbür
+lebur,ləbur
 ebura,əbura
 ssene,ssənə
 sinit,sinit
@@ -59450,7 +59449,7 @@ SMAGI,ŞMAĞI
 XAHIS,XAHİŞ
 Klivl,Klivl
 livle,livle
-ivlen,ivlen
+ivlen,ivlən
 vlend,vlənd
 kelil,kəlil
 Anbar,Anbar
@@ -59552,7 +59551,7 @@ ttent,ttent
 entio,entio
 ntion,ntion
 ntere,ntere
-desir,dəşir
+desir,desir
 actio,actio
 teri-,təri-
 eri-n,eri-n
@@ -59737,7 +59736,7 @@ opuri,opuri
 puris,puris
 izilq,ızılq
 zilqa,zılqa
-ilqay,ılqay
+ilqay,ilqay
 lqaya,lqaya
 sugot,sugöt
 ugotu,ugötü
@@ -59768,7 +59767,7 @@ cikan,çikan
 Godiv,Godiv
 odiva,odiva
 Sonac,Sonac
-onaca,onaça
+onaca,onaca
 sheri,şhəri
 herif,hərif
 eriff,eriff
@@ -59966,7 +59965,7 @@ rtlam,rtlam
 tlama,tlama
 nis-b,nış-b
 is-be,is-bə
-s-bet,s-bət
+s-bet,ş-bet
 -bete,-bətə
 kozel,közəl
 sulul,sulul
@@ -60009,7 +60008,7 @@ smete,smətə
 Strai,Strai
 trait,trait
 raits,raits
-rmiss,rmişs
+rmiss,rmışs
 Reuel,Reuel
 eueli,eueli
 Naxat,Naxat
@@ -60032,7 +60031,7 @@ Be'zi,Bə'zi
 e'zil,ə'zil
 'zile,'zilə
 dozub,dözüb
-ozubl,ozubl
+ozubl,özübl
 zuble,züblə
 momen,momen
 oment,oment
@@ -60219,7 +60218,7 @@ oclen,öclən
 Berge,Berge
 maess,maəss
 aessi,aəssi
-Ifade,İfade
+Ifade,İfadə
 ettig,ettiğ
 ttigi,ttiği
 tigim,tiğim
@@ -60227,8 +60226,8 @@ buyuk,büyük
 salgi,salgı
 algin,alğın
 astal,astal
-talik,talik
-hizli,hızlı
+talik,talık
+hizli,hizli
 kapla,kapla
 aplam,aplam
 Avarc,Avarç
@@ -60246,10 +60245,10 @@ ubsli,ubşli
 bslik,bşlik
 slika,şlika
 aal-S,aal-S
-al-Sa,al-Şa
+al-Sa,al-Sa
 l-Sal,l-Şal
 -Sali,-Şali
-Salis,Salis
+Salis,Şaliş
 tofla,tofla
 yupyu,yupyu
 upyum,upyum
@@ -60358,7 +60357,7 @@ ulene,ülənə
 ene-s,ənə-s
 ne-su,nə-sü
 e-sul,ə-sül
--sule,-sülə
+-sule,-süle
 eklis,əklis
 klisi,klisi
 vreld,vrəld
@@ -60370,7 +60369,7 @@ ntlas,ntlaş
 etici,ətici
 Meksi,Meksi
 Hacil,Hacıl
-ekizd,əkizd
+ekizd,ekizd
 Osora,Oşora
 Entel,Entel
 Hindd,Hindd
@@ -60389,7 +60388,7 @@ smezd,şməzd
 Clube,Clube
 luber,luber
 uber-,uber-
-ber-e,bər-ə
+ber-e,ber-ə
 gecii,gəciı
 UDM-n,ÜDM-n
 DM-ne,DM-nə
@@ -60440,7 +60439,7 @@ minqi,minqi
 4G-de,4G-də
 G-den,G-dən
 tikim,tikim
-yelet,yələt
+yelet,yelət
 tacla,tacla
 Xanco,Xanço
 ancob,ançob
@@ -60535,7 +60534,7 @@ e-mes,ə-məs
 Gurze,Gürzə
 urzel,ürzəl
 rzele,rzələ
-gisid,gisid
+gisid,ğısıd
 ererm,erərm
 72-ci,72-ci
 muvav,müvav
@@ -60631,7 +60630,7 @@ racet,racət
 aqrot,aqrot
 qrote,qrote
 "25,00","25,00"
-ontas,ontaş
+ontas,ontas
 ntasd,ntaşd
 50-ye,50-yə
 Mulah,Mülah
@@ -60678,7 +60677,7 @@ eynir,eynir
 yniri,yniri
 tepme,təpmə
 catxi,catxi
-ogurt,ogurt
+ogurt,oğurt
 cecil,çeçil
 tiliz,tiliz
 yyend,yyənd
@@ -60763,7 +60762,7 @@ ozito,ozito
 zitor,zitor
 alirm,alırm
 demeg,deməg
-emegi,eməgi
+emegi,əməği
 megin,məgin
 kemho,kəmhö
 urgud,urğud
@@ -60840,7 +60839,7 @@ eimle,əımlə
 natic,natic
 atice,atiçe
 eveli,eveli
-veldi,veldi
+veldi,vəldi
 kvato,kvato
 aki-N,akı-N
 ki-No,kı-No
@@ -61073,7 +61072,7 @@ ondem,öndəm
 ndems,ndəms
 demsi,dəmsi
 kocun,köçün
-ocunu,oçunu
+ocunu,öçünü
 senyo,senyo
 enyor,enyor
 dassa,daşsa
@@ -61101,7 +61100,7 @@ linne,linnə
 innen,innən
 qiyil,qıyıl
 iyilm,ıyılm
-ezray,Əzray
+ezray,əzray
 zrayi,zrayı
 rayii,rayıı
 ayiil,ayııl
@@ -61226,7 +61225,7 @@ Yurd-,Yurd-
 raney,ranəy
 Saman,Şaman
 uclun,üclün
-clunu,clunu
+clunu,clünü
 vekto,vekto
 ktrli,ktrli
 ecova,əcova
@@ -61410,7 +61409,7 @@ konus,konuş
 nusur,nuşur
 Her-h,Hər-h
 Yaves,Yaveş
-Let's,Let's
+Let's,Let’s
 Gobus,Gobus
 xurum,xurum
 Rentg,Rentg
@@ -61505,7 +61504,7 @@ ovuda,ovuda
 balim,balım
 rabim,rabım
 sudum,südüm
-udumu,üdümü
+udumu,udumu
 dahil,dahil
 ebsim,əbsim
 bsimd,bsimd
@@ -61782,7 +61781,7 @@ emaet,əmaət
 maete,maətə
 omurc,ömürç
 odunc,odunç
-sucud,suçud
+sucud,şucud
 urna-,urna-
 rna-q,rna-q
 a-qav,a-qav
@@ -61822,7 +61821,7 @@ utela,utela
 telah,telah
 Taxan,Taxan
 siyae,siyaə
-iyaet,iyaet
+iyaet,iyaət
 yaetc,yaətç
 aetci,aətçi
 ekatc,əkatç
@@ -61865,7 +61864,7 @@ eyqub,eyqub
 yquba,yquba
 qubad,qubad
 Ogede,Ögede
-gedey,gedey
+gedey,gedəy
 eyyas,əyyaş
 yyasl,yyaşl
 BILIK,BİLİK
@@ -62066,7 +62065,7 @@ inoss,inoss
 nosse,nosse
 ossen,ossen
 naril,naril
-uelif,üəlìf
+uelif,üəlif
 elifi,əlìfì
 Unlim,Unlim
 nlimi,nlimi
@@ -62083,7 +62082,7 @@ okovu,okovu
 Conta,Conta
 ontac,ontac
 ntact,ntact
-qicim,qıçım
+qicim,qiçim
 axils,axıls
 xilsa,xılsa
 Santo,Santo
@@ -62139,7 +62138,7 @@ nideq,nidəq
 idequ,idəqu
 dequr,dəqur
 equrm,əqurm
-emmas,əmmas
+emmas,emmas
 971-1,971-1
 71-19,71-19
 1-197,1-197
@@ -62258,7 +62257,7 @@ estiy,estiy
 Evimi,Evimi
 usdug,uşduğ
 sdugu,şduğu
-tinid,tınıd
+tinid,tinid
 inida,ınıda
 ptisi,ptisi
 xus-d,xus-d
@@ -62353,7 +62352,7 @@ teala,təala
 sebku,şəbkü
 ebkul,əbkul
 bkula,bküla
-kulah,külah
+kulah,kulah
 Memle,Memlə
 Sujet,Süjet
 Yohan,Yohan
@@ -62446,8 +62445,8 @@ zluma,zluma
 ultuy,ultuy
 ltuya,ltuya
 asa-a,aşa-a
-sa-as,şa-aş
-a-asa,a-asa
+sa-as,sa-as
+a-asa,a-aşa
 atorq,atorq
 torqa,torqa
 patio,patio
@@ -62531,7 +62530,7 @@ ikise,ikişə
 kiser,kişər
 dokuz,dokuz
 okuza,okuza
-kuzar,küzar
+kuzar,kuzar
 rimsa,rımsa
 imsar,imsar
 berer,berər
@@ -62761,7 +62760,7 @@ j-oql,j-oql
 -oqli,-oqlı
 Saxla,Saxla
 Xavas,Xavas
-avass,avaşs
+avass,avass
 vassi,vassi
 ssiny,ssiny
 sinya,sinya
@@ -62798,7 +62797,7 @@ obusd,obusd
 Sevna,Şevna
 evnan,evnan
 vnani,vnanı
-temil,təmil
+temil,temil
 Deyan,Dəyan
 oyced,öyçəd
 ycede,yçədə
@@ -63039,7 +63038,7 @@ bbetd,bbətd
 kisis,kişis
 sisid,sisid
 yilis,yiliş
-Minne,Minne
+Minne,Minnə
 innes,innes
 nneso,nneso
 nesot,nesot
@@ -63065,7 +63064,7 @@ ulute,ulute
 Ordun,Ordun
 duyus,düyüs
 uyusc,uyusc
-rsete,rşetə
+rsete,rsətə
 Uzurs,Üzürs
 otami,otami
 102.8,102.8
@@ -63480,7 +63479,7 @@ ursiv,ursiv
 uqdak,uqdak
 Ezran,Ezran
 zrani,zranı
-Yeter,Yeter
+Yeter,Yetər
 Mered,Mered
 Yalon,Yalon
 ozmay,ozmay
@@ -63509,7 +63508,7 @@ orumj,örümj
 rumje,rümjə
 umjek,ümjək
 petek,pətək
-sogul,soğul
+sogul,sögül
 ogulc,oğulc
 gulca,ğulca
 ulcan,ulcan
@@ -63630,7 +63629,7 @@ mavri,mavrı
 avri-,avrı-
 vri-p,vrı-p
 i-pis,ı-pis
--pisi,-pisi
+-pisi,-pişi
 mayif,mayıf
 ayif-,ayıf-
 yif-s,yıf-ş
@@ -63736,7 +63735,7 @@ Huntu,Huntü
 mai-p,mai-p
 ai-pe,ai-pe
 duhar,dühar
-uharl,üharl
+uharl,uharl
 harla,harla
 Haydn,Haydn
 Motsa,Motsa
@@ -63752,7 +63751,7 @@ qrosu,qrosu
 eks-k,əks-k
 ks-ke,ks-kə
 s-kes,s-kəş
-tande,tande
+tande,tandə
 ratep,ratəp
 atepe,atəpə
 Xosqe,Xoşqə
@@ -63858,7 +63857,7 @@ taday,taday
 abstr,abstr
 texna,texna
 Kadaq,Kadaq
-adaqi,adaqı
+adaqi,adaqi
 daqis,daqis
 aqis-,aqis-
 Kadak,Kadak
@@ -63867,7 +63866,7 @@ dakli,daklı
 akli-,aklı-
 kli-Y,klı-Y
 li-Ya,lı-Ya
-i-Yas,ı-Yas
+i-Yas,i-Yaş
 -Yasa,-Yasa
 Yasak,Yasak
 asakl,asakl
@@ -63889,7 +63888,7 @@ Tehle,Təhlə
 hleli,hləli
 ickim,içkim
 oxota,oxota
-likor,likör
+likor,likor
 ikoru,ikörü
 korud,körüd
 Yuzil,Yüzil
@@ -63897,7 +63896,7 @@ Unsiz,Ünsiz
 nsiza,nsiza
 Lemue,Lemue
 ickiy,içkiy
-iyibl,ıyıbl
+iyibl,iyibl
 Quzun,Quzun
 iliqs,ilıqs
 iqsan,ıqsan
@@ -63962,7 +63961,7 @@ linqr,linqr
 asars,aşars
 rdird,rdird
 eemla,əəmla
-spubi,spubı
+spubi,spubi
 pubil,pubıl
 ubili,ubıli
 ilika,ilika
@@ -64255,7 +64254,7 @@ hrets,hrəts
 Lovga,Lovğa
 ah-za,ah-za
 Nalel,Naləl
-uculd,uçuld
+uculd,üçuld
 culdu,çuldu
 ytars,ytars
 Indic,İndic
@@ -64282,7 +64281,7 @@ NECSO,NECSO
 Radki,Radki
 adkin,adkin
 qesri,qəsri
-Musin,Muşin
+Musin,Musin
 usin-,usin-
 sin-P,sin-P
 in-Pu,in-Pu
@@ -64406,7 +64405,7 @@ i-Cor,ı-Cor
 Melit,Melit
 litan,litan
 Hebes,Həbəş
-besi-,bəsi-
+besi-,bəşi-
 esi-M,əşi-M
 si-Me,şi-Mə
 i-Meh,i-Məh
@@ -64417,10 +64416,10 @@ mamsi,mamsı
 yonte,yönte
 nteml,nteml
 lunuy,lunuy
-unuyo,unuyo
+unuyo,ünüyo
 nuyor,nuyor
 40-80,40-80
-Suman,Süman
+Suman,Şuman
 hqire,hqirə
 agirn,ağırn
 nizim,nizim
@@ -64445,7 +64444,7 @@ Saxsi,Saxsı
 166.1,166.1
 66.1.,66.1.
 6.1.1,6.1.1
-ahimd,ahimd
+ahimd,ahımd
 himde,himdə
 eyemm,əyəmm
 yemmi,yəmmi
@@ -64704,7 +64703,7 @@ oyuyl,oyuyl
 yuyla,yuyla
 ofona,ofona
 tabie,tabiə
-abiet,abiet
+abiet,abiət
 Pauld,Pauld
 Kolos,Kolos
 oloss,oloss
@@ -65001,7 +65000,7 @@ kupes,kupes
 upesi,upesi
 ndekl,ndəkl
 xumur,xumur
-qeseh,qəşəh
+qeseh,qəsəh
 esehh,əşəhh
 sehhh,şəhhh
 rlare,rlare
@@ -65202,7 +65201,7 @@ ergei,ergei
 sozcu,sözçü
 ipal-,ipal-
 pal-i,pal-ı
-al-in,al-ın
+al-in,al-in
 114.2,114.2
 AZN-d,AZN-d
 ZN-de,ZN-də
@@ -65247,7 +65246,7 @@ ulyad,ülyad
 lyadi,lyadı
 saned,sanəd
 sabig,sabig
-abiga,abığa
+abiga,abiga
 bigal,bigal
 igala,ığala
 erinf,ərinf
@@ -65429,7 +65428,7 @@ t-stu,t-stu
 nyad-,nyad-
 yad-z,yad-z
 ad-za,ad-za
-d-zad,d-zad
+d-zad,d-zâd
 Tesse,Təssə
 sserr,ssərr
 ayari,ayarı
@@ -65456,7 +65455,7 @@ xucuy,xucuy
 8.5.6,8.5.6
 QHT-n,QHT-n
 HT-ni,HT-ni
-assif,aşsif
+assif,assif
 ssifi,ssifi
 belar,belar
 Bulle,Bülle
@@ -65517,8 +65516,8 @@ Fulad,Fulad
 Teqav,Təqav
 eqavi,əqavi
 Bacal,Bacal
-tombe,tombe
-ombek,ömbək
+tombe,tombə
+ombek,ombək
 Hesme,Heşme
 esmet,eşmet
 Meyse,Meysə
@@ -65612,7 +65611,7 @@ yoxus,yoxuş
 nelir,nəlir
 adyut,adyut
 dyuta,dyuta
-utant,utant
+utant,ütant
 ssumu,ssümü
 yelpi,yelpi
 elpic,elpic
@@ -65693,7 +65692,7 @@ entre,entre
 eyens,əyəns
 yense,yənsə
 ksikd,ksikd
-sikdi,şikdi
+sikdi,sikdi
 Qandi,Qandi
 vrley,vrləy
 irdak,ırdak
@@ -65816,12 +65815,12 @@ uqsuz,uqsuz
 qsuzl,qsuzl
 diqil,dıqıl
 iqilm,ıqılm
-qilmi,qilmi
+qilmi,qılmı
 ildam,ıldam
 ldami,ldamı
-damis,damıs
+damis,damış
 Burce,Burcə
-urcel,urcəl
+urcel,ürcəl
 cot-n,çot-n
 ot-ne,ot-nə
 ldark,ldark
@@ -65953,7 +65952,7 @@ tcold,tçold
 coldu,çoldu
 Simur,Simur
 imurq,imürq
-qiciy,qiçiy
+qiciy,qıcıy
 ciyem,çiyəm
 ments,ments
 gerqi,gərqi
@@ -66201,7 +66200,7 @@ Sakla,Sakla
 Bakan,Bakan
 akanl,akanl
 asdad,aşdad
-sdadi,sdadı
+sdadi,şdadı
 qeded,qedəd
 lonud,lonud
 nosta,nosta
@@ -66399,9 +66398,9 @@ butum,bütüm
 d'Aze,d’Aze
 'Azer,’Azer
 rbaid,rbaïd
-baidj,baïdj
+baidj,baidj
 aidja,aidja
-idjan,idjan
+idjan,ïdjan
 djan-,djan-
 jan-2,jan-2
 an-20,an-20
@@ -66537,7 +66536,7 @@ ire-b,irə-b
 re-bi,rə-bi
 ffuze,ffüzə
 e-dov,e-döv
-e-dem,e-dem
+e-dem,ə-dem
 e-ist,ə-ist
 e-cem,e-cəm
 -cemi,-cəmi
@@ -67202,9 +67201,9 @@ Caban,Caban
 rkenc,rkənc
 Saqiy,Saqiy
 aqiya,aqiya
-ezmem,Əzməm
+ezmem,əzməm
 zmemm,zməmm
-Hemye,Həmyə
+Hemye,Həmye
 emyel,əmyəl
 myeli,myəli
 Qarav,Qarav
@@ -67263,7 +67262,7 @@ YCANI,YCANI
 CANIN,CANIN
 eRAZI,ƏRAZİ
 RAZIS,RAZİS
-AZISI,AZİSİ
+AZISI,AZISI
 erbim,erbim
 rbimi,rbimi
 imnim,imnim
@@ -67316,7 +67315,7 @@ Serce,Sərçə
 19-27,19-27
 9-27-,9-27-
 -27-c,-27-c
-iseri,işəri
+iseri,isəri
 idiyd,idiyd
 yenib,yənib
 nib-b,nib-b
@@ -67411,7 +67410,7 @@ Koroc,Koroç
 oroce,oroçe
 emovd,əmovd
 qayri,qayrı
-ayris,ayrıs
+ayris,ayrış
 yrisa,yrisa
 pariq,parıq
 nci-v,nci-v
@@ -67468,7 +67467,7 @@ Dunma,Dunma
 zulum,zülüm
 Basma,Basma
 asmac,asmaç
-smaci,smaçı
+smaci,smaçi
 unehs,ünəhs
 nehsi,nəhsi
 ehsiz,əhsiz
@@ -67552,7 +67551,7 @@ surxu,surxu
 urxub,urxub
 purer,pürər
 "45,00","45,00"
-Rosan,Roşan
+Rosan,Rosan
 osann,osann
 sanna,sanna
 Kapil,Kapil
@@ -67754,7 +67753,7 @@ miydi,mıydı
 riye-,riyə-
 iye-d,iyə-d
 ye-du,yə-du
-e-dur,ə-dur
+e-dur,ə-dür
 -dura,-dura
 doqqa,doqqa
 oqqaz,oqqaz
@@ -67831,8 +67830,8 @@ yuyuc,yuyuc
 olikd,olikd
 tervy,tervy
 ervyu,ervyü
-rvyud,rvyud
-vyuda,vyuda
+rvyud,rvyüd
+vyuda,vyüda
 lekey,ləkəy
 MARTY,MARTY
 Gsubo,Ğsubo
@@ -67971,7 +67970,7 @@ ttime,ttimə
 ecure,ecure
 rus-t,rus-t
 us-tu,us-tü
-s-tur,s-tur
+s-tur,s-tür
 -turk,-türk
 urk-a,ürk-a
 rk-az,rk-az
@@ -68002,8 +68001,8 @@ behbe,bəhbə
 ehbeh,əhbəh
 hbehl,hbəhl
 small,small
-islag,ışlağ
-slaga,slağa
+islag,islağ
+slaga,şlağa
 Asila,Aşıla
 axiss,axışs
 xissi,xışsı
@@ -68041,7 +68040,7 @@ rodyu,rodyü
 odyus,odyüs
 dyuse,dyüse
 yuser,yüşər
-qarxi,qarxi
+qarxi,qarxı
 xiyas,xiyas
 stajk,stajk
 tajke,tajke
@@ -68199,7 +68198,7 @@ Acura,Acura
 zdini,zdini
 0-15-,0-15-
 -15-c,-15-c
-12-cu,12-cü
+12-cu,12-cu
 neter,nətər
 Bol-b,Bol-b
 lancd,lancd
@@ -68346,7 +68345,7 @@ dumag,dümağ
 nkese,nkəsə
 hmenk,hmənk
 menke,mənkə
-enkes,ənkəs
+enkes,ənkes
 urdal,urdal
 uminy,umıny
 minya,mınya
@@ -68370,7 +68369,7 @@ erzli,ərzli
 rzliy,rzliy
 ddead,ddəad
 deadi,dəadı
-eadir,eadır
+eadir,əadır
 Sacla,Saçla
 06.08,06.08
 6.08.,6.08.
@@ -68515,7 +68514,7 @@ rnadz,rnadz
 Kafir,Kafir
 rlikt,rlikt
 erekt,ərəkt
-ktire,ktire
+ktire,ktirə
 rduru,rdürü
 lacak,lacak
 kart-,kart-
@@ -68530,7 +68529,7 @@ Andri,Andri
 ndris,ndris
 Liepa,Liepa
 iepan,iepan
-epani,epanı
+epani,epani
 delph,delph
 elphi,elphi
 Lambo,Lambo
@@ -68603,7 +68602,7 @@ uedin,uedin
 dinen,dinən
 inenn,inenn
 nenni,nənni
-enniy,ənniy
+enniy,ennıy
 ukrom,ukrom
 kromn,kromn
 romni,romnı
@@ -68706,7 +68705,7 @@ rqisi,rqisi
 Qocal,Qocal
 Terav,Tərav
 yamya,yamya
-amyas,amyas
+amyas,amyaş
 qayam,qayam
 ayamd,ayamd
 yamdi,yamdı
@@ -68987,7 +68986,7 @@ mnine,mninə
 Tarye,Tarye
 aryel,aryel
 tubum,tubum
-bumuz,bumuz
+bumuz,bümüz
 qelpe,qəlpə
 iybil,iybil
 ybilm,ybilm
@@ -69322,7 +69321,7 @@ uk-ta,ük-ta
 k-tar,k-tar
 ri-ta,ri-ta
 ksekt,ksəkt
-sekte,səkte
+sekte,səktə
 ektez,əktez
 ktezl,ktezl
 itsen,itsən
@@ -69345,7 +69344,7 @@ Nakam,Nakam
 1922-,1922-
 922-c,922-c
 iksil,iksil
-ksile,ksile
+ksile,ksilə
 Indil,İndil
 nicat,nicat
 tmiye,tmiyə
@@ -69416,7 +69415,7 @@ ordey,ördəy
 cesni,çeşni
 esnil,eşnil
 Yemey,Yeməy
-hecil,həçil
+hecil,həcil
 ulame,ulamə
 Nurul,Nurul
 urull,urull
@@ -69432,7 +69431,7 @@ eb-st,əb-st
 b-stu,b-stu
 ekerd,əkərd
 etali,etalı
-alisl,alişl
+alisl,alışl
 penec,pənəc
 Sadax,Sadax
 coooo,çoooo
@@ -69459,7 +69458,7 @@ Aymon,Aymon
 ymone,ymone
 Sesse,Sesse
 ssera,ssera
-ayi-s,ayi-ş
+ayi-s,ayi-s
 yi-se,yi-şə
 -sems,-şəms
 Imamv,İmamv
@@ -69470,14 +69469,14 @@ Terxa,Tərxa
 rsizm,rsızm
 Bazil,Bazil
 egism,egişm
-ismax,işmax
+ismax,ışmax
 oluni,oluni
 dogri,doğri
 sayiy,sayiy
 ayiye,ayiye
 yiyer,yiyer
 neceg,nəcəğ
-cegim,cegim
+cegim,cəğım
 egimi,əğımi
 usuni,üşüni
 suniy,şüniy
@@ -69650,7 +69649,7 @@ vaman,vaman
 Yeusu,Yeuşu
 Yalam,Yalam
 sayel,şayəl
-ceber,ceber
+ceber,cəbər
 qivra,qıvra
 ivraq,ıvraq
 vraql,vraql
@@ -69795,11 +69794,11 @@ neeti,nəəti
 eetic,əətic
 ticee,ticəə
 icees,icəəs
-ceesi,cəəsi
+ceesi,çəəsi
 iflee,ifləə
 fleer,fləər
 qosku,qöskü
-skuni,sküni
+skuni,skuni
 cevru,çəvrü
 evrul,əvrül
 lacax,lacax
@@ -69826,7 +69825,7 @@ gecti,geçti
 vi-in,vi-in
 ge-re,gə-rə
 e-rek,ə-rək
--rekl,-rekl
+-rekl,-rəkl
 Kiray,Kiray
 rayed,rayəd
 Aciya,Acıya
@@ -70268,7 +70267,7 @@ lnali,lnali
 Minel,Minəl
 ervel,ərvəl
 rveli,rvəli
-INTER,INTER
+INTER,İNTER
 NTERN,NTERN
 TERNE,TERNE
 ERNET,ERNET
@@ -70317,7 +70316,7 @@ leroz,leroz
 erozu,erozu
 rozun,rozun
 oraml,oraml
-lcekd,lcəkd
+lcekd,lçəkd
 isart,işart
 Doxsa,Doxsa
 WI-FI,Wİ-Fİ
@@ -70334,11 +70333,11 @@ diken,dikən
 yitme,yitmə
 slamu,şlamu
 lamus,lamuş
-oburg,oburg
+oburg,öbürg
 burgu,burğu
 yiter,yitər
 Poliq,Poliq
-Kubas,Kubaş
+Kubas,Kubas
 Jaime,Jaime
 Suchl,Suchl
 uchli,uchli
@@ -70522,7 +70521,7 @@ msaya,msaya
 rlmas,rlmas
 rikec,rikəc
 Burat,Burat
-atino,atıno
+atino,atino
 tinon,tinon
 sokme,sökmə
 yuruc,yuruc
@@ -70659,7 +70658,7 @@ ndqre,ndqre
 dqren,dqren
 Devid,Devid
 nsdak,nsdak
-sdaki,şdakı
+sdaki,sdakı
 Turya,Türya
 ryanc,ryanç
 yanca,yança
@@ -70709,8 +70708,8 @@ anlim,anlım
 nlimd,nlımd
 etnok,etnok
 tnoku,tnokü
-nokul,nokul
-okult,okült
+nokul,nokül
+okult,okult
 cehde,cəhdə
 Raimk,Raimk
 aimku,aimku
@@ -70763,7 +70762,7 @@ vvala,vvala
 legeb,ləğəb
 egebl,əğəbl
 geble,ğəblə
-rudub,rudub
+rudub,rüdüb
 pmisi,pmışı
 16:15,16:15
 Zlatk,Zlatk
@@ -70852,7 +70851,7 @@ Gilbo,Gilbo
 ilboa,ilboa
 Turge,Turge
 urgen,urgen
-rgene,rgənə
+rgene,rgene
 genev,genev
 re'yl,rə'yl
 enuml,enuml
@@ -70983,7 +70982,7 @@ iqorc,iqorç
 qorcu,qorçu
 orcuk,orçuk
 rcukl,rçukl
-cukla,çukla
+cukla,cukla
 Franz,Franz
 amam-,amam-
 mam-t,mam-t
@@ -71067,7 +71066,7 @@ ehkee,əhkəə
 hkeem,hkəəm
 keeme,kəəmə
 ecree,eçrəə
-creen,creen
+creen,çrəən
 reeni,rəəni
 Lozan,Lozan
 ozann,ozann
@@ -71207,7 +71206,7 @@ snani,snanı
 ffisi,ffisi
 siant,siant
 libab,libab
-himdi,himdi
+himdi,hımdı
 cmese,çməsə
 oldux,oldux
 geca-,geca-
@@ -71271,7 +71270,7 @@ rluqd,rluqd
 grasi,ğrası
 Kompy,Kompy
 Oldur,Öldür
-asida,asıda
+asida,aşıda
 Minba,Minba
 can-Y,can-Y
 n-Yap,n-Yap
@@ -71288,7 +71287,7 @@ utbey,ütbey
 tbeyi,tbeyi
 Keren,Kərən
 450-d,450-d
-aruku,aruku
+aruku,arükü
 Xocor,Xocor
 ocorn,ocorn
 cornu,cornu
@@ -71381,7 +71380,7 @@ meeni,məəni
 teerz,təərz
 eerzd,əərzd
 rzdee,rzdəə
-eesir,əəşir
+eesir,əəsir
 disee,disəə
 iseel,isəəl
 31797,31797
@@ -71601,12 +71600,12 @@ exvan,exvan
 xvana,xvana
 Sunge,Süngə
 unger,üngər
-ngere,ngərə
+ngere,ngəre
 geret,gəret
 megi-,məgi-
 egi-a,əgi-a
 gi-as,gi-aş
-i-asi,i-asi
+i-asi,ı-aşı
 Uztun,Üztün
 ztune,ztünə
 tabas,tabas
@@ -71660,7 +71659,7 @@ Tehli,Təhli
 din-l,dın-l
 in-la,ın-la
 n-las,n-laş
--lasi,-laşı
+-lasi,-lası
 eran-,əran-
 ran-X,ran-X
 an-Xa,an-Xa
@@ -71869,12 +71868,12 @@ oymez,öyməz
 ymezl,yməzl
 Ziren,Zirən
 smaqc,şmaqç
-maqci,maqçı
+maqci,maqcı
 eizmi,eizmi
 sin-x,sın-x
 in-xi,ın-xı
 n-xis,n-xıs
--xisi,-xışı
+-xisi,-xısı
 rlmes,rlməs
 qamdi,qamdı
 Zalda,Zalda
@@ -71952,7 +71951,7 @@ Layla,Layla
 irpa-,ırpa-
 rpa-c,rpa-ç
 pa-ci,pa-çı
-a-cir,a-cır
+a-cir,a-çır
 asdar,aşdar
 145.1,145.1
 krcir,krçir
@@ -72046,7 +72045,7 @@ ucuq-,uçuq-
 cuq-s,çuq-s
 q-sok,q-sök
 sokuy,söküy
-okuyu,okuyu
+okuyu,öküyü
 ezete,əzetə
 11.03,11.03
 14:52,14:52
@@ -72108,7 +72107,7 @@ nu-ze,nü-zə
 u-zen,ü-zən
 -zenn,-zənn
 QeZeB,QƏZƏB
-GULUS,GÜLÜŞ
+GULUS,GÜLÜS
 Qehqe,Qəhqə
 qehey,qəhəy
 eheyl,əhəyl
@@ -72224,7 +72223,7 @@ zze'n,zze'n
 ze'ni,ze'ni
 e'nin,e’nin
 hikay,hikay
-nlati,nlati
+nlati,nlatı
 atiyo,atiyo
 isikd,işikd
 Ageli,Ağəli
@@ -72241,7 +72240,7 @@ Azqur,Azqur
 Aukur,Aükur
 ukuri,ükuri
 .1.17,.1.17
-Romas,Romaş
+Romas,Romas
 Papad,Papad
 noniz,noniz
 oniza,oniza
@@ -72288,7 +72287,7 @@ recid,rəçid
 34.8.,34.8.
 4.8.3,4.8.3
 picim,pıçım
-icime,içimə
+icime,ıçımə
 cimeh,çıməh
 imehe,iməhə
 -1831,-1831
@@ -72381,7 +72380,7 @@ laixt,laixt
 aixti,aixti
 gerne,gərne
 ernes,ərnəş
-rnesi,rnesi
+rnesi,rnəşi
 esned,əsnəd
 snedi,snədi
 9327-,9327-
@@ -72415,7 +72414,7 @@ korde,korde
 ordeb,ordeb
 rdeba,rdəba
 debal,debal
-ebale,əbalə
+ebale,ebale
 ani-p,anı-p
 ni-pr,nı-pr
 each-,each-
@@ -72458,7 +72457,7 @@ polkv,polkv
 olkvn,olkvn
 lkvni,lkvni
 kvnik,kvnik
-misid,mışıd
+misid,mısıd
 fosfo,fosfo
 osfor,osfor
 bioki,bioki
@@ -72653,7 +72652,7 @@ rg-un,rg-un
 .1991,.1991
 psami,psami
 inenf,inenf
-eks-e,Əks-ə
+eks-e,əks-e
 ks-ef,ks-ef
 s-eff,s-eff
 Medax,Mədax
@@ -72829,8 +72828,8 @@ ociat,ociat
 ciate,ciate
 iated,iated
 Deuts,Deuts
-XINHU,XINHU
-INHUA,İNHUA
+XINHU,XİNHU
+INHUA,INHUA
 utoru,utoru
 tarqo,tarqo
 qovuy,qovuy
@@ -72843,7 +72842,7 @@ atver,atver
 rcliy,rcliy
 Kecir,Keçir
 lurse,lürsə
-cikip,çıkıp
+cikip,cikip
 pmazs,pmazs
 Sosya,Sosya
 osyal,osyal
@@ -72965,7 +72964,7 @@ orxas,orxas
 qimdi,qımdı
 exri-,əxri-
 xri-F,xri-F
-ri-Fe,rı-Fə
+ri-Fe,ri-Fə
 i-Fer,i-Fer
 -Ferm,-Fərm
 30-ca,30-ça
@@ -73028,7 +73027,7 @@ ya-Ir,ya-İr
 a-Ira,a-İra
 tekur,təkur
 ekura,əkura
-asidz,asidz
+asidz,aşidz
 avora,avora
 axsiv,axsiv
 xsivm,xsivm
@@ -73071,7 +73070,7 @@ qublu,qublu
 ublun,ublun
 blunu,blunu
 slans,şlans
-Insid,İnsid
+Insid,Insid
 Klibe,Klibe
 notda,notda
 qoxun,qoxun
@@ -73103,7 +73102,7 @@ girtl,gırtl
 irtla,ırtla
 rtlag,rtlağ
 borus,borus
-ciger,ciğer
+ciger,cigər
 alaci,alacı
 lacid,laçid
 Xocam,Xocam
@@ -73128,7 +73127,7 @@ nevem,nəvəm
 eveme,eveme
 rme-s,rmə-s
 me-se,mə-sə
-e-sel,ə-səl
+e-sel,ə-şel
 -sela,-səla
 Adetl,Adətl
 Belli,Bəlli
@@ -73239,7 +73238,7 @@ Naim',Naim'
 aim'i,aim'i
 im'in,im'in
 tedig,tedig
-edigi,ediği
+edigi,edigi
 ektup,ektup
 ktupt,ktupt
 tupta,tupta
@@ -73269,7 +73268,7 @@ ur-Ku,ur-Ku
 r-Kur,r-Kur
 -Kuri,-Kuri
 Kuris,Kuris
-urisi,urisi
+urisi,ürisi
 "5,100","5,100"
 ",100,",",100,"
 Qizgi,Qızğı
@@ -73607,7 +73606,7 @@ veria,veria
 ramog,ramoğ
 amogl,amoğl
 mogli,moğli
-Zaden,Zadən
+Zaden,Zaden
 Selas,Selas
 elasu,elasu
 Axase,Axaşe
@@ -73626,7 +73625,7 @@ iracl,ıraçl
 Colal,Çolal
 olala,olala
 Sukul,Sukul
-kulet,külət
+kulet,kulət
 uletl,uletl
 cuvar,cuvar
 cumat,cumat
@@ -73675,7 +73674,7 @@ ireen,irəən
 teerk,təərk
 ikdee,ikdəə
 zvlul,zvlül
-vlulu,vlülü
+vlulu,vlulu
 Sefam,Şefam
 efamd,efamd
 famda,famda
@@ -73745,7 +73744,7 @@ zmazd,zmazd
 1955-,1955-
 955-c,955-c
 eyimm,əyimm
-yimmi,yımmı
+yimmi,yimmi
 raftl,raftl
 aftla,aftla
 ftlar,ftlar
@@ -73871,7 +73870,7 @@ L-fin,L-fin
 -fine,-fine
 fines,finəs
 nesse,nesse
-IDEAL,IDEAL
+IDEAL,İDEAL
 stije,stijə
 eusun,euşun
 .1.11,.1.11
@@ -73922,7 +73921,7 @@ Arqun,Arqun
 Donde,Döndə
 Yoxus,Yoxuş
 oxusd,oxuşd
-xusda,xusda
+xusda,xuşda
 attis,attis
 ngild,ngild
 atunu,atunu
@@ -73930,7 +73929,7 @@ Barto,Barto
 artol,artol
 teteb,tətəb
 etebb,ətəbb
-tebbu,təbbü
+tebbu,təbbu
 ebbu',əbbu’
 bbu'e,bbü’ə
 bu'et,bü’ət
@@ -73945,7 +73944,7 @@ beres,bərəs
 Stole,Stole
 tolet,tolet
 oleto,oleto
-letov,lətov
+letov,letov
 Lebed,Lebed
 bedev,bədəv
 Popov,Popov
@@ -73979,7 +73978,7 @@ oylec,öyləc
 ylece,yləcə
 bolen,bölən
 zingi,zingi
-iltin,ıltın
+iltin,iltin
 fesim,fəsim
 buldo,buldo
 uldoz,uldoz
@@ -74198,7 +74197,7 @@ s-lik,s-lik
 Mogul,Moğul
 impra,impra
 mprat,mprat
-pratu,pratu
+pratu,pratü
 69-ci,69-cı
 BBC-d,BBC-d
 BC-de,BC-də
@@ -74255,7 +74254,7 @@ yir-b,yir-b
 ir-bu,ır-bu
 r-buy,r-buy
 -buyu,-buyu
-73-ci,73-cı
+73-ci,73-ci
 3-ci-,3-cı-
 i-199,ı-199
 olvo-,olvo-
@@ -74275,7 +74274,7 @@ Henef,Hənəf
 mamid,mamıd
 Telai,Telai
 elaim,elaim
-laimd,laimd
+laimd,laımd
 aimde,aimdə
 MADA-,MADA-
 ADA-n,ADA-n
@@ -74405,7 +74404,7 @@ Verov,Verov
 erovs,erovş
 ovsko,ovşko
 vskov,vşkov
-skova,skova
+skova,şkova
 Lubly,Lübly
 ublya,ublya
 blyan,blyan
@@ -74432,8 +74431,8 @@ Vahib,Vahib
 nemdi,nəmdi
 erosa,eroşa
 lmirm,lmirm
-algi-,alğı-
-lgi-s,lgı-s
+algi-,algı-
+lgi-s,lğı-s
 gi-sa,gi-sa
 Yakob,Yakob
 Svane,Svane
@@ -74469,7 +74468,7 @@ rqasl,rqaşl
 qasli,qaşlı
 diciy,dıcıy
 st-ni,st-nı
-t-nin,t-nın
+t-nin,t-nin
 1932-,1932-
 932-c,932-c
 khusus,хüsus
@@ -74768,10 +74767,10 @@ SOSEF,SOSEF
 OSEFE,OSEFE
 SEFEN,SEFEN
 KLOTR,KLOTR
-LOTRI,LOTRI
+LOTRI,LOTRİ
 OTRIM,OTRİM
-TRIMA,TRIMA
-RIMAZ,RIMAZ
+TRIMA,TRİMA
+RIMAZ,RİMAZ
 IMAZO,İMAZO
 MAZOL,MAZOL
 CLOTR,CLOTR
@@ -74850,7 +74849,7 @@ kenti,kenti
 slatt,şlatt
 latti,lattı
 attig,attığ
-skeri,skəri
+skeri,skeri
 harek,harek
 denki,dənki
 90-45,90-45
@@ -74892,7 +74891,7 @@ ubmik,ubmik
 bmikr,bmikr
 krofa,krofa
 rofas,rofas
-ofasi,ofaşi
+ofasi,ofasi
 fasiy,fasiy
 altti,altti
 lttip,lttip
@@ -75081,7 +75080,7 @@ ye1-d,yə1-d
 e1-de,ə1-də
 0.1.3,0.1.3
 dli-H,dli-H
-li-He,li-Hə
+li-He,lı-Hə
 i-Hem,i-Həm
 -Heme,-Həmə
 Hemen,Həmən
@@ -75232,7 +75231,7 @@ gionm,gionm
 ionme,ionme
 Musao,Musao
 usaog,usaoğ
-saogl,saoğl
+saogl,şaoğl
 jeuuz,jəuüz
 ceviz,cəviz
 jamus,jamuş
@@ -75272,7 +75271,7 @@ Beten,Beten
 Aksaf,Akşaf
 Alame,Alame
 leyeb,ləyəb
-eyebi,eyəbi
+eyebi,əyəbi
 yebil,yəbil
 Selte,Səltə
 Terqq,Tərqq
@@ -75472,7 +75471,7 @@ aduru,adürü
 rustl,rüstl
 yaxci,yaxçı
 SAGIR,ŞAGİR
-AGIRD,AĞIRD
+AGIRD,AGİRD
 GIRDL,GİRDL
 IRDLe,İRDLƏ
 RDLeR,RDLƏR
@@ -75671,7 +75670,7 @@ Furye,Furye
 l-Xav,l-Xav
 -Xava,-Xava
 Xavac,Xavac
-avaci,avaçı
+avaci,avaci
 FAO-y,FAO-y
 AO-ya,AO-ya
 hedes,hədəs
@@ -75770,7 +75769,7 @@ kitin,kitin
 Nuhun,Nuhun
 eddiy,eddiy
 ddiya,ddiya
-iyasl,iyasl
+iyasl,iyaşl
 Avene,Avenə
 elive,elive
 iverd,iverd
@@ -75815,7 +75814,7 @@ zunil,zunil
 unill,unill
 Xudad,Xudad
 dadat,dadat
-rilid,rilid
+rilid,rılıd
 emels,əməls
 melsi,məlsi
 qited,qitəd
@@ -76013,7 +76012,7 @@ zQtel,zQtel
 10-16,10-16
 0-16-,0-16-
 -16-c,-16-c
-lilir,lilir
+lilir,lılır
 .1.27,.1.27
 lxibl,lxıbl
 xibla,xıbla
@@ -76116,7 +76115,7 @@ Onqar,Onqar
 Muqar,Muqar
 uqare,uqare
 Qobie,Qobie
-obiet,obiet
+obiet,obiət
 Balad,Balad
 aladc,aladc
 ladcu,ladcu
@@ -76128,7 +76127,7 @@ cebla,cebla
 pari-,parı-
 ari-c,arı-c
 et-mi,et-mi
-t-mis,t-mis
+t-mis,t-miş
 biqid,biqid
 cdiri,çdiri
 patet,patet
@@ -76156,7 +76155,7 @@ gartd,ğartd
 gini-,ğını-
 ini-a,ını-a
 ni-ay,nı-ay
-i-aya,ı-aya
+i-aya,i-aya
 alanq,alanq
 lanqa,lanqa
 rele-,rələ-
@@ -76411,7 +76410,7 @@ xoflu,xoflu
 baisk,baisk
 aiska,aiska
 ssirl,ssirl
-Iteca,İteca
+Iteca,Iteca
 ezery,əzəry
 zerya,zərya
 Rolls,Rolls
@@ -76512,7 +76511,7 @@ odako,odako
 rqonu,rqonu
 erbir,ərbir
 veyil,veyil
-netiy,netiy
+netiy,nətiy
 Comer,Comər
 amaxd,amaxd
 ucine,ücinə
@@ -76610,7 +76609,7 @@ lmiye,lmiyə
 sosya,sosya
 patla,patla
 bul-H,bul-H
-ul-He,ul-Hə
+ul-He,ül-Hə
 l-Hes,l-Həs
 -Hese,-Həsə
 Semur,Səmur
@@ -76768,7 +76767,7 @@ kired,kirəd
 bizza,bizza
 izzat,izzat
 bariy,bariy
-ediis,ədiis
+ediis,ediis
 diisi,diisi
 leyiy,leyiy
 eyiyl,əyiyl
@@ -76796,7 +76795,7 @@ algac,alğac
 Cekin,Çəkin
 iclig,ıclığ
 esemi,əşəmi
-emiyi,əmiyi
+emiyi,emiyi
 miyin,miyin
 Damin,Damın
 Bahad,Bahad
@@ -77057,7 +77056,7 @@ eti'n,eti'n
 ti'nd,ti'nd
 i'nde,i'nde
 kumus,kumus
-armiz,armız
+armiz,armiz
 inqiy,inqiy
 nqiye,nqiye
 qiyez,qiyez
@@ -77481,7 +77480,7 @@ MUeSS,MÜƏSS
 UeSSI,ÜƏSSİ
 eSSIS,ƏSSİS
 SSISe,SSİSƏ
-SISeL,SİSƏL
+SISeL,SISƏL
 ISeLe,İSƏLƏ
 VAHID,VAHID
 AHIDL,AHIDL
@@ -77796,7 +77795,7 @@ rnaba,rnaba
 oquna,oquna
 yetiy,yətiy
 90-da,90-da
-ezrai,Əzrai
+ezrai,əzrai
 zrail,zrail
 31.07,31.07
 Kubry,Kubry
@@ -77820,7 +77819,7 @@ bloqc,bloqç
 oqcul,oqçul
 fliql,flıql
 iye-Q,iyə-Q
-ye-Qa,yə-Qa
+ye-Qa,ye-Qa
 oycem,öycəm
 Pears,Pears
 earso,earso
@@ -78096,7 +78095,7 @@ semet,şəmət
 Bagci,Bağcı
 ekern,əkərn
 kerna,kərna
-ernab,ernab
+ernab,ərnab
 nabad,nabad
 nanez,nanəz
 anezi,anəzi
@@ -78116,9 +78115,9 @@ nahdi,nahdı
 latiu,latiu
 atium,atium
 Napal,Napal
-apale,apale
+apale,apalə
 aleon,aleon
-Sivas,Şivas
+Sivas,Sivas
 ata-o,ata-o
 ta-og,ta-oğ
 a-ogu,a-oğu
@@ -78188,8 +78187,8 @@ am-sa,am-şa
 m-sam,m-şam
 qicay,qıcay
 icayi,ıcayı
-likto,liktö
-ktore,ktorə
+likto,likto
+ktore,ktörə
 extev,əxtəv
 xteve,xtəvə
 tever,təvər
@@ -78260,7 +78259,7 @@ tocne,toçne
 ocnee,oçnee
 uzina,uzina
 zinam,zinam
-urkam,ürkam
+urkam,urkam
 inoqd,inoqd
 noqda,noqda
 musul,musul
@@ -78308,7 +78307,7 @@ uzeye,uzeyə
 maest,maest
 aestr,aestr
 estro,estro
-kriml,kriml
+kriml,krıml
 mskiy,mskiy
 skiy-,skiy-
 kiy-K,kiy-K
@@ -78946,7 +78945,7 @@ qozol,qözöl
 dogon,dögön
 estit,estit
 stits,stits
-titsi,titsı
+titsi,titsi
 itsiy,itsiy
 160-a,160-a
 konsa,konsa
@@ -79052,7 +79051,7 @@ rdass,rdaşs
 uqi-d,uqi-d
 qi-de,qi-de
 qrulu,qrulu
-umule,umulə
+umule,ümulə
 mules,muləş
 stroh,stroh
 trohe,trohe
@@ -79344,7 +79343,7 @@ Yesev,Yəsəv
 esevi,əsəvi
 emetz,emətz
 metza,mətza
-Yerfi,Yerfi
+Yerfi,Yerfı
 axlal,axlal
 xlali,xlalı
 lalil,lalıl
@@ -79419,7 +79418,7 @@ hrist,hrist
 Sutay,Sutay
 Bukda,Bukda
 ukday,ukday
-Saday,Şaday
+Saday,Saday
 Tamud,Tamud
 amuda,amuda
 muday,muday
@@ -79459,7 +79458,7 @@ ibovl,ıbovl
 bovla,bovla
 leluf,lelüf
 elufe,elüfə
-lufer,lüfər
+lufer,lufər
 anbaq,anbaq
 zidli,zidli
 Dusgu,Düşgü
@@ -79520,7 +79519,7 @@ akari,akarı
 ptiki,ptiki
 ateis,ateis
 teist,teist
-ihada,ıhada
+ihada,ihada
 amuta,amuta
 Majin,Majin
 ajino,ajino
@@ -79555,7 +79554,7 @@ l-is-,l-iş-
 -is-s,-iş-ş
 s-sex,ş-şəx
 -sexs,-şəxs
-nib-d,nıb-d
+nib-d,nib-d
 -dusm,-düşm
 Tulku,Tülkü
 qizsa,qızsa
@@ -79616,7 +79615,7 @@ sagie,şağıe
 agien,ağıen
 gient,ğıent
 xarit,xarit
-arits,arıts
+arits,arits
 ritsx,rıtsx
 itsxi,ıtsxi
 tsxis,tsxis
@@ -79696,7 +79695,7 @@ reuki,reüki
 eukim,eükim
 qosud,qosud
 osuda,osuda
-sudar,şudar
+sudar,sudar
 udars,udars
 darst,darst
 arstv,arstv
@@ -79772,7 +79771,7 @@ Sucae,Sücaə
 topop,topop
 opopl,opopl
 popla,popla
-girda,girda
+girda,ğırda
 "32,10","32,10"
 "2,104","2,104"
 Daiml,Daiml
@@ -79797,7 +79796,7 @@ kend-,kənd-
 end-t,ənd-t
 nd-te,nd-tə
 d-tes,d-təs
-medie,mədiə
+medie,medie
 edier,ədiər
 Ruhdu,Ruhdu
 uhdur,uhdur
@@ -79939,9 +79938,9 @@ ehdix,ehdix
 hdixa,hdixa
 dixan,dixan
 lkond,lkond
-stuld,stuld
+stuld,stüld
 tulde,tüldə
-isuru,işuru
+isuru,isuru
 Aviha,Aviha
 vihay,vihay
 ihayi,ihayi
@@ -80026,7 +80025,7 @@ ekmeq,ekmeq
 kmeqi,kmeqi
 yoqur,yoqur
 oqurt,oqurt
-eksek,əksək
+eksek,eksek
 deyri,dəyri
 starx,starx
 tarxa,tarxa
@@ -80339,7 +80338,7 @@ tlisa,tlisa
 koktu,köktü
 kturk,ktürk
 kler-,klər-
-ler-S,lər-S
+ler-S,lər-Ş
 er-Sa,er-Şa
 r-Sab,r-Sab
 Tatun,Tatun
@@ -80447,7 +80446,7 @@ afkas,afkas
 fkasa,fkasa
 kasay,kasay
 Yazma,Yazma
-rscan,rscan
+rscan,rsçan
 scani,scanı
 icerl,içərl
 bicer,biçər
@@ -80479,7 +80478,7 @@ Lamiz,Lamiz
 urems,ürəms
 62-69,62-69
 fragm,fragm
-ragme,rağmə
+ragme,ragme
 agmet,agmet
 gmeti,gmeti
 9.2.4,9.2.4
@@ -80496,7 +80495,7 @@ Axuzz,Axuzz
 xuzza,xuzza
 uzzat,uzzat
 herca,hərca
-ercay,ərcay
+ercay,ərçay
 cayi-,cayı-
 i-hed,ı-həd
 -hedy,-hədy
@@ -80565,7 +80564,7 @@ sinki,sinki
 Coxmu,Çoxmü
 oxmub,oxmüb
 xmuba,xmüba
-Sahra,Sahra
+Sahra,Şahra
 ahrat,ahrat
 hratl,hratl
 hnny-,hnny-
@@ -80797,8 +80796,8 @@ umave,umave
 maver,maver
 anrib,anrıb
 nribe,nrıbe
-riber,riber
-iberd,ıberd
+riber,rıber
+iberd,ibərd
 Dustk,Dustk
 ustke,ustke
 stkel,stkel
@@ -80862,7 +80861,7 @@ carib,carıb
 e-qey,e-qey
 exsem,əxsəm
 Rebse,Rəbsə
-ebsen,ebsen
+ebsen,əbsən
 enuma,enuma
 3x4sm,3x4sm
 vanil,vanil
@@ -81027,7 +81026,7 @@ Share,Share
 hared,hared
 Folde,Folde
 older,older
-lders,lders
+lders,ldərs
 Gille,Gille
 llett,llett
 lgucl,lgücl
@@ -81234,7 +81233,7 @@ ilize,ilizə
 arund,arund
 Zeybe,Zeybe
 eybek,eybek
-liyiz,lıyız
+liyiz,liyiz
 tluq-,tluq-
 luq-q,luq-q
 uq-qa,uq-qa
@@ -81378,7 +81377,7 @@ uise-,uise-
 ise-i,ise-i
 se-in,se-in
 Relik,Relik
-endem,əndəm
+endem,endem
 mirag,mirağ
 ragac,rağac
 alidy,alıdy
@@ -81386,7 +81385,7 @@ lidya,lıdya
 idyar,ıdyar
 dyarp,dyarp
 sumsa,şümşa
-umsad,umsad
+umsad,ümşad
 rximi,rxımı
 nzetd,nzətd
 zetdi,zetdi
@@ -81507,7 +81506,7 @@ ozull,özüll
 aqond,aqond
 kcine,kçinə
 bogur,boğur
-okene,ökənə
+okene,okene
 Kurus,Kurus
 Fahre,Fahre
 ahret,ahret
@@ -81809,7 +81808,7 @@ aqafk,aqafk
 qafka,qafka
 afkaz,afkaz
 fkazi,fkazi
-kaziy,kaziy
+kaziy,kazıy
 qidro,qidro
 romel,romel
 omeli,öməli
@@ -81826,7 +81825,7 @@ u-mel,u-məl
 Sozde,Sözdə
 ermse,ermsə
 rmsen,rmsən
-Derke,Dərkə
+Derke,Dərke
 birbi,birbi
 irbir,irbir
 rbiri,rbiri
@@ -81866,7 +81865,7 @@ l-Hem,l-Həm
 Hemev,Həməv
 emevi,əməvi
 Bayse,Baysə
-ayser,aysər
+ayser,ayser
 eyled,eyləd
 gdiqc,ğdıqc
 ebetd,əbətd
@@ -81890,7 +81889,7 @@ mevin,məvin
 refiy,rəfiy
 itabu,itabü
 tabul,tabül
-abul-,abül-
+abul-,abul-
 bul-e,bül-e
 ul-ed,ül-əd
 l-edv,l-ədv
@@ -81951,7 +81950,7 @@ ira-b,ıra-b
 ra-ba,ra-ba
 a-bag,a-bağ
 -bagi,-bağı
-seyrl,seyrl
+seyrl,şeyrl
 eyrle,eyrlə
 yrler,yrlər
 COVER,COVER
@@ -82063,7 +82062,7 @@ kanik,kanik
 Manik,Manik
 aniku,anikü
 nikur,nikür
-ediku,edikü
+ediku,ediku
 dikur,dikür
 ikuru,ikürü
 arzu-,arzu-
@@ -82131,7 +82130,7 @@ ifece,ifəcə
 CM-ne,CM-nə
 221.3,221.3
 sambo,sambo
-cu-do,cü-do
+cu-do,cü-dö
 rate-,rate-
 ate-d,ate-d
 te-do,te-do
@@ -82167,7 +82166,7 @@ ogald,oğald
 cazme,cazme
 zmeni,zmeni
 net-b,net-b
-et-ba,ət-ba
+et-ba,et-ba
 t-bag,t-bağ
 net-x,net-x
 et-xi,et-xi
@@ -82194,7 +82193,7 @@ el-Ce,əl-Cə
 -Cenn,-Cənn
 orset,örsət
 rsetm,rsətm
-qissa,qissa
+qissa,qıssa
 fikrl,fikrl
 opa-Q,opa-Q
 pa-Qa,pa-Qa
@@ -82249,7 +82248,7 @@ fatik,fatik
 qiyad,qiyad
 edoru,edoru
 lizdi,lizdi
-covda,covda
+covda,çovda
 bitgi,bitgi
 itgil,itgil
 tgile,tgilə
@@ -82325,7 +82324,7 @@ xsulu,xsulu
 ilovl,ilovl
 30-un,30-un
 TV-le,TV-lə
-zmirl,zmirl
+zmirl,zmırl
 xerse,xərsə
 Qodin,Qodin
 squid,squid
@@ -82601,7 +82600,7 @@ usanl,uşanl
 klile,klilə
 Dedel,Dedel
 ylada,ylada
-koken,kökən
+koken,köken
 okenl,ökənl
 axtii,axtıi
 xtiil,xtıil
@@ -82806,7 +82805,7 @@ reert,rəert
 eertm,əertm
 Heppi,Heppi
 eppiz,əppiz
-tinlu,tinlu
+tinlu,tinlü
 inlux,inlux
 nluxl,nluxl
 rpism,rpışm
@@ -82830,7 +82829,7 @@ emark,emark
 iya-d,iya-d
 ya-de,ya-de
 a-del,a-del
--deli,-dəli
+-deli,-deli
 delim,dəlim
 IT-ba,İT-ba
 T-baz,T-baz
@@ -82851,7 +82850,7 @@ asims,asıms
 simsa,sımsa
 rviss,rvişs
 vissa,vişsa
-issay,ışsay
+issay,işsay
 urumb,urumb
 rumbu,rumbu
 umbul,umbul
@@ -82865,7 +82864,7 @@ teziq,təziq
 eziql,əziql
 ziqli,ziqli
 aqisl,aqisl
-qisle,qişlə
+qisle,qislə
 Yaydi,Yaydı
 rk-me,rk-me
 k-mes,k-mes
@@ -83041,7 +83040,7 @@ HeTCI,HƏTÇİ
 SECIM,SEÇİM
 ECIMI,EÇİMİ
 Sumaq,Sumaq
-aqdas,aqdaş
+aqdas,aqdas
 qdasi,qdası
 sedef,sədəf
 rsule,rsülə
@@ -83109,7 +83108,7 @@ DIYET,DİYET
 IYETA,İYETA
 IDMAN,İDMAN
 ZALIN,ZALIN
-ALINI,ALİNİ
+ALINI,ALINI
 ETMeL,ETMƏL
 TMeLI,TMƏLİ
 geris,geris
@@ -83163,7 +83162,7 @@ ekizi,əkizi
 onimd,onimd
 Sayra,Sayra
 yramb,yramb
-rambe,rambə
+rambe,rambe
 ambey,ambəy
 s-tes,s-təs
 -tesi,-təsi
@@ -83397,7 +83396,7 @@ sebze,səbzə
 ebzel,əbzəl
 bzeli,bzəli
 pilav,pilav
-c-dan,c-dan
+c-dan,ç-dan
 curax,çurax
 Curax,Çurax
 elink,əlink
@@ -83516,7 +83515,7 @@ oyeso,öyəsö
 yesoy,yəsöy
 esoye,əsöyə
 soxub,soxub
-ezisd,əzişd
+ezisd,ezisd
 naxos,naxoş
 axosl,axoşl
 91801,91801
@@ -83612,7 +83611,7 @@ nin-m,nin-m
 in-me,ın-me
 n-mel,n-məl
 Icari,İçari
-carid,çarıd
+carid,çarid
 azetd,azetd
 geldu,gəldu
 eldug,əlduğ
@@ -83980,8 +83979,8 @@ arapo,arapo
 rapo-,rapo-
 apo-s,apo-ş
 po-se,po-şə
-o-ser,o-şər
-nerli,nərli
+o-ser,o-sər
+nerli,nerli
 gerar,gərar
 syayi,şyayi
 yayi-,yayi-
@@ -83999,7 +83998,7 @@ sasak,şaşak
 .6.14,.6.14
 Ahlan,Ahlan
 nes-s,nes-s
-es-si,əs-si
+es-si,es-si
 s-sin,s-sin
 ibulu,ibülü
 fresk,fresk
@@ -84021,7 +84020,7 @@ nistd,nistd
 5#YES,5#YES
 9-1-c,9-1-c
 9-2-c,9-2-c
-imill,imill
+imill,ımill
 snile,şnilə
 Bloql,Bloql
 Hasiy,Haşiy
@@ -84029,7 +84028,7 @@ Albom,Albom
 lbomd,lbomd
 bomda,bomda
 yelmi,yelmi
-yemli,yemli
+yemli,yəmli
 melme,məlmə
 lmeke,lmeke
 meket,meket
@@ -84166,9 +84165,9 @@ a-Qad,a-Qad
 -Qade,-Qade
 ymekd,yməkd
 kimen,kimən
-imena,imena
+imena,iməna
 muahe,muahə
-uahed,üahəd
+uahed,uahəd
 ehdna,əhdna
 hdnam,hdnam
 ilira,ılıra
@@ -84207,7 +84206,7 @@ Eurom,Eurom
 uromo,uromo
 romon,romon
 omone,omone
-Me'lu,Mə’lu
+Me'lu,Mə'lu
 Kisen,Kisən
 Yokar,Yokar
 okari,okari
@@ -84260,7 +84259,7 @@ eyeqe,əyəqə
 yeqed,yəqəd
 Olmaz,Olmaz
 Separ,Separ
-sanso,şanso
+sanso,şanşö
 ansos,ansos
 nsosi,nsosi
 kumek,kümək
@@ -84320,7 +84319,7 @@ t-Kim,t-Kim
 -Kimy,-Kimy
 hurur,hürür
 ihard,ihard
-hardi,hardi
+hardi,hardı
 Gersv,Gerşv
 ersvi,erşvi
 rsvin,rşvin
@@ -84339,7 +84338,7 @@ yir-c,yır-ç
 ir-ce,ır-çə
 r-cem,r-çəm
 msins,mşins
-sinsi,şinsi
+sinsi,sinsi
 Kobud,Kobud
 dluga,dluğa
 lilia,lılıa
@@ -84389,7 +84388,7 @@ k-sim,k-sim
 nqidd,nqidd
 qidde,qiddə
 diili,diili
-lmili,lmili
+lmili,lmılı
 ogdun,oğdun
 Yilla,Yilla
 vux-s,vux-s
@@ -84521,7 +84520,7 @@ Ucabo,Ucabo
 aboyl,aboyl
 mahin,mahın
 qqida,qqıda
-emink,əmink
+emink,emink
 etifs,ətifş
 tifsa,tifşa
 ifsah,ifşah
@@ -84599,7 +84598,7 @@ TABEC,TABEÇ
 ABECI,ABEÇİ
 BECIL,BEÇİL
 ECILI,EÇİLİ
-CILIK,ÇİLİK
+CILIK,CİLİK
 ILIKD,İLİKD
 LIKDe,LİKDƏ
 ULFeT,ÜLFƏT
@@ -84638,7 +84637,7 @@ utonu,utonu
 rpusk,rpusk
 skuly,skuly
 Setub,Setub
-etuba,etuba
+etuba,ətuba
 Sixil,Sıxıl
 qazba,qazba
 azbal,azbal
@@ -84673,12 +84672,12 @@ araqu,araqu
 raqua,raqua
 aqual,aqual
 quali,quali
-Hello,Hello
+Hello,Həllo
 ellol,əllol
 llolu,llolu
 lolun,lolun
 Qavka,Qavka
-vkazi,vkazi
+vkazi,vkazı
 kazin,kazın
 tarns,tarns
 arnsp,arnsp
@@ -84747,7 +84746,7 @@ isits,isits
 geyev,geyev
 eyeva,əyeva
 Panov,Panov
-ri-er,ri-ər
+ri-er,ri-er
 i-erm,i-erm
 apib-,apıb-
 pib-t,pıb-t
@@ -84890,7 +84889,7 @@ vgunl,vğunl
 irdib,irdib
 qlesi,qləşi
 krome,krome
-stank,stank
+stank,ştank
 nkenp,nkenp
 kenpe,kenpə
 nperg,npərg
@@ -84918,7 +84917,7 @@ b-ayi,b-ayı
 .6.11,.6.11
 epmed,əpməd
 pmedi,pmədi
-slerb,slərb
+slerb,şlərb
 siyda,siyda
 iydak,ıydak
 rlise,rlisə
@@ -85050,7 +85049,7 @@ zatio,zatio
 Morie,Morie
 oriel,oriel
 White,White
-tores,törəs
+tores,torəs
 oresa,orəsa
 resas,rəsas
 evi-r,əvi-r
@@ -85129,9 +85128,9 @@ osine,osine
 sinec,sineç
 ineck,ineçk
 necki,neçki
-isovu,isovu
+isovu,ışovu
 xuraf,xuraf
-urafa,urafa
+urafa,ürafa
 fiuti,fiuti
 iutik,iutik
 Oruel,Oruel
@@ -85178,7 +85177,7 @@ Aptek,Aptek
 tmurd,tmurd
 Orucu,Orucu
 dnana,dnana
-ezmez,ezməz
+ezmez,əzməz
 hbese,hbəsə
 Ufuqd,Üfüqd
 uqden,üqdən
@@ -85269,7 +85268,7 @@ ilbor,ilbor
 lbord,lbord
 bordu,bördü
 r-tem,r-təm
-esira,Əşira
+esira,əsıra
 izerl,izerl
 rim-t,rım-t
 im-ti,im-ti
@@ -85324,7 +85323,7 @@ Ismi-,İsmi-
 smi-e,smi-Ə
 mi-ez,mi-Əz
 i-eze,i-Əzə
--ezem,-əzəm
+-ezem,-Əzəm
 risen,risən
 yolsu,yolsu
 olsuz,olsuz
@@ -85351,7 +85350,7 @@ Dante,Dante
 ante',ante’
 nte's,nte’s
 Jubil,Jubil
-Danen,Danən
+Danen,Danen
 baran,baran
 Ayna-,Ayna-
 yna-Z,yna-Z
@@ -85597,7 +85596,7 @@ baqin,baqın
 allam,allam
 llami,llamı
 avaxk,avaxk
-ekutd,əkutd
+ekutd,əkütd
 kutda,kutda
 Seduq,Səduq
 yehzu,yəhzü
@@ -85648,7 +85647,7 @@ z-zed,z-zəd
 zedes,zədəs
 fkarl,fkarl
 hman-,hman-
-man-i,man-i
+man-i,man-ı
 Rehmi,Rəhmi
 Munum,Münüm
 vmekd,vməkd
@@ -85670,7 +85669,7 @@ ldisa,ldısa
 saite,saitə
 40-60,40-60
 ledey,lədəy
-besme,beşme
+besme,beşmə
 Cazme,Cazme
 Isfar,İsfar
 ucmag,uçmağ
@@ -85685,7 +85684,7 @@ obreb,obreb
 breba,breba
 kkurd,kkürd
 kurde,kürdə
-pisi-,pisi-
+pisi-,pısı-
 isi-y,isi-y
 Kadri,Kadri
 Ozcal,Özçal
@@ -85713,7 +85712,7 @@ qirsi,qırsı
 5.387,5.387
 3.715,3.715
 6.477,6.477
-erlib,erlib
+erlib,ərlib
 orucs,orucs
 rucsa,rucsa
 teleh,teleh
@@ -85738,7 +85737,7 @@ akury,akury
 kurya,kurya
 rbely,rbely
 belya,belya
-lis-s,lış-s
+lis-s,lış-ş
 enumd,enumd
 Olmez,Ölməz
 yyumd,yyumd
@@ -85850,7 +85849,7 @@ an-Ri,an-Ri
 n-Ris,n-Riş
 -Risa,-Rişa
 Risat,Rişat
-isata,isata
+isata,işata
 ldenl,ldənl
 strof,strof
 Resed,Rəsəd
@@ -85921,7 +85920,7 @@ ikiil,ikiil
 kiill,kiill
 nuzse,nüzsə
 basni,başnı
-asniz,asniz
+asniz,aşnız
 snizi,şnızı
 ridim,rıdım
 amist,amist
@@ -85947,7 +85946,7 @@ rhabr,rhabr
 sidiq,şıdıq
 uzub-,üzüb-
 zub-q,züb-q
-ub-qo,üb-qo
+ub-qo,ub-qo
 b-qos,b-qoş
 sduql,şduql
 epekl,əpəkl
@@ -85978,7 +85977,7 @@ n-qab,n-qab
 -qabi,-qabı
 abiqd,abıqd
 biqda,bıqda
-erekc,erəkç
+erekc,erekc
 rekce,rekce
 Kissh,Kissh
 issho,issho
@@ -86077,7 +86076,7 @@ al-ti,al-tı
 l-tiu,l-tıu
 -tiua,-tıua
 tiuar,tıuar
-irded,irdəd
+irded,ırded
 ezimk,əzimk
 zimka,zimka
 imkar,imkar
@@ -86182,7 +86181,7 @@ iemen,iemen
 emens,emens
 Compu,Compu
 Audin,Audin
-osun-,oşun-
+osun-,osun-
 sun-q,şun-q
 n-qus,n-quş
 -qusu,-quşu
@@ -86213,7 +86212,7 @@ ti-qa,ti-qa
 i-qah,i-qah
 -qahi,-qahi
 qahir,qahir
-ibley,ibləy
+ibley,ibley
 bleyi,bleyi
 eyi-a,eyi-a
 yi-al,yi-al
@@ -86229,7 +86228,7 @@ i-efs,i-əfs
 -efse,-əfsə
 efsel,əfsəl
 fsele,fsələ
-elaly,əlaly
+elaly,elaly
 lalya,lalya
 inlec,inləç
 nlecd,nləçd
@@ -86336,7 +86335,7 @@ inadc,inadc
 nadci,nadcı
 adcil,adçıl
 dcill,dcıll
-seri-,şeri-
+seri-,səri-
 eri-s,əri-s
 i-sim,i-sim
 -simf,-simf
@@ -86380,7 +86379,7 @@ uzuya,uzuya
 clafl,clafl
 lafla,lafla
 Adiml,Adıml
-te'bi,tə'bi
+te'bi,tə’bi
 e'bir,ə’bir
 'biri,’biri
 Chipp,Chipp
@@ -86543,14 +86542,14 @@ yfada,yfada
 000-6,000-6
 00-60,00-60
 rdiak,rdiak
-rusud,rüşüd
+rusud,rusud
 urnas,urnas
 feslu,fəslu
 eslug,əsluğ
 lendu,ləndü
 nduri,ndüri
 acidu,açidü
-cidur,çidur
+cidur,çidür
 idurl,idurl
 izins,izins
 zinse,zinsə
@@ -86566,12 +86565,12 @@ amiyi,amıyı
 miyiq,mıyıq
 ersek,ersək
 damim,damım
-lfete,lfətə
+lfete,lfetə
 uluma,uluma
 vipad,vıpad
 ipade,ıpade
 paden,paden
-denie,denie
+denie,deniə
 tervo,tervo
 ervok,ervok
 rvoka,rvoka
@@ -86699,7 +86698,7 @@ ireal,ireal
 ealil,ealıl
 Simea,Şimea
 imeal,imeal
-meali,mealı
+meali,məali
 Sukal,Sukal
 ukali,ukalı
 -11-d,-11-d
@@ -86853,9 +86852,9 @@ Dizim,Dizim
 etdax,ətdax
 tdaxi,tdaxi
 nlunm,nlunm
-zilsa,zılşa
+zilsa,zılsa
 ilsad,ilşad
-lsadi,lsadı
+lsadi,lşadı
 vureg,vürəg
 urege,ürəgə
 regel,rəgəl
@@ -86924,7 +86923,7 @@ AXC-M,AXC-M
 XC-Mu,XC-Mü
 C-Mus,C-Müs
 -Musa,-Müsa
-orets,örəts
+orets,orets
 kmisl,kmişl
 purmu,pürmü
 kdimi,kdimi
@@ -87037,7 +87036,7 @@ ramor,ramor
 ranze,ranzə
 anzem,anzəm
 Pirca,Pirca
-ircam,ircam
+ircam,ırçam
 rcama,rcama
 Dehra,Dəhra
 ehraz,əhraz
@@ -87075,7 +87074,7 @@ Qaxgi,Qaxgi
 axgil,axgil
 xgili,xgili
 Serci,Serci
-ercio,ercio
+ercio,erçio
 Divin,Divin
 ivina,ivina
 irxac,ırxac
@@ -87361,7 +87360,7 @@ negul,nəgül
 xarkt,xarkt
 arkte,arkte
 rkter,rkter
-Cermu,Çermu
+Cermu,Çərmü
 ermuk,ərmük
 Abast,Abast
 bastu,bastu
@@ -87383,7 +87382,7 @@ ANDAU,ANDAU
 Alzas,Alzas
 Muluz,Müluz
 Qreta,Qreta
-Komur,Kömür
+Komur,Komur
 Alice,Alicə
 zdene,zdənə
 mvayd,mvayd
@@ -87420,7 +87419,7 @@ i-tez,i-tez
 psirs,pşırs
 Logon,Logon
 ogonu,ogonu
-gonun,gonun
+gonun,gönün
 salxa,salxa
 lxaqd,lxaqd
 xaqdi,xaqdı
@@ -87520,7 +87519,7 @@ n-poc,n-poç
 POSTL,POSTL
 OSTLU,OSTLU
 STLUD,STLUD
-TLUDI,TLUDİ
+TLUDI,TLUDI
 LUDIO,LUDIO
 adibe,adibə
 dibel,dibəl
@@ -87609,9 +87608,9 @@ aqapi,aqapı
 Imans,İmans
 -goze,-gözə
 merdi,mərdi
-erdi-,erdi-
+erdi-,ərdi-
 rdi-m,rdi-m
-i-mer,i-mər
+i-mer,ı-mər
 -merd,-mərd
 rdane,rdanə
 urerd,ürərd
@@ -87644,7 +87643,7 @@ UeMMA,ÜƏMMA
 ZIDDI,ZİDDİ
 IDDIY,İDDİY
 DDIYY,DDİYY
-ldirk,ldirk
+ldirk,ldırk
 Duzda,Duzda
 uzdag,uzdağ
 zdagd,zdağd
@@ -87815,7 +87814,7 @@ mzine,mzinə
 04037,04037
 xusan,xusan
 ndlis,ndlis
-dlisi,dlisi
+dlisi,dlısı
 eRZAQ,ƏRZAQ
 ALLAR,ALLAR
 LLARI,LLARI
@@ -87898,7 +87897,7 @@ affet,affet
 vmemi,vməmi
 bil-m,bil-m
 l-mir,l-mir
-oseye,öşəyə
+oseye,oseye
 tafal,tafal
 hined,hinəd
 azary,azary
@@ -88051,7 +88050,7 @@ oqarm,oqarm
 NTK-n,NTK-n
 ntiak,ntiak
 tiaks,tiaks
-iaksi,iaksi
+iaksi,iaksı
 ihtiv,ihtiv
 ynerk,ynərk
 Eynal,Eynal
@@ -88081,7 +88080,7 @@ Lesvo,Lesvo
 esvos,esvos
 Adasi,Adası
 Midil,Midil
-grand,ğrand
+grand,grand
 coxyo,çoxyö
 oxyon,oxyön
 xyonl,xyönl
@@ -88199,7 +88198,7 @@ ganuz,ğanuz
 anuzi,anuzı
 nuzin,nuzın
 297-s,297-s
-97-si,97-сi
+97-si,97-si
 kiple,kiplə
 plesd,pləşd
 Ereti,Ereti
@@ -88596,7 +88595,7 @@ oquma,oquma
 Estao,Eştao
 staol,ştaol
 opusu,öpüşü
-pusur,püsür
+pusur,püşür
 EKOSE,EKOSE
 KOSEK,KOSEK
 OSEKS,OSEKS
@@ -88808,7 +88807,7 @@ Yanaq,Yanaq
 qriqo,qriqo
 qoria,qoria
 temiy,temiy
-emiyl,əmiyl
+emiyl,emiyl
 SEVIL,SEVİL
 NURIY,NURİY
 URIYE,URİYE
@@ -88848,7 +88847,7 @@ incun,inçün
 trinl,trinl
 siqi-,siqi-
 iqi-s,iqi-s
-qi-se,qi-sə
+qi-se,qi-se
 i-ses,i-səs
 -sesl,-səsl
 e'caz,e'caz
@@ -88894,7 +88893,7 @@ niana,niana
 ana-t,ana-t
 na-to,na-to
 a-tov,a-tov
--tovl,-tovl
+-tovl,-tövl
 Axsaq,Axsaq
 ulart,ulart
 Qaca-,Qaça-
@@ -88978,7 +88977,7 @@ neste,neştə
 estez,estez
 stezi,stezi
 teziy,teziy
-devle,devlə
+devle,dəvlə
 sensi,sensi
 ensit,ensit
 sitiv,sitiv
@@ -88993,7 +88992,7 @@ urtua,urtua
 rtuaz,rtuaz
 loru-,loru-
 oru-q,oru-q
-ru-qe,rü-qə
+ru-qe,ru-qə
 u-qed,ü-qəd
 zovqi,zövqi
 qisli,qisli
@@ -89190,7 +89189,7 @@ temal,temal
 bio-f,bio-f
 io-fi,io-fi
 o-fiz,o-fiz
-sibbo,sibbo
+sibbo,şibbo
 ibbol,ibbol
 bbole,bbole
 bolet,bolet
@@ -89227,7 +89226,7 @@ dyojn,dyojn
 yojna,yojna
 ojnay,ojnay
 jnaya,jnaya
-nuzdu,nüzdü
+nuzdu,nuzdu
 ntikv,ntikv
 tikva,tikva
 ikvar,ikvar
@@ -89556,7 +89555,7 @@ qemim,qəmim
 doyse,döysə
 oysen,öysən
 colaq,çolaq
-Verme,Vermə
+Verme,Verme
 1322-,1322-
 322-c,322-c
 Axsad,Axsad
@@ -89871,7 +89870,7 @@ edeme,edəmə
 zeqqu,zəqqu
 eqqum,əqqum
 qqumu,qqumu
-amila,amila
+amila,amıla
 milar,mılar
 adizm,adızm
 dizma,dızma
@@ -89944,7 +89943,7 @@ ekris,əkris
 krisk,krisk
 Eldad,Eldad
 Medad,Medad
-ilqey,ilqəy
+ilqey,ilqey
 lqeye,lqəyə
 Putlu,Putlu
 tlula,tlula
@@ -89997,7 +89996,7 @@ Olunu,Ölünü
 ixli_,ixli_
 xli__,xli__
 li___,li___
-____s,____ş
+____s,____s
 ___sa,___sa
 __say,__say
 _sayl,_sayl
@@ -90132,7 +90131,7 @@ ti-ge,ti-ğə
 -gerr,-ğərr
 gerra,ğərra
 erran,erran
-zerbi,zerbi
+zerbi,zərbi
 emmin,əmmin
 mmine,mminə
 zeban,zəban
@@ -90230,7 +90229,7 @@ eksse,eksse
 kssen,kssen
 ntrik,ntrik
 vecsi,vecsi
-ecsiz,əcşiz
+ecsiz,ecsiz
 Ilgar,Ilgar
 3.8.1,3.8.1
 3.8.9,3.8.9
@@ -90248,7 +90247,7 @@ Emin-,Emin-
 min-i,min-i
 in-in,in-in
 Antiv,Antiv
-untuy,untuy
+untuy,üntüy
 ntuya,ntuya
 Gulum,Gülüm
 lgizi,lgizi
@@ -90439,7 +90438,7 @@ usted,ustəd
 ralai,ralaı
 alail,alaıl
 laila,laıla
-ailar,ailar
+ailar,aılar
 Antra,Antra
 stros,stros
 rosid,rosid
@@ -90597,7 +90596,7 @@ ard-i,ard-ı
 rd-in,rd-ın
 uperd,uperd
 perdu,perdu
-hezmi,həzmı
+hezmi,həzmi
 iyire,iyirə
 sorsu,sorsu
 bulsu,bulsu
@@ -90696,7 +90695,7 @@ okiod,okiod
 kioda,kioda
 qirtm,qırtm
 suuri,şüuri
-rtiga,rtıga
+rtiga,rtiga
 klamc,klamç
 Galan,Galan
 gbanc,ğbanç
@@ -90759,7 +90758,7 @@ q-seh,q-səh
 ube-i,übə-i
 be-ix,bə-ix
 02.10,02.10
-yuney,yunəy
+yuney,yünəy
 yiren,yirən
 nehre,nəhrə
 bkara,bkara
@@ -90775,7 +90774,7 @@ kunbe,künbə
 30.03,30.03
 Medem,Mədəm
 kress,kress
-ceple,ceple
+ceple,çəplə
 eples,əpləş
 plesi,pləşi
 epaso,epaso
@@ -90804,7 +90803,7 @@ uylak,uylak
 gomle,gömle
 omleg,omleg
 mlegi,mlegi
-tiski,tişki
+tiski,tıskı
 kogyl,koğyl
 ogyle,oğyle
 gylek,ğylek
@@ -90922,7 +90921,7 @@ uzer-,uzer-
 zer-e,zer-Ə
 er-em,er-Əm
 r-eme,r-Əmə
-reste,reste
+reste,rəstə
 Maasl,Maaşl
 19.00,19.00
 rdark,rdark
@@ -90967,7 +90966,7 @@ omisi,omisi
 bebis,bəbis
 ebise,əbisə
 zan-e,zan-Ə
-an-ey,an-Əy
+an-ey,an-əy
 n-eyr,n-Əyr
 rogeo,rogeo
 ogeol,ogeol
@@ -91029,7 +91028,7 @@ duzmu,düzmü
 aetid,aətid
 izinm,ızınm
 lasyo,lasyo
-syonl,syonl
+syonl,şyonl
 mpunl,mpunl
 punla,punla
 batra,batra
@@ -91162,7 +91161,7 @@ lipti,lipti
 iptik,iptik
 CIDIN,CİDİN
 IDINI,İDİNİ
-DININ,DİNİN
+DININ,DININ
 YANIN,YANIN
 ANIND,ANIND
 NINDA,NINDA
@@ -91251,7 +91250,7 @@ silag,sılağ
 irtar,ırtar
 celey,cələy
 Qabla,Qabla
-centl,centl
+centl,çentl
 exten,exten
 xtens,xtens
 zunex,zünəx
@@ -91273,7 +91272,7 @@ xarim,xarım
 oyend,öyənd
 lik-d,lik-d
 beqeb,beqeb
-eqebu,eqebu
+eqebu,əqəbu
 yaqal,yaqal
 geley,gələy
 rdure,rdürə
@@ -91545,9 +91544,9 @@ senie,şeniə
 eniex,eniəx
 Poesn,Poəsn
 oesne,oəsne
-esnen,əsnən
-sneni,sneni
-nenie,neniə
+esnen,əsnen
+sneni,snəni
+nenie,nenie
 nekot,nekot
 ekoto,ekoto
 kotor,kotor
@@ -91562,7 +91561,7 @@ sxojd,sxojd
 xojde,xojde
 ojden,ojden
 Nekot,Nekot
-torie,toriə
+torie,torıe
 osobe,osobe
 obenn,obenn
 benno,benno
@@ -91638,7 +91637,7 @@ ey-Qa,əy-Qa
 y-Qal,y-Qal
 erbaf,ərbaf
 Bolot,Bolot
-emsiy,əmşiy
+emsiy,əmsiy
 msiye,msiyə
 19.03,19.03
 unubm,unubm
@@ -91664,7 +91663,7 @@ covla,cövla
 et-Ar,et-Ar
 -Arbe,-Arbe
 Arbel,Arbel
-nnumu,nnümu
+nnumu,nnümü
 Ussal,Ussal
 lcalm,lçalm
 amuss,amuss
@@ -91797,7 +91796,7 @@ abdas,abdas
 ab-su,ab-su
 das-e,das-ə
 as-el,as-əl
-Velve,Vəlvə
+Velve,Velve
 nderg,nderg
 dergr,dergr
 ergro,ergro
@@ -91819,7 +91818,7 @@ li-su,li-sü
 i-sun,i-sün
 pesem,peşəm
 esemd,əşəmd
-semde,şəmdə
+semde,səmdə
 ehanc,ehanc
 aytid,aytıd
 ytidi,ytıdı
@@ -91936,8 +91935,8 @@ tellu,tellu
 ellux,ellux
 lterl,lterl
 zulfu,zülfü
-ulfun,ülfun
-lfunu,lfünü
+ulfun,ülfün
+lfunu,lfunu
 nagam,nağam
 Headw,Headw
 eadwa,eadwa
@@ -92013,7 +92012,7 @@ usiyd,usiyd
 ektil,ektil
 ktile,ktilə
 perik,perik
-Seyre,Seyre
+Seyre,Seyrə
 yreng,yrəng
 Janua,Janua
 anuar,anuar
@@ -92092,7 +92091,7 @@ xmeel,xmeel
 meeli,məəli
 eelin,eelin
 olsek,ölsək
-uranc,uranc
+uranc,uranç
 urmiy,ürmiy
 lipil,lipil
 ipili,ipili
@@ -92257,7 +92256,7 @@ BLeND,BLƏND
 403-c,403-c
 39496,39496
 Libas,Libas
-Samqa,Samqa
+Samqa,Şamqa
 amqar,amqar
 payas,payas
 ugamv,uğamv
@@ -92312,7 +92311,7 @@ a-san,a-san
 umdet,umdət
 mdete,mdətə
 rscay,rscay
-munhe,münhə
+munhe,munhə
 unhes,unhəs
 nhesi,nhəsi
 fayiz,fayız
@@ -92335,7 +92334,7 @@ carix,çarıx
 qonua,qonüa
 onuar,onüar
 nuari,nüarı
-uarix,uarıx
+uarix,üarıx
 diqor,diqor
 TKQ-n,TKQ-n
 KQ-ni,KQ-nı
@@ -92350,7 +92349,7 @@ dusma,düşma
 ikihe,ikihe
 kihec,kihec
 iheca,iheca
-birhe,birhe
+birhe,birhə
 irhec,irhec
 rheca,rheca
 eydur,eydür
@@ -92485,7 +92484,7 @@ egile,əgilə
 6.3.3,6.3.3
 ABBni,ABBni
 BBnin,BBnin
-rirli,rirli
+rirli,rırlı
 irlir,irlir
 sacar,saçar
 Eksku,Eksku
@@ -92604,7 +92603,7 @@ agavi,ağavi
 gaviz,ğaviz
 avizd,avizd
 vizde,vizdə
-giyib,giyib
+giyib,ğıyıb
 qirci,qırçı
 boguq,boğuq
 eftek,əftək
@@ -92768,7 +92767,7 @@ e-hiy,ə-hiy
 -hiyy,-hiyy
 Demde,Dəmdə
 mdeme,mdəmə
-emeki,emeki
+emeki,əməki
 llane,llanə
 lanes,lanəs
 anesr,anəsr
@@ -92826,7 +92825,7 @@ esful,əşful
 sful-,şful-
 ful-M,ful-М
 ul-Mu,ül-Mü
-l-Mur,l-Mur
+l-Mur,l-Мur
 -Mura,-Мura
 ayyan,ayyan
 yyani,yyanı
@@ -92962,7 +92961,7 @@ Ayyad,Ayyad
 yyada,yyada
 Anany,Anany
 Gitta,Gitta
-ttayi,ttayı
+ttayi,ttayi
 Xadid,Xadid
 Neval,Neval
 can-K,can-K
@@ -93499,7 +93498,7 @@ e'rif,ə’rif
 dolu-,dolu-
 dioek,dioek
 ioeks,ioəks
-oeksi,oeksi
+oeksi,oəksi
 efesk,əfəsk
 feske,fəskə
 uzaq-,uzaq-
@@ -93583,7 +93582,7 @@ e-dek,Ə-dək
 cugla,çuğla
 uglay,uğlay
 Baxib,Baxıb
-eldig,eldiğ
+eldig,əldığ
 150'c,150’c
 50'ci,50’ci
 sayfa,sayfa
@@ -93770,7 +93769,7 @@ Nekro,Nekro
 Valna,Valna
 Sehab,Şəhab
 el-es,əl-Əs
-l-esa,l-Əsa
+l-esa,l-Əşa
 -esar,-Əşar
 el-Cu,əl-Cü
 l-Cuh,l-Cüh
@@ -93831,7 +93830,7 @@ veyey,vəyey
 rmudb,rmudb
 mudbi,mudbi
 udbir,udbir
-bires,birəş
+bires,birəs
 lmagu,lmagü
 maguv,magüv
 aguve,agüvə
@@ -94005,7 +94004,7 @@ naqke,naqkə
 aqken,aqkən
 qkend,qkənd
 ecekt,əçəkt
-cektu,çəktü
+cektu,çəktu
 Islim,İslim
 Butal,Butal
 "966,1","966,1"
@@ -94310,7 +94309,7 @@ huill,huill
 uilli,uilli
 llier,llier
 .13.5,.13.5
-ahars,ahars
+ahars,aharş
 harsa,harşa
 arsay,arsay
 rsaya,rsaya
@@ -94395,7 +94394,7 @@ Goy-g,Göy-g
 oy-go,öy-gö
 y-gol,y-göl
 kalma,kalma
-alin-,alin-
+alin-,alın-
 lin-m,lın-m
 in-ma,ın-ma
 n-mas,n-mas
@@ -94536,8 +94535,8 @@ INFOR,İNFOR
 NFORM,NFORM
 FORM-,FORM-
 ORM-a,ORM-a
-AFORI,AFORI
-FORIZ,FORIZ
+AFORI,AFORİ
+FORIZ,FORİZ
 ORIZM,ORİZM
 RIZMI,RİZMİ
 ZMINI,ZMİNİ
@@ -94554,7 +94553,7 @@ londu,londu
 gadir,ğadır
 isiyd,işiyd
 nktiy,nktiy
-ktiyl,ktiyl
+ktiyl,ktıyl
 acall,acall
 calla,calla
 isrir,işrir
@@ -94624,7 +94623,7 @@ criva,criva
 rivai,rivai
 ivain,ivain
 enseu,enseu
-nindu,nindu
+nindu,nındü
 indun,ındün
 nduny,ndüny
 Orfoe,Orfoe
@@ -94905,7 +94904,7 @@ Neftd,Neftd
 alomd,alomd
 ksune,ksünə
 Vurub,Vurub
-galas,ğalas
+galas,ğalaş
 ovqet,övqet
 vqetm,vqetm
 uymur,uymur
@@ -95260,7 +95259,7 @@ leoge,leoge
 eogen,eogen
 ogen-,ogen-
 gen-m,gen-m
-en-mi,ən-mi
+en-mi,en-mi
 n-mio,n-mio
 -mios,-mios
 miose,miose
@@ -95319,7 +95318,7 @@ OS-KU,OS-KU
 S-KUR,S-KUR
 -KURO,-KURO
 cenla,cənla
-enlan,ənlan
+enlan,enlan
 Supar,Supar
 upari,upari
 180-e,180-ə
@@ -95515,7 +95514,7 @@ Vucud,Vücud
 cemyy,cəmyy
 emyye,əmyyə
 sepse,səpsə
-epsel,epsel
+epsel,əpsəl
 psele,psələ
 Taund,Taund
 burme,bürmə
@@ -95527,8 +95526,8 @@ ilept,ilept
 lepti,lepti
 ptikd,ptikd
 EOKA-,EOKA-
-OKA-c,OKA-ç
-KA-ci,KA-çı
+OKA-c,OKA-c
+KA-ci,KA-cı
 Kumir,Kumir
 umiri,umiri
 yrcin,yrçin
@@ -95601,7 +95600,7 @@ Inami,İnamı
 Etika,Etika
 pkile,pkilə
 01.10,01.10
-yatur,yatur
+yatur,yatür
 okub-,öküb-
 kub-d,küb-d
 rkara,rkara
@@ -95736,7 +95735,7 @@ cot-h,çot-h
 ot-he,ot-he
 t-hes,t-hes
 Merat,Merat
-erata,ərata
+erata,erata
 eqodd,eqodd
 qodda,qodda
 saftd,şaftd
@@ -95753,7 +95752,7 @@ rilyo,rilyo
 WiFi-,WiFi-
 iFi-l,iFi-l
 Fi-la,Fi-la
-i-lar,i-lar
+i-lar,ı-lar
 Virci,Virci
 ciniy,ciniy
 Ricmo,Riçmo
@@ -95849,7 +95848,7 @@ a-Len,a-Len
 -Leni,-Leni
 ninak,ninak
 nakan,nakan
-rdell,rdell
+rdell,rdəll
 Aseli,Aseli
 Bokru,Bokru
 Seary,Şeary
@@ -95935,9 +95934,9 @@ ftull,ftull
 telid,telid
 1802-,1802-
 802-c,802-c
-vecle,vəclə
+vecle,veçlə
 rosad,rosad
-sadik,sadik
+sadik,şadık
 belbe,belbe
 elbeu,elbeu
 uzmas,uzmas
@@ -95990,7 +95989,7 @@ Broun,Broun
 -27-d,-27-d
 taled,taled
 -30-s,-30-s
-30-su,30-сu
+30-su,30-su
 nacin,naçın
 vkadi,vkadı
 alino,alino
@@ -96020,7 +96019,7 @@ engoy,əngöy
 dumbe,dümbə
 umbel,ümbəl
 anbos,anboş
-lumbe,lumbe
+lumbe,lümbə
 lenlu,lənlü
 enlut,ənlüt
 arxli,arxlı
@@ -96093,7 +96092,7 @@ blioq,blioq
 Asosi,Asosi
 ndlie,ndlıə
 dlier,dlıər
-lmaso,lmasö
+lmaso,lmaso
 Xozey,Xozey
 Behda,Bəhda
 ehdas,əhdaş
@@ -96334,7 +96333,7 @@ cated,cated
 socie,socie
 ociet,ociet
 ciety,ciety
-zilim,zilim
+zilim,zılım
 5-34-,5-34-
 -34-8,-34-8
 34-87,34-87
@@ -96562,8 +96561,8 @@ Dulus,Dulus
 iyasm,iyasm
 yasmd,yasmd
 oses-,oses-
-es-su,eş-sü
-s-sua,s-sua
+es-su,es-su
+s-sua,ş-şüa
 ktlan,ktlan
 tlann,tlann
 lannd,lannd
@@ -96583,8 +96582,8 @@ airza,airza
 Asiql,Aşıql
 Hacik,Hacık
 acike,acıkə
-Goy-G,Goy-G
-oy-Go,oy-Go
+Goy-G,Göy-G
+oy-Go,öy-Gö
 y-Gol,y-Gol
 opalh,opalh
 palhe,palhə
@@ -96595,10 +96594,10 @@ Ucbul,Üçbul
 cbula,çbula
 Qusqa,Quşqa
 usqar,uşqar
-Balci,Balci
+Balci,Balcı
 ntosa,ntosa
 mante,mante
-anter,antər
+anter,anter
 teray,teray
 erayy,erayy
 rayya,rayya
@@ -96611,7 +96610,7 @@ iriyn,iriyn
 Xudam,Xudam
 iltim,iltim
 timas,timas
-imasa,imasa
+imasa,ımasa
 rtajd,rtajd
 eribm,eribm
 ribmi,ribmi
@@ -96669,7 +96668,7 @@ van-s,van-s
 evina,evinä
 xosxa,xoşxa
 osxas,oşxas
-sxasi,şxaşı
+sxasi,şxasi
 mai-b,mai-b
 ai-be,ai-bə
 i-bes,i-bəş
@@ -96700,7 +96699,7 @@ halkl,halkl
 alkla,alkla
 lklar,lklar
 hayva,hayva
-iriyo,iriyo
+iriyo,ırıyo
 zidet,zidet
 ideti,ideti
 19.41,19.41
@@ -96796,7 +96795,7 @@ vador,vador
 adoru,adoru
 Corre,Corre
 orrea,orrea
-ITV-n,ITV-n
+ITV-n,İTV-n
 soyqa,soyqa
 oyqar,oyqar
 yqard,yqard
@@ -97011,7 +97010,7 @@ a-ala,a-ala
 yyumu,yyumu
 X-DSL,X-DSL
 doyam,doyam
-eyrix,eyrix
+eyrix,əyrix
 yrixe,yrixə
 rixet,rixət
 ixetl,ixətl
@@ -97034,7 +97033,7 @@ AS-in,AS-ın
 Alime,Alimə
 limeq,liməq
 imeqa,iməqa
-eyi-t,əyi-t
+eyi-t,eyi-t
 yi-te,yi-tə
 i-teq,i-təq
 -teql,-təql
@@ -97078,7 +97077,7 @@ qlaqr,qlaqr
 laqri,laqrı
 aqrim,aqrim
 iddis,iddis
-disid,disid
+disid,dışıd
 naill,naill
 aygir,ayğır
 ygiri,yğırı
@@ -97183,7 +97182,7 @@ lla-E,lla-E
 la-El,la-El
 a-Elm,a-Elm
 -Elml,-Elml
-ilerc,ilərç
+ilerc,ilerç
 ydino,ydıno
 Ev-mu,Ev-mu
 ddi-b,ddi-b
@@ -97392,7 +97391,7 @@ emsio,əmşio
 msioy,mşioy
 sioyl,şioyl
 ioylu,ioylu
-Samsv,Samsv
+Samsv,Samşv
 amsve,amsve
 msver,msver
 sveri,şveri
@@ -97526,7 +97525,7 @@ gudun,güdün
 xorme,xorme
 rmeys,rmeys
 Mesta,Məsta
-stano,stano
+stano,ştano
 asovd,aşovd
 Qiday,Qiday
 idaya,ıdaya
@@ -97559,7 +97558,7 @@ obcak,obçak
 bcaki,bçakı
 cakin,çakın
 Yavli,Yavli
-avlin,avlın
+avlin,avlin
 vlins,vlins
 aburi,aburi
 burin,burin
@@ -97664,7 +97663,7 @@ ostst,ostst
 ststr,ststr
 tstru,tstru
 guzal,güzal
-uzali,uzalı
+uzali,üzalı
 zaliq,zalıq
 ivat-,ivat-
 vat-d,vat-d
@@ -97694,7 +97693,7 @@ rar__,rar__
 ar___,ar___
 r____,r____
 ikumd,ikumd
-kumda,kumda
+kumda,kümda
 enisc,enişç
 nisce,nişçe
 isces,işçeş
@@ -97737,7 +97736,7 @@ zil-k,zil-k
 20-40,20-40
 isasd,isasd
 rusu-,rusu-
-usu-s,usu-s
+usu-s,uşu-s
 su-so,su-so
 -sorg,-sorğ
 araqd,araqd
@@ -97799,7 +97798,7 @@ ekmat,ekmat
 kmatd,kmatd
 matdu,matdu
 atdur,atdur
-kavus,kavus
+kavus,kavuş
 avuss,avuşs
 vussa,vuşsa
 ussam,uşsam
@@ -97826,7 +97825,7 @@ sn-re,sn-rə
 n-reg,n-rəğ
 -regb,-rəğb
 ri-ye,ri-ye
--yerl,-yərl
+-yerl,-yerl
 qtand,qtand
 Almod,Almod
 lmoda,lmoda
@@ -97949,7 +97948,7 @@ ura-o,ura-o
 ra-ot,ra-ot
 a-otu,a-otu
 Muzdu,Muzdu
-zdurd,zdurd
+zdurd,zdürd
 Heyve,Heyvə
 keyiy,keyiy
 yiyen,yiyən
@@ -97973,7 +97972,7 @@ smamd,şmamd
 14-ci,14-ci
 ilatm,ılatm
 rcles,rcləs
-ebetl,ebetl
+ebetl,əbətl
 Onaly,Onaly
 E-Bey,E-Bəy
 deqra,deqra
@@ -98041,7 +98040,7 @@ eaful,eaful
 afult,afult
 lidla,lıdla
 berem,bərəm
-urmet,urmet
+urmet,ürmət
 bilax,bilax
 HUSEY,HÜSEY
 USEYN,ÜSEYN
@@ -98072,7 +98071,7 @@ ukini,ukini
 kinis,kinis
 portm,portm
 dqiqe,dqiqe
-hnind,hnind
+hnind,hnınd
 bbusc,bbüsç
 buscu,büsçü
 yecis,yəçis
@@ -98187,7 +98186,7 @@ om-bo,om-bo
 m-bos,m-boş
 tlars,tlars
 eviyd,eviyd
-viydi,viydi
+viydi,vıydı
 ebe-p,əbə-p
 be-pr,bə-pr
 azyay,azyay
@@ -98230,7 +98229,7 @@ ourne,ourne
 urney,urney
 Poezi,Poezi
 sebus,şəbüs
-ebust,əbüst
+ebust,ebust
 buste,bustə
 lsen-,lşən-
 sen-i,şən-i
@@ -98283,7 +98282,7 @@ es-ro,es-ro
 s-roc,s-roc
 -rock,-rock
 ysine,ysinə
-zmusu,zmüşü
+zmusu,zmüsü
 nkide,nkidə
 Azlar,Azlar
 Azqyu,Azqyu
@@ -98329,7 +98328,7 @@ litva,litva
 Skirm,Skirm
 kirma,kirma
 Qumsa,Qumsa
-ennan,ənnan
+ennan,ennan
 nahli,nahlı
 1-cid,1-cid
 ft-ko,ft-ko
@@ -98545,7 +98544,7 @@ taqqa,taqqa
 aqqat,aqqat
 qqata,qqata
 arin-,arın-
-rin-n,rın-n
+rin-n,rin-n
 in-na,ın-na
 n-nar,n-nar
 -nari,-narı
@@ -98576,7 +98575,7 @@ eqar-,eqar-
 qar-S,qar-S
 ar-Sa,ar-Sa
 r-Sah,r-Sah
--Saha,-Saha
+-Saha,-Şaha
 Sahad,Sahad
 ahadu,ahadu
 hadut,hadut
@@ -98629,11 +98628,11 @@ ngkre,ngkre
 gkrev,gkrev
 kreva,kreva
 Memis,Məmiş
-Xanci,Xançı
-ancig,ançığ
-nciga,nçığa
+Xanci,Xancı
+ancig,ancığ
+nciga,ncığa
 eyter,eyter
-ytere,yterə
+ytere,ytərə
 erefc,ərəfç
 refci,rəfçi
 cqird,çqırd
@@ -98849,7 +98848,7 @@ uxalf,üxalf
 xalfe,xalfə
 lfetc,lfətç
 UTF-8,UTF-8
-teqin,təqin
+teqin,teqin
 eqind,əqind
 uurli,üurli
 4-197,4-197
@@ -98932,7 +98931,7 @@ wkins,wkins
 Unika,Unika
 Sasen,Saşen
 asenk,aşenk
-senka,senka
+senka,şenka
 IReLI,İRƏLİ
 nizey,nizəy
 zeyem,zəyəm
@@ -99133,7 +99132,7 @@ ohoku,ohoku
 Ezray,Ezray
 zraya,zraya
 mkun-,mkün-
-kun-l,kun-l
+kun-l,kün-l
 un-lu,ün-lü
 n-luy,n-lüy
 -luyu,-lüyü
@@ -99167,7 +99166,7 @@ oqqab,oqqab
 qqaba,qqaba
 qabaz,qabaz
 abazl,abazl
-crilm,crilm
+crilm,çrilm
 qqayl,qqayl
 oredd,örədd
 elast,elast
@@ -99245,7 +99244,7 @@ zuret,zurət
 okall,okall
 rkutu,rkütü
 kutuc,kütüc
-utucu,utucu
+utucu,ütücü
 ltare,ltare
 tares,tares
 4.8.1,4.8.1
@@ -99324,7 +99323,7 @@ Yanli,Yanlı
 ltana,ltana
 29870,29870
 six-s,sıx-s
-ix-si,ix-si
+ix-si,ıx-sı
 x-six,x-sıx
 906-c,906-c
 imato,imato
@@ -99380,12 +99379,12 @@ esihc,əsihç
 sihci,sihçi
 axing,axıng
 xingo,xıngö
-ingor,ıngör
+ingor,ingör
 ngorm,ngörm
 zarib,zarıb
 Naxir,Naxır
 asibm,aşıbm
-sibmi,şıbmı
+sibmi,şibmi
 SMPDK,SMPDK
 ELS-M,ELS-M
 LS-Mu,LS-Mü
@@ -99410,16 +99409,16 @@ hur-b,hür-b
 ur-ba,ür-ba
 r-bar,r-bar
 -barm,-barm
-qcill,qcıll
+qcill,qçıll
 Suahl,Şuahl
 uahli,uahlı
 Bilda,Bilda
 teerc,təərc
 eercu,əərcü
-mmani,mmani
+mmani,mmanı
 oxmuy,oxmuy
 xmuyd,xmuyd
-muydu,müydü
+muydu,muydu
 pinib,pınıb
 197-c,197-c
 npvle,npvlə
@@ -99627,7 +99626,7 @@ ticev,ticəv
 tuqun,tüqün
 aranu,aranu
 ranut,ranut
-muska,muşka
+muska,muska
 mesur,məşur
 Velic,Vəlic
 serrl,sərrl
@@ -99780,7 +99779,7 @@ Peopl,Peopl
 perep,perep
 erepa,erepa
 humus,humus
-elenn,elenn
+elenn,ələnn
 lennm,lənnm
 ennme,ənnmə
 baru-,baru-
@@ -99790,9 +99789,9 @@ u-dan,u-dan
 yurem,yürəm
 acaqr,acaqr
 ltada,ltada
-ucukl,uçukl
+ucukl,üçükl
 cukle,çüklə
-cib-t,çib-t
+cib-t,çıb-t
 -toke,-tökə
 Ioann,İoann
 oanni,oanni
@@ -99847,7 +99846,7 @@ Teval,Teval
 evaly,evaly
 valya,valya
 Serfe,Sərfə
-samiz,samız
+samiz,şamız
 Fuqar,Fuqar
 uqard,uqard
 sorud,sorud
@@ -99931,7 +99930,7 @@ hasiz,hasız
 refe-,rəfə-
 efe-s,əfə-ş
 fe-sa,fə-şa
-e-san,e-san
+e-san,ə-şan
 -sana,-şana
 catid,çatıd
 disip,disip
@@ -99959,7 +99958,7 @@ muidu,muidü
 uidun,uidün
 iduny,idüny
 allun,allun
-ginis,ginis
+ginis,ğınıs
 axism,axışm
 xisma,xışma
 uba-K,uba-K
@@ -100077,7 +100076,7 @@ okrek,ökrək
 ozuqa,özüqa
 zuqal,züqal
 uqalx,üqalx
-imdal,imdal
+imdal,ımdal
 mdalm,mdalm
 Ufune,Üfunə
 ludec,ludəç
@@ -100215,7 +100214,7 @@ Az107,Az107
 z1073,z1073
 Steel,Steel
 alabi,alabi
-psini,psini
+psini,psinı
 arikhi,ariхi
 Kasak,Kasak
 646-j,646-j
@@ -100313,7 +100312,7 @@ ekkes,əkkəs
 unlud,unlud
 nluda,nluda
 Kosac,Kosac
-esibm,əşibm
+esibm,əsibm
 DHOIH,DHOİH
 HOIHT,HOİHT
 OIHTS,OİHTS
@@ -100331,7 +100330,7 @@ re-ho,rə-hö
 e-hon,ə-hön
 emass,əmass
 5.4.9,5.4.9
-Bioce,Biocə
+Bioce,Bioçə
 ocere,ocərə
 SOL-u,SOL-u
 OL-un,OL-un
@@ -100508,7 +100507,7 @@ E-dem,E-dem
 ICEDE,ICEDE
 CEDEG,CEDEG
 sahis,şahıs
-ahisa,ahisa
+ahisa,ahısa
 hisan,hısan
 MULKI,MÜLKİ
 ULKIY,ÜLKİY
@@ -100730,7 +100729,7 @@ cokur,çökür
 exine,əxinə
 Yitku,Yitkü
 itkun,itkün
-ymisi,ymışı
+ymisi,ymişi
 Yitki,Yitki
 eadad,eadad
 dadek,dadək
@@ -100763,7 +100762,7 @@ opuza,opuza
 Nolub,Nolub
 oyumt,öyümt
 yumtu,yümtü
-umtul,ümtül
+umtul,umtul
 lladl,lladl
 agla-,ağla-
 gla-q,ğla-q
@@ -100904,7 +100903,7 @@ qwali,qwali
 yiree,yirəə
 ireee,irəəə
 reeee,reeee
-eeeem,eeeem
+eeeem,əəəəm
 iomex,iomex
 omexa,omexa
 ayaq-,ayaq-
@@ -100993,10 +100992,10 @@ ipito,ipito
 Daura,Daura
 Dayra,Dayra
 Zilli,Zilli
-li-de,li-de
+li-de,lı-də
 i-def,i-def
 Conqu,Çonqu
-onqur,onqür
+onqur,onqur
 nquri,nquri
 conqu,çonqü
 cequr,çequr
@@ -101114,7 +101113,7 @@ cluye,çlüyə
 mnat-,mnat-
 nat-S,nat-S
 t-Ser,t-Ser
--Sera,-Sera
+-Sera,-Şəra
 Serah,Serah
 moday,moday
 odaya,odaya
@@ -101163,7 +101162,7 @@ yrman,yrman
 cemre,cemre
 emren,emren
 mrenm,mrenm
-elina,elina
+elina,Əlina
 linaz,linaz
 ttirl,ttirl
 temoa,temoa
@@ -101185,7 +101184,7 @@ zerte,zerte
 lcsek,lçsək
 burac,burac
 tesbe,təşbe
-esbeh,əsbeh
+esbeh,əşbeh
 sbehi,sbehi
 neley,nələy
 Tesbe,Təsbe
@@ -101271,7 +101270,7 @@ el-Ru,Əl-Ru
 l-Ruy,l-Ruy
 -Ruye,-Ruyə
 DIN-d,DİN-d
-IN-de,IN-də
+IN-de,İN-də
 smusa,smuşa
 1882-,1882-
 882-c,882-c
@@ -101418,7 +101417,7 @@ eludu,elüdü
 Azman,Azman
 Impre,İmpre
 hadli,hadli
-adlis,adlis
+adlis,adlıs
 dlise,dlisə
 17:16,17:16
 13-ne,13-nə
@@ -101609,7 +101608,7 @@ mamah,mamah
 amahr,amahr
 mahre,mahre
 ahrem,ahrem
-Cafer,Cafer
+Cafer,Çafer
 afero,afero
 cerha,çərha
 erhay,ərhay
@@ -101741,7 +101740,7 @@ tence,tence
 s-ink,s-ink
 -inku,-inku
 irinn,irinn
-rinni,rınnı
+rinni,rinni
 tromb,tromb
 Xurex,Xürəx
 riyed,riyəd
@@ -101910,7 +101909,7 @@ ge-ni,ge-ni
 cilid,cılıd
 ilida,ılıda
 anizl,anızl
-ilmil,ılmıl
+ilmil,ilmil
 faci-,façı-
 ci-so,çı-so
 i-son,ı-son
@@ -102017,7 +102016,7 @@ llemo,llemo
 lemot,lemot
 Axzay,Axzay
 Amass,Amaşs
-assay,aşsay
+assay,assay
 nceyl,ncəyl
 ikiay,ikiay
 kiaya,kiaya
@@ -102044,7 +102043,7 @@ Circe,Çirçe
 irceo,irçeo
 rceod,rçeod
 ceoda,çeoda
-ebuta,əbuta
+ebuta,ebüta
 butan,bütan
 0-cil,0-cıl
 -cila,-cıla
@@ -102087,7 +102086,7 @@ ubkov,ubkov
 bkovs,bkovs
 denya,denya
 enyad,enyad
-Terne,Terne
+Terne,Tərnə
 areda,arəda
 redar,rədar
 asmat,asmat
@@ -102107,7 +102106,7 @@ Silva,Silva
 omesi,omesi
 ansia,ansia
 nsian,nsian
-siani,siani
+siani,sianı
 Korta,Korta
 Rosas,Rosas
 osasa,osasa
@@ -102275,7 +102274,7 @@ nslat,nslat
 slate,slate
 lated,lated
 Karaj,Karāj
-araja,araja
+araja,arāja
 rajah,rājah
 ajahd,ājahd
 jahda,jahdā
@@ -102468,7 +102467,7 @@ ucylo,ucylo
 Abduv,Abduv
 bduva,bduva
 duval,duval
-kecem,keçəm
+kecem,kəcəm
 eceme,eceme
 cemem,çəməm
 KPMG-,KPMG-
@@ -102620,7 +102619,7 @@ bogca,boğça
 ogcal,oğçal
 Bogca,Boğça
 ogcas,oğças
-xcali,xçali
+xcali,xçalı
 aqlut,aqlüt
 qluti,qlüti
 utina,ütina
@@ -102652,7 +102651,7 @@ Elent,Elent
 lenta,lenta
 dalaq,dalaq
 llusd,llüsd
-lusde,lüşdə
+lusde,lüsdə
 sdenk,sdənk
 tdari,tdarı
 Polol,Polol
@@ -102791,7 +102790,7 @@ gosun,gosun
 zenge,zəngə
 engeh,əngəh
 ngeha,ngəha
-saban,şaban
+saban,saban
 urcak,urçak
 duyuy,düyüy
 uyuye,üyüyə
@@ -102803,7 +102802,7 @@ ricer,ricer
 icerd,içərd
 kurot,kurot
 urota,urota
-getti,ğətti
+getti,getti
 ettim,ettim
 zeriN,zeriN
 eriNe,eriNe
@@ -102830,7 +102829,7 @@ ksems,kşəms
 Somun,Somun
 omunc,omunc
 Kuscu,Kuşçu
-Qaspi,Qaspi
+Qaspi,Qaspı
 ersoy,Ərsoy
 qatdi,qatdı
 feysb,feysb
@@ -102986,7 +102985,7 @@ lefur,ləfur
 Xelan,Xelan
 Isxar,İsxar
 Etnan,Etnan
-epine,epinə
+epine,əpinə
 McAfe,McAfe
 cAfee,cAfee
 unura,unura
@@ -103085,8 +103084,8 @@ ktrey,ktrey
 Promo,Promo
 unduM,unduM
 nduMe,nduMə
-duMed,düMəd
-uMede,üMədə
+duMed,duMəd
+uMede,uMədə
 nidin,nıdın
 oqanl,oqanl
 aliey,aliəy
@@ -103763,7 +103762,7 @@ altdo,altdo
 ltdom,ltdom
 tdome,tdome
 porum,porum
-Baqir,Baqır
+Baqir,Baqir
 aqiro,aqıro
 Inksa,İnkşa
 gesti,gəsti
@@ -103815,7 +103814,7 @@ Qesen,Qəşən
 ulits,ülits
 litsi,litsi
 ofiss,ofiss
-fissi,fıssi
+fissi,fissi
 ssian,ssian
 nub-g,nub-g
 hzirl,hzırl
@@ -103902,7 +103901,7 @@ Ataxa,Ataxa
 ustqa,üstqa
 stqat,stqat
 tqatl,tqatl
-t-dir,t-dır
+t-dir,t-dir
 alway,alway
 stild,stild
 tilde,tildə
@@ -104038,7 +104037,7 @@ lseve,lsevə
 Dolos,Doloş
 olosd,oloşd
 losda,loşda
-igund,ıgünd
+igund,ığund
 stiqb,stiqb
 tiqba,tiqba
 iqbal,iqbal
@@ -104093,7 +104092,7 @@ Uzguc,Üzgüç
 uzerk,üzərk
 Qorxe,Qorxe
 orxem,orxem
-claya,claya
+claya,çlaya
 nonse,nonse
 ABS-R,ABŞ-R
 BS-Ru,BŞ-Ru
@@ -104365,7 +104364,7 @@ Sxivi,Sxivi
 xivi-,xivi-
 ivi-S,ivi-Ş
 vi-Se,vi-Şə
-i-Sef,ı-Səf
+i-Sef,i-Şəf
 Sefeq,Şəfəq
 esin-,əsin-
 sin-d,sin-d
@@ -104393,7 +104392,7 @@ ebree,ebree
 breed,breed
 Etern,Etern
 Bleed,Bleed
-leedi,ləedi
+leedi,leedi
 dingd,dingd
 ingdi,ingdi
 .18.3,.18.3
@@ -104419,7 +104418,7 @@ ulist,ulist
 01098,01098
 10989,10989
 zmarl,zmarl
-Gulsu,Gülsu
+Gulsu,Gülsü
 ulsur,ülsur
 lsure,lsurə
 oqony,oqony
@@ -104457,7 +104456,7 @@ s-Sid,s-Sıd
 ddiqi,ddiqi
 xismi,xışmı
 dir-m,dir-m
-ir-ma,ir-ma
+ir-ma,ır-ma
 r-maq,r-maq
 arbac,arbaç
 ce-ki,çə-ki
@@ -104740,7 +104739,7 @@ itore,itore
 urur-,urur-
 rur-d,rur-d
 ur-de,ur-de
-r-dey,r-dəy
+r-dey,r-dey
 Ucot-,Uçot-
 cot-i,çot-i
 ot-iq,ot-iq
@@ -104791,7 +104790,7 @@ eyrdi,eyrdi
 yrdil,yrdil
 peyse,peysə
 zersp,zərsp
-erspa,ərspa
+erspa,erspa
 rspac,rspac
 space,space
 ace-1,ace-1
@@ -104950,7 +104949,7 @@ eptsi,eptsi
 ptsiz,ptsiz
 ponem,ponem
 lociy,lociy
-ociya,oçiya
+ociya,ociya
 ciyas,ciyas
 INANI,İNANI
 NANIL,NANIL
@@ -104981,7 +104980,7 @@ ponun,ponun
 hkiyy,hkiyy
 Categ,Categ
 egory,egory
-edikm,ədikm
+edikm,edikm
 133-c,133-c
 furub,fürüb
 danib,danıb
@@ -105156,7 +105155,7 @@ lkuts,lkuts
 selse,səlsə
 zifec,zifəc
 Hafta,Hafta
-zarer,zarer
+zarer,zarər
 arert,arert
 rerte,rertə
 Poned,Poned
@@ -105192,7 +105191,7 @@ zit_h,zit_h
 it_he,it_he
 t_hes,t_hes
 _hesa,_hesa
-glass,glass
+glass,ğlaşs
 imatc,imatç
 pabla,pabla
 iveal,iveal
@@ -105352,7 +105351,7 @@ ar-Ka,ar-Ka
 r-Kar,r-Kar
 -Kars,-Kars
 Karsa,Karsa
-arsak,arsak
+arsak,arşak
 946-1,946-1
 6-196,6-196
 -1964,-1964
@@ -105420,7 +105419,7 @@ anite,anite
 2013c,2013c
 013cu,013cü
 ntira,ntira
-irabi,irabi
+irabi,irabı
 rabik,rabik
 Kufey,Küfəy
 ufeye,üfəyə
@@ -105471,7 +105470,7 @@ ana-x,ana-x
 na-xa,na-xa
 a-xan,a-xan
 onadi,onadı
-urusc,ürüsc
+urusc,urusç
 capux,çapux
 iklis,iklis
 mahla,mahla
@@ -105487,7 +105486,7 @@ Okumu,Okumu
 hocan,hocan
 Tuket,Tüket
 ketic,ketic
-odevi,ödevi
+odevi,odevi
 devim,devim
 Deger,Değer
 Bicim,Biçim
@@ -105504,7 +105503,7 @@ CHASE,CHASE
 169.3,169.3
 169.1,169.1
 rtlin,rtlin
-Sumal,Sumal
+Sumal,Şumal
 srali,sralı
 innma,innma
 ncmal,ncmal
@@ -105798,7 +105797,7 @@ e-akt,e-akt
 ketda,kətda
 ileel,iləəl
 leela,ləəla
-arov',arov’
+arov',arov'
 rov's,rov's
 Etima,Etima
 Adsin,Adsin
@@ -105879,10 +105878,10 @@ q-qir,q-qır
 -qiri,-qırı
 srike,şrikə
 riket,rikət
-cimal,cimal
+cimal,cımal
 Necek,Necək
 rsusa,rsusa
-zadin,zadin
+zadin,zadın
 adinf,adinf
 dinfo,dinfo
 Qiyab,Qiyab
@@ -105901,7 +105900,7 @@ ismle,ismlə
 tepiy,təpiy
 159.6,159.6
 19:01,19:01
-lsizs,lsizs
+lsizs,lsızs
 taxik,taxik
 axika,axika
 xikar,xikar
@@ -105909,7 +105908,7 @@ birpe,birpə
 irper,irpər
 Hinze,Hinze
 l-Peo,l-Peo
-ebiti,əbiti
+ebiti,ebiti
 mutek,mütək
 utekk,ütəkk
 ekkel,əkkəl
@@ -106063,7 +106062,7 @@ i-Ira,i-İra
 ecisr,eçisr
 cisri,çisri
 isril,isril
-srile,srile
+srile,srilə
 Sayi-,Sayı-
 Ggurc,Ggürc
 TRT-2,TRT-2
@@ -106159,7 +106158,7 @@ unode,unode
 nodef,nodef
 odefi,odefi
 defic,defic
-efici,efıci
+efici,efici
 Acqui,Acqui
 cquie,cquie
 quied,quied
@@ -106388,7 +106387,7 @@ gizmi,gizmi
 ropam,ropam
 opame,opamə
 pamer,pamər
-amerk,amərk
+amerk,amerk
 rkezc,rkəzç
 kezci,kəzçi
 updat,updat
@@ -106593,11 +106592,11 @@ e-can,ə-can
 -cana,-cana
 polsa,polşa
 lsali,lşalı
-Risar,Rişar
+Risar,Rışar
 tabdi,tabdı
 Uyeni,Üyəni
 cepin,çepin
-iser-,işər-
+iser-,iser-
 ser-i,şər-i
 er-ik,ər-ik
 durti,dürti
@@ -106625,7 +106624,7 @@ eraiz,əraiz
 raize,raizə
 aizel,aizəl
 opmaq,opmaq
-Sefid,Şəfid
+Sefid,Sefid
 195-2,195-2
 Meskh,Meskh
 eskhe,eskhe
@@ -106667,7 +106666,7 @@ rleir,rləır
 Conun,Conun
 siyek,siyək
 rmaxd,rmaxd
-elked,elked
+elked,əlkəd
 yagsa,yağsa
 agsad,ağsad
 Qavil,Qavıl
@@ -106692,14 +106691,14 @@ m-isi,m-işı
 vesax,vəsax
 esaxl,əsaxl
 kelik,kəlik
-icsem,içsem
+icsem,içsəm
 eksex,eksex
 lmemd,lməmd
 memde,məmdə
 lifat,lifat
 ildi6,ildi6
 rubis,rübıs
-ubisi,ubişi
+ubisi,übısi
 AYDIN,AYDIN
 DISIB,DİŞİB
 ISIBE,İŞİBE
@@ -106726,7 +106725,7 @@ umana,umana
 hazim,hazım
 ddes-,ddəs-
 des-s,dəs-s
-s-seh,s-seh
+s-seh,ş-seh
 -sehr,-sehr
 evin-,evin-
 vin-o,vin-o
@@ -106800,7 +106799,7 @@ Iqtid,İqtid
 ogdak,ogdak
 aliqz,aliqz
 liqza,liqza
-iqzad,ıqzad
+iqzad,iqzad
 qzade,qzadə
 vimim,vimim
 abonu,abonu
@@ -106895,7 +106894,7 @@ dovur,dövür
 ovurl,övürl
 yledu,ylədu
 ledug,ləduğ
-cardu,çardu
+cardu,cardu
 ardug,arduğ
 qeter,qətər
 qalux,qalux
@@ -106939,7 +106938,7 @@ kanca,kança
 Sabad,Sabad
 abadu,abadu
 aknes,aknes
-knesi,knəsi
+knesi,knesi
 Roacc,Roacc
 oaccu,oaccu
 accut,accut
@@ -106994,7 +106993,7 @@ isbaz,işbaz
 sbazl,şbazl
 avizo,avizo
 vizol,vizol
-izola,izola
+izola,ızola
 zolar,zolar
 iardl,iardl
 QRS-n,QRŞ-n
@@ -107017,7 +107016,7 @@ stwoo,stwoo
 twood,twood
 Pisto,Pisto
 stols,stols
-ereko,ərəkö
+ereko,ərəko
 rekox,rəkox
 ekoxu,əkoxu
 koxum,koxum
@@ -107086,7 +107085,7 @@ ekked,əkkəd
 nin-n,nin-n
 in-ne,in-nə
 -nesr,-nəşr
-esri-,əsri-
+esri-,əşri-
 sri-o,şri-o
 ri-ol,ri-ol
 i-ola,i-ola
@@ -107123,7 +107122,7 @@ sima-,sima-
 ima-1,ima-1
 Teteb,Tətəb
 tebbo,təbbö
-Mirhe,Mirhe
+Mirhe,Mirhə
 irhey,irhey
 rheyd,rheyd
 yderz,ydərz
@@ -107161,7 +107160,7 @@ rek-c,rək-ç
 ek-cu,ək-çü
 k-cur,k-çür
 -cure,-çüre
-curek,çürek
+curek,çürək
 kslil,kslil
 piyac,piyaç
 Lyusi,Lyusi
@@ -107204,7 +107203,7 @@ yenem,yenəm
 Govul,Gövül
 minic,minic
 inici,inici
-nicil,nicil
+nicil,niçil
 opeta,opeta
 petar,petar
 tariv,tariv
@@ -107227,7 +107226,7 @@ Flore,Flore
 loren,loren
 Pisik,Pişik
 miyol,miyol
-iyold,ıyold
+iyold,iyold
 olday,olday
 QARAB,QARAB
 ARABA,ARABA
@@ -107297,7 +107296,7 @@ LINMI,LINMI
 INMIS,INMIŞ
 IRINI,İRİNİ
 XeRCI,XƏRCİ
-eRCIN,ƏRCİN
+eRCIN,ƏRÇİN
 RCINI,RCİNİ
 CININ,CİNİN
 Susub,Susub
@@ -107483,7 +107482,7 @@ kavin,kavın
 -21-d,-21-d
 ssisd,ssisd
 Tanid,Tanıd
-idinm,ıdınm
+idinm,idinm
 ratlr,ratlr
 lrind,lrind
 ktliy,ktliy
@@ -107512,7 +107511,7 @@ Revic,Reviç
 violi,violi
 Domni,Domni
 omnin,omnin
-mnina,mnina
+mnina,mnına
 DENTI,DENTİ
 ENTIN,ENTİN
 OLASI,OLASI
@@ -107527,7 +107526,7 @@ zerbu,zərbü
 erbul,ərbül
 rbul-,rbül-
 bul-m,bül-m
-ul-me,ül-mə
+ul-me,ul-mə
 itata,itata
 eksir,eksir
 rsire,rşırə
@@ -107588,7 +107587,7 @@ esurd,eşurd
 Meqsu,Məqsu
 eqsud,əqsud
 qsudu,qsudu
-mened,mənəd
+mened,məned
 coxka,çoxka
 oxkan,oxkan
 xkana,xkana
@@ -107668,7 +107667,7 @@ Yoyaq,Yoyaq
 aqimd,aqimd
 qimde,qimdə
 asivd,aşivd
-sivde,şivdə
+sivde,sivdə
 Yoyad,Yoyad
 asetn,asətn
 setna,sətna
@@ -107694,7 +107693,7 @@ jents,jents
 payib,payıb
 Raunu,Raunu
 rin-y,rin-y
-in-ya,ın-ya
+in-ya,in-ya
 n-yar,n-yar
 Inaml,İnaml
 Suflu,Şuflu
@@ -107785,7 +107784,7 @@ jinan,jinan
 12.1.,12.1.
 adign,adığn
 digni,dığnı
-SITAT,SİTAT
+SITAT,SITAT
 ITATI,İTATI
 TATIN,TATIN
 ATINI,ATINI
@@ -107863,7 +107862,7 @@ meker,məkər
 16:45,16:45
 hecde,heçdə
 hnedi,hnədi
-ni-ko,ni-kö
+ni-ko,ni-ko
 i-koh,i-köh
 -kohn,-köhn
 irhes,irhəs
@@ -107965,7 +107964,7 @@ uhaku,ühakü
 hakum,haküm
 akume,akümə
 umetu,ümətü
-bedxe,bedxe
+bedxe,bədxə
 edxer,ədxər
 dxerc,dxərc
 rbus-,rbus-
@@ -108223,11 +108222,11 @@ Setup,Setup
 masaz,masaz
 Devec,Dəvəç
 riumu,riumu
-cmekc,çməkç
-kcilu,kcilu
+cmekc,çməkc
+kcilu,kçilu
 smure,şmürə
 rin-a,rın-a
-in-ar,ın-ar
+in-ar,in-ar
 n-arx,n-arx
 -arxa,-arxa
 nerda,nerda
@@ -108297,7 +108296,7 @@ ccidi,ccidi
 Hilli,Hilli
 el-Mu,əl-Mü
 l-Muh,l-Müh
--Muhe,-Mühə
+-Muhe,-Muhə
 Muhez,Mühəz
 uhezz,ühəzz
 hezze,həzzə
@@ -108351,7 +108350,7 @@ kided,kidəd
 kayut,kayut
 ASCni,ASCni
 SCnin,SCnin
-erlei,erləi
+erlei,ərləi
 eirne,əirnə
 Sumit,Sumit
 umito,umito
@@ -108437,7 +108436,7 @@ yerdl,yerdl
 piyan,piyan
 iNet-,iNet-
 Net-d,Net-d
-et-de,ət-də
+et-de,et-də
 prolo,prolo
 oloqs,oloqs
 loqsu,loqsu
@@ -108757,7 +108756,7 @@ u-caq,ü-çaq
 -caqq,-çaqq
 20:10,20:10
 ldims,ldims
-Iraqa,Iraqa
+Iraqa,İraqa
 usuqm,uşuqm
 suqmu,şuqmu
 pecto,pecto
@@ -108844,7 +108843,7 @@ sinie,siniə
 demeq,dəməq
 emeqa,əməqa
 meqab,məqab
-eqabi,əqabı
+eqabi,əqabi
 brill,brill
 llian,llian
 liant,liant
@@ -108914,7 +108913,7 @@ imura,imura
 Zona-,Zona-
 ona-n,ona-n
 na-ni,na-nı
-giydi,ğıydı
+giydi,giydi
 iydir,iydir
 kmput,kmpüt
 Seval,Seval
@@ -109076,7 +109075,7 @@ el-Ne,əl-Nə
 l-Nes,l-Nəs
 -Ness,-Nəss
 Nessa,Nəssa
-essar,essar
+essar,əssar
 tug-b,tuğ-b
 ug-ba,uğ-ba
 g-bay,ğ-bay
@@ -109093,7 +109092,7 @@ rug-n,ruğ-n
 ug-ne,uğ-nə
 g-nes,ğ-nəs
 mesme,meşme
-esi-e,eşi-ə
+esi-e,əsi-ə
 si-er,şi-ər
 i-eri,i-əri
 -erik,-ərik
@@ -109406,7 +109405,7 @@ tasac,taşac
 faeli,faəli
 aeliy,aəliy
 onels,önəls
-nelsi,nelsi
+nelsi,nəlsi
 adoqa,adoqa
 caxin,çaxın
 rscad,rscad
@@ -109593,7 +109592,7 @@ kcegi,kçəgi
 Elatd,Elatd
 ilcug,ılcuğ
 lcugu,lcuğu
-etral,ətral
+etral,Ətral
 tumek,tümək
 tutem,tütəm
 uteme,ütəmə
@@ -109620,8 +109619,8 @@ kutri,kutri
 utriq,utriq
 triqu,triqu
 riqur,riqur
-Lucia,Lucia
-ucian,ucian
+Lucia,Luçia
+ucian,uçian
 Milit,Milit
 itaru,itaru
 Salog,Saloğ
@@ -109695,7 +109694,7 @@ Rebah,Rebah
 ebahd,ebahd
 yami-,yamı-
 ami-q,amı-q
-mi-qe,mı-qə
+mi-qe,mi-qə
 i-qed,ı-qəd
 mozud,mözud
 ozuda,ozuda
@@ -109789,7 +109788,7 @@ llsch,llsch
 lscha,lscha
 soybe,söybə
 oybet,öybət
-ybeti,ybeti
+ybeti,ybəti
 mahim,mahım
 talat,talat
 ubily,ubily
@@ -109942,7 +109941,7 @@ ponca,ponca
 CU-el,CÜ-el
 U-ela,Ü-ela
 -elas,-elas
-Kenda,Kənda
+Kenda,Kenda
 29000,29000
 yli-O,yli-O
 li-Or,li-Or
@@ -109965,7 +109964,7 @@ li-Ha,li-Ha
 i-Hac,i-Hac
 -Haci,-Hacı
 Hacit,Hacıt
-acitu,acıtu
+acitu,acitu
 citur,cıtur
 ali-H,alı-H
 i-Hes,ı-Həs
@@ -110119,7 +110118,7 @@ urcum,urcum
 985-1,985-1
 85-19,85-19
 157.4,157.4
-beril,bəril
+beril,beril
 opazl,opazl
 zeber,zəbər
 berce,bərcə
@@ -110366,7 +110365,7 @@ orozd,orozd
 aftar,aftar
 ibanm,ibanm
 banme,banme
-anmeh,anməh
+anmeh,anmeh
 nmehr,nmehr
 ulaqb,ulaqb
 laqba,laqba
@@ -110457,7 +110456,7 @@ ULLUQ,ULLUQ
 ARINA,ARINA
 ETMeK,ETMƏK
 Sitqa,Sıtqa
-itqam,ıtqam
+itqam,itqam
 tqama,tqama
 qamaq,qamaq
 Certu,Certu
@@ -110571,7 +110570,7 @@ iyyte,iyytə
 yytei,yytəi
 ytein,ytəin
 teind,təind
-einde,eində
+einde,əində
 avska,avska
 Realn,Realn
 ealni,ealnı
@@ -110654,7 +110653,7 @@ trtiz,trtiz
 0-00-,0-00-
 -00-7,-00-7
 0-seh,0-şəh
--sehe,-səhə
+-sehe,-şəhə
 7-Rus,7-Rus
 495-M,495-M
 95-Mo,95-Mo
@@ -110727,7 +110726,7 @@ acest,acəst
 cesta,cəsta
 soyac,soyac
 Sotla,Şotla
-Intra,İntra
+Intra,Intra
 trane,trane
 ranet,ranet
 Imtiy,İmtiy
@@ -110991,7 +110990,7 @@ qavun,qavun
 kafe-,kafe-
 afe-b,afe-b
 fe-ba,fe-ba
-e-bar,ə-bar
+e-bar,e-bar
 steak,steak
 Duruc,Duruc
 uruca,uruca
@@ -111056,7 +111055,7 @@ e-ude,e-ude
 -udel,-udel
 izmen,izmen
 zmenn,zmenn
-menni,mennı
+menni,menni
 nniko,nniko
 skonn,skonn
 konnu,konnu
@@ -111126,8 +111125,8 @@ suyud,şüyüd
 aritp,arıtp
 ritpe,rıtpə
 card-,card-
-ulesu,üləşü
-lesuz,ləşüz
+ulesu,üləsü
+lesuz,ləsüz
 Son-b,Şön-b
 on-be,ön-be
 -berq,-berq
@@ -111326,7 +111325,7 @@ heymi,heymi
 Akinf,Akinf
 kinfi,kinfi
 infiy,infiy
-nfiye,nfiyə
+nfiye,nfiye
 films,films
 ilmse,ilmse
 lmsev,lmsev
@@ -111529,7 +111528,7 @@ inyas,inyas
 esviy,əsviy
 sviyy,sviyy
 reyi-,reyi-
-eyi-s,eyi-s
+eyi-s,əyi-ş
 yi-si,yi-si
 skula,şküla
 kulat,külat
@@ -111539,7 +111538,7 @@ Duani,Duanı
 Appel,Appel
 ppely,ppely
 Govur,Govur
-rsand,rsand
+rsand,rşand
 bugum,buğum
 Episk,Episk
 piske,piske
@@ -111571,7 +111570,7 @@ nmuru,nmuru
 yrelm,yrəlm
 relme,rəlmə
 ani-e,ani-e
-ni-ep,ni-ep
+ni-ep,nı-ep
 i-epi,ı-epi
 -epik,-epik
 er-Si,ər-Şi
@@ -111632,7 +111631,7 @@ shley,shley
 hleye,hleye
 kayen,kayən
 amotu,amotu
-ye-gu,yə-gü
+ye-gu,ye-gu
 Lexiy,Lexiy
 exiye,exiyə
 Ivsan,İvsan
@@ -111663,7 +111662,7 @@ onsda,onsda
 lizli,lızlı
 hub-a,hub-a
 Harmo,Harmo
-Yilan,Yilan
+Yilan,Yılan
 MSS-n,MSŞ-n
 SS-ni,SŞ-ni
 04-CP,04-CP
@@ -111737,7 +111736,7 @@ sbiya,sbiya
 nkali,nkalı
 ozumi,özümi
 zumiz,zümiz
-edugi,eduği
+edugi,əduği
 dugin,duğin
 besig,beşig
 esigi,eşigi
@@ -111866,7 +111865,7 @@ atuir,atuir
 tuiro,tuiro
 uirov,uirov
 ovkan,ovkan
-vkani,vkanı
+vkani,vkani
 SIQAR,SİQAR
 IQARE,İQARE
 QARET,QARET
@@ -111974,7 +111973,7 @@ SUNMe,ŞÜNMƏ
 UNMeK,ÜNMƏK
 agilc,ağılc
 gilca,ğılca
-peliy,peliy
+peliy,pəliy
 500-7,500-7
 -700m,-700m
 si-id,si-id
@@ -112286,7 +112285,7 @@ l-Heq,l-Həq
 -Heq-,-Həq-
 Heq-I,Həq-İ
 bni-S,bni-S
-ni-Su,ni-Sü
+ni-Su,nı-Su
 i-Sul,i-Sül
 -Sule,-Süle
 yman-,yman-
@@ -112616,7 +112615,7 @@ INK'i,INK’ı
 kuyup,kuyup
 begen,beğen
 egenm,eğenm
-genme,gənmə
+genme,ğenme
 neefe,nəəfə
 efeer,əfəər
 feerd,fəərd
@@ -112663,7 +112662,7 @@ e-sil,ə-sil
 -sile,-silə
 apday,apday
 pdayi,pdayı
-sulle,şulle
+sulle,şüllə
 tabaa,tabaa
 abaat,abaat
 baata,baata
@@ -112871,7 +112870,7 @@ mxeri,mxeri
 Papol,Papol
 Cixel,Çıxel
 Axali,Axali
-zerTa,zərTa
+zerTa,zerTa
 erTac,erTac
 -beyn,-beyn
 rbete,rbətə
@@ -113053,7 +113052,7 @@ visse,vişşe
 seral,seral
 islip,islip
 slipi,slipi
-ipide,ipide
+ipide,ipidə
 lumuy,lümüy
 umuyd,ümüyd
 kelis,kəlis
@@ -113076,7 +113075,7 @@ katag,katag
 tagir,tagir
 ews-u,ews-u
 kileb,kiləb
-Dexli,Dəxli
+Dexli,Dexli
 magiy,mağıy
 laala,laala
 sahse,şahse
@@ -113282,7 +113281,7 @@ dbile,dbilə
 luncd,lüncd
 uncdu,uncdu
 ncdur,ncdur
-sagik,sagik
+sagik,sağik
 agike,ağikə
 giken,ğikən
 Vulfu,Vulfu
@@ -113365,7 +113364,7 @@ Wheel,Wheel
 heels,heels
 udin-,udin-
 din-n,din-n
-in-ni,in-ni
+in-ni,ın-nı
 n-nin,n-nın
 Xammu,Xammu
 ammue,ammue
@@ -113498,7 +113497,7 @@ meost,meost
 eosta,eosta
 hruma,hruma
 lcurs,lçürs
-curse,çürsə
+curse,cürsə
 7-194,7-194
 Culye,Culye
 ulyet,ulyet
@@ -113799,14 +113798,14 @@ Abuta,Abuta
 butal,butal
 Qorin,Qorin
 Qasga,Qaşğa
-vani-,vanı-
+vani-,vani-
 ni-lu,ni-lü
 i-lug,i-lüğ
 ugett,üğətt
 etti-,ətti-
 tti-T,tti-T
 ti-Tu,ti-Tü
-i-Tur,i-Tür
+i-Tur,i-Tur
 efles,əfləş
 flese,fləşə
 teskl,təşkl
@@ -113913,7 +113912,7 @@ aragl,arağl
 ragli,rağlı
 acags,acağs
 cagsi,cağsı
-gsini,ğsını
+gsini,ğsıni
 Gaval,Gaval
 Sagol,Sağol
 ifdil,ifdil
@@ -113930,7 +113929,7 @@ amp-a,amp-a
 rolum,rolum
 ert-k,ert-k
 rt-ko,rt-ko
-srefd,şrəfd
+srefd,srəfd
 baba-,baba-
 aba-n,aba-n
 ba-ne,ba-nə
@@ -114032,7 +114031,7 @@ cript,cript
 TAc-i,TAc-ı
 Ac-in,Ac-ın
 terba,tərba
-rbasm,rbasm
+rbasm,rbaşm
 al-he,al-hə
 l-her,l-hər
 493-5,493-5
@@ -114058,7 +114057,7 @@ borta,borta
 nanal,nanal
 6.1.7,6.1.7
 evula,evula
-aycik,aycık
+aycik,ayçık
 ycike,yçıkə
 cikes,çıkəs
 ikesd,ıkəsd
@@ -114108,7 +114107,7 @@ leanu,leanu
 nnade,nnadə
 -simm,-simm
 Culum,Çulum
-llanc,llanç
+llanc,llanc
 llanq,llanq
 anqoc,anqoç
 lenca,lənça
@@ -114133,7 +114132,7 @@ Durum,Durum
 neriy,nəriy
 ohvel,öhvəl
 De-in,De-in
-e-ins,e-ins
+e-ins,ə-inş
 App-A,App-A
 pp-Ad,pp-Ad
 p-Add,p-Add
@@ -114156,7 +114155,7 @@ _nomr,_nömr
 Madhy,Madhy
 adhya,adhya
 asbaz,aşbaz
-Burde,Burde
+Burde,Bürde
 Oz-Oz,Öz-Öz
 z-Ozu,z-Özü
 -Ozun,-Özün
@@ -114260,7 +114259,7 @@ dynya,dynya
 pedek,pədək
 baynl,baynl
 qebin,qəbin
-celim,çəlim
+celim,cəlim
 INTEL,İNTEL
 NTELL,NTELL
 TELLE,TELLE
@@ -114391,7 +114390,7 @@ moter,mötər
 Sanda,Sanda
 rsink,rsink
 ki-Na,kı-Na
-i-Nax,ı-Nax
+i-Nax,i-Nax
 van-Z,van-Z
 an-Ze,an-Zə
 n-Zen,n-Zən
@@ -114848,7 +114847,7 @@ raton,raton
 atonl,atonl
 Hille,Hille
 Ereme,Ereme
-remee,rəmee
+remee,remee
 emeev,emeev
 nezin,nezin
 imuni,imuni
@@ -114931,7 +114930,7 @@ re-be,rə-be
 e-bes,ə-beş
 ssesn,ssəsn
 sesni,səsni
-irsay,irşay
+irsay,irsay
 yrang,yrang
 rango,rangö
 angol,angöl
@@ -115068,7 +115067,7 @@ esmia,əsmia
 smias,smiaş
 miasd,miaşd
 iasdi,iaşdı
-xsida,xşıda
+xsida,xsıda
 idagu,ıdagü
 hosan,hosan
 Tavan,Tavan
@@ -115117,7 +115116,7 @@ esvvu,əsvvü
 svvur,svvür
 icinl,içinl
 Selag,Şelag
-elagi,elağı
+elagi,elagi
 agino,agino
 ginov,ginov
 geniy,geniy
@@ -115165,7 +115164,7 @@ ruhsu,ruhsu
 uhsuz,uhsuz
 1206-,1206-
 206-c,206-c
-yinid,yinid
+yinid,yınıd
 rankl,rankl
 ankli,ankli
 nklin,nklin
@@ -115406,7 +115405,7 @@ Rasiz,Rasiz
 fiqid,fiqid
 FAIZL,FAIZL
 AIZLe,AIZLƏ
-DIVID,DIVID
+DIVID,DİVİD
 IVIDE,IVIDE
 VIDEN,VIDEN
 IDEND,IDEND
@@ -115438,7 +115437,7 @@ ktuel,ktuel
 ratle,ratle
 erfim,ərfim
 rfimi,rfimi
-lllet,lllet
+lllet,lllət
 end-l,ənd-l
 vgine,vginə
 Rum-T,Rum-T
@@ -115521,7 +115520,7 @@ iyet-,iyət-
 yet-e,yət-ə
 et-el,ət-əl
 t-el-,t-əl-
--el-e,-əl-ə
+-el-e,-əl-Ə
 -esad,-Əsad
 Avtoo,Avtoö
 vtood,vtoöd
@@ -115569,7 +115568,7 @@ igit',iğit'
 git'i,ğit'i
 it'in,it'in
 usya',usya'
-sya'd,sya’d
+sya'd,sya'd
 ya'da,ya'da
 a'dak,a'dak
 'daki,'daki
@@ -115610,7 +115609,7 @@ ollai,ollai
 llais,llais
 laisa,laisa
 aisaq,aisaq
-isaql,isaql
+isaql,ışaql
 Hakik,Hakık
 kikat,kıkat
 katan,katan
@@ -115648,7 +115647,7 @@ KADEM,KADEM
 DEMIY,DEMİY
 EMIYA,EMİYA
 MIYAS,MİYAS
-Xosay,Xoşay
+Xosay,Xosay
 Ender,Ender
 dmety,dməty
 metyo,mətyö
@@ -115833,7 +115832,7 @@ qdedu,qdədü
 tralt,tralt
 ralto,ralto
 Senle,Şənlə
-Havac,Havaç
+Havac,Havac
 ifeda,ifəda
 fedas,fədaş
 eydiz,əydiz
@@ -115861,7 +115860,7 @@ yinaz,yinaz
 Nefta,Nefta
 eftac,eftaç
 ftaca,ftaça
-tacal,tacal
+tacal,taçal
 irze-,irze-
 rze-H,rze-H
 ze-Hu,ze-Hu
@@ -115944,7 +115943,7 @@ Baqat,Baqat
 aqatu,aqatu
 qatur,qatur
 Afeti,Afəti
-erser,ərşər
+erser,ərsər
 rseri,rsəri
 Kamyu,Kamyu
 amyun,amyun
@@ -116288,7 +116287,7 @@ ssein,ssein
 seini,səini
 tler-,tlər-
 ler-t,lər-t
-r-tel,r-təl
+r-tel,r-tel
 orxsa,orxsa
 rxsan,rxsan
 Quqli,Quqli
@@ -116377,7 +116376,7 @@ tobie,tobiə
 982-V,982-V
 82-VQ,82-VQ
 2-VQD,2-VQD
-islle,isllə
+islle,işllə
 sllem,şlləm
 Qacir,Qaçır
 Kafam,Kafam
@@ -116401,7 +116400,7 @@ EURIB,EURİB
 URIBO,URİBO
 RIBOR,RİBOR
 saeli,şaeli
-tiray,tiray
+tiray,tıray
 lumam,lumam
 goruk,görük
 orukm,örükm
@@ -116471,7 +116470,7 @@ prosi,prosı
 tliya,tlıya
 i-mun,i-mün
 -munt,-münt
-Tenge,Tenge
+Tenge,Təngə
 ngeru,ngəru
 gerud,gərud
 ucovd,ucovd
@@ -116564,7 +116563,7 @@ er-ve,er-ve
 r-ven,r-ven
 -venn,-venn
 Asuro,Aşuro
-surov,surov
+surov,şurov
 Fiqhi,Fiqhi
 iqhin,iqhin
 qhine,qhinə
@@ -116612,7 +116611,7 @@ coxhi,çoxhi
 oxhis,oxhis
 xhiss,xhiss
 rsuql,rsuql
-suqla,şuqla
+suqla,suqla
 Hehay,Həhay
 ADK-n,ADK-n
 'dada,'dada
@@ -116622,7 +116621,7 @@ n-Lac,n-Laç
 -Laci,-Laçı
 acin-,açın-
 cin-Y,çın-Y
-in-Ye,ın-Ye
+in-Ye,in-Ye
 n-Yev,n-Yev
 -Yevl,-Yevl
 Zorbu,Zorbu
@@ -116673,7 +116672,7 @@ ksill,ksill
 sillo,sillo
 illol,illol
 llolo,llolo
-uzerd,uzerd
+uzerd,üzərd
 177.5,177.5
 157.3,157.3
 57.3.,57.3.
@@ -116696,7 +116695,7 @@ oycek,öyçək
 otoya,otoya
 Dortd,Dörtd
 rtdas,rtdaş
-mande,mande
+mande,mandə
 Qutuy,Qutuy
 lbull,lbüll
 IKINC,İKİNC
@@ -116764,7 +116763,7 @@ Akned,Akned
 knede,knedə
 herse,hərsə
 rseys,rşeyş
-seysu,şeyşu
+seysu,şeyşü
 eysun,eyşün
 ysuna,yşüna
 Madon,Madon
@@ -116791,7 +116790,7 @@ pronu,pronu
 porad,porad
 otval,otval
 Xarus,Xarus
-ersad,Ərşad
+ersad,ərşad
 yrism,yrışm
 Booki,Booki
 el-he,əl-hə
@@ -116839,13 +116838,13 @@ te-su,tə-sü
 tikek,tikək
 e'dam,e'dam
 dsm-5,dsm-5
-Agapp,Agapp
+Agapp,Ağapp
 ppaqs,ppaqs
 tirdu,tirdü
 irduz,irdüz
 rduze,rdüzə
 Iyled,İyləd
-nlune,nlünə
+nlune,nlunə
 qulpl,qulpl
 ulplu,ulplu
 Subje,Subje
@@ -116887,7 +116886,7 @@ koini,koini
 KAZIM,KAZIM
 AZIMO,AZIMO
 ZIMOV,ZIMOV
-qacag,qaçağ
+qacag,qacağ
 Omoni,Omoni
 735-1,735-1
 35-17,35-17
@@ -117365,7 +117364,7 @@ slyag,şlyag
 lyage,lyage
 agerl,agerl
 lendr,ləndr
-endri,əndri
+endri,endri
 drilm,drilm
 Sinte,Sinte
 bamay,bamay
@@ -117399,7 +117398,7 @@ MKS-i,MKS-i
 S-ini,S-ini
 -inin,-inin
 Obsie,Obşie
-Citat,Çitat
+Citat,Citat
 itate,itate
 tatel,tatel
 ately,ately
@@ -117480,7 +117479,7 @@ lacin,laçın
 bakhm,bakhm
 akhme,akhme
 khmed,khmed
-hmedi,hmedi
+hmedi,hmədi
 Fusun,Füsun
 efano,efano
 minio,minio
@@ -117594,7 +117593,7 @@ fat-m,fat-m
 t-mei,t-məi
 suave,şüave
 uaver,üaver
-cekem,çəkəm
+cekem,çekem
 coxuq,çoxuq
 zemez,zəməz
 oliql,oliql
@@ -117683,7 +117682,7 @@ cenbe,çənbə
 sitam,şitam
 itamb,itamb
 tambi,tambi
-ambil,ambil
+ambil,ambıl
 unlux,unlux
 buluz,buluz
 doppi,doppi
@@ -117842,7 +117841,7 @@ vafuk,vafuk
 heran,heran
 ranim,ranım
 tevaf,tevaf
-vafuq,vafüq
+vafuq,vafuq
 afuqd,afuqd
 fuqdu,fuqdu
 acziy,acziy
@@ -118103,7 +118102,7 @@ pagil,pagil
 Torog,Torog
 orogi,orogi
 rogil,rogil
-Qocag,Qoçag
+Qocag,Qocag
 cagil,cagil
 Colak,Çolak
 olakg,olakg
@@ -118116,7 +118115,7 @@ oryag,oryag
 ryagi,ryagi
 obang,obang
 bangi,bangi
-eslan,eslan
+eslan,əslan
 Konso,Konso
 rideq,ridəq
 ideqa,idəqa
@@ -118168,10 +118167,10 @@ ilais,ilaiş
 Jebra,Jəbra
 Dilic,Dilic
 nmesd,nməsd
-mesdi,məşdı
+mesdi,məsdi
 Xaiia,Xaııa
 aiiar,aııar
-kasis,kasıs
+kasis,kaşıs
 Barba,Barba
 ugamU,uğamU
 gamUa,ğamUa
@@ -118283,7 +118282,7 @@ venge,vəngə
 XALIS,XALİS
 ALeTL,ALƏTL
 LeTLI,LƏTLİ
-slerm,şlərm
+slerm,slərm
 Yelis,Yelis
 tayam,tayam
 890-1,890-1
@@ -118297,7 +118296,7 @@ etliu,ətliu
 tliuz,tliuz
 liuzu,liuzu
 iuzun,iuzun
-Surey,Sürey
+Surey,Sürəy
 ureyy,üreyy
 reyya,reyya
 Mizik,Mizik
@@ -118328,7 +118327,7 @@ rxuye,rxuye
 xuyer,xuyer
 uyerd,uyerd
 Kesal,Kesal
-esalo,eşalo
+esalo,esalo
 en-ke,ən-kə
 Xaqin,Xaqın
 QUALi,QUALı
@@ -118363,7 +118362,7 @@ Becer,Becər
 28362,28362
 Naesk,Naesk
 aeskl,aeskl
-eskle,esklə
+eskle,eskle
 eza-t,əza-t
 za-te,za-te
 a-tex,a-tex
@@ -118677,7 +118676,7 @@ EYRI-,EYRI-
 YRI-P,YRI-P
 RI-PU,RI-PU
 I-PUL,I-PUL
-Keske,Keşke
+Keske,Keşkə
 208.4,208.4
 sulhd,sülhd
 Pulcu,Pulcu
@@ -118767,7 +118766,7 @@ ngivi,ngivi
 givit,givit
 guc-l,güc-l
 uc-lu,üc-lu
-irdem,irdem
+irdem,irdəm
 Perep,Perep
 erepl,erepl
 eplic,epliç
@@ -119022,7 +119021,7 @@ ladab,ladab
 adabi,adabi
 dabil,dabil
 ksiyd,ksiyd
-sib-t,şıb-t
+sib-t,şib-t
 Gondi,Gondi
 Qarec,Qarec
 ezzen,əzzən
@@ -119115,7 +119114,7 @@ lasiT,lasıT
 asiTu,asıTü
 siTur,sıTür
 iTurk,ıTürk
-orgiy,orğiy
+orgiy,orgiy
 dasln,dasln
 aslnd,aslnd
 slnda,slnda
@@ -119184,12 +119183,12 @@ afaqa,afaqa
 faqaz,faqaz
 persk,persk
 ersky,ersky
-yande,yande
+yande,yandə
 andex,andex
 Uruqv,Uruqv
 ruqva,ruqva
 uqvay,uqvay
-nsili,nsili
+nsili,nşılı
 guz-t,ğuz-t
 z-tur,z-tür
 alago,alagö
@@ -119416,7 +119415,7 @@ Salto,Salto
 Torqo,Torqo
 orqov,orqov
 rqovi,rqovı
-qoviy,qovıy
+qoviy,qoviy
 oviyd,ovıyd
 Prean,Prean
 bioma,bioma
@@ -119621,11 +119620,11 @@ lorus,lorus
 Hipar,Hipar
 ipark,ipark
 Xanda,Xanda
-nagac,nağaç
+nagac,nağac
 aceke,açəkə
 Bonda,Bonda
 abcin,abçın
-bcini,bçini
+bcini,bçını
 mbini,mbini
 ueyya,üəyya
 eyyan,əyyan
@@ -119861,7 +119860,7 @@ lover,lover
 overm,overm
 giyed,giyəd
 igand,ığand
-yacid,yacıd
+yacid,yaçid
 Pibam,Pibam
 ibama,ibama
 bamar,bamar
@@ -119895,7 +119894,7 @@ zatim,zatım
 amona,amona
 oksit,oksit
 ksite,ksite
-sitek,sitek
+sitek,sitək
 iteks,iteks
 abiqs,abiqs
 biqsi,biqsi
@@ -120073,7 +120072,7 @@ antok,antök
 ntoke,ntökə
 araqq,araqq
 raqqe,raqqə
-aqqer,aqqər
+aqqer,aqqer
 Guzey,Guzey
 isima,ışıma
 rubee,rübəə
@@ -120122,8 +120121,8 @@ xeerc,xəərc
 eercl,əərcl
 rclee,rcləə
 cleer,cləər
-e'mur,ə’mur
-'murl,’murl
+e'mur,ə'mur
+'murl,'murl
 msekd,mşəkd
 ondab,ondab
 ndabi,ndabi
@@ -120140,7 +120139,7 @@ OSESS,OSESS
 SESSI,SESSİ
 ESSIY,ESSİY
 SSIYA,SSİYA
-riili,riıli
+riili,riili
 iilib,iılib
 vel-c,vəl-c
 tafa-,tafa-
@@ -120364,7 +120363,7 @@ z-Alo,z-Alo
 -Alov,-Alov
 Alov-,Alov-
 lov-S,lov-Ş
-ov-Se,ov-Şə
+ov-Se,ov-Şe
 v-Ser,v-Şər
 tagid,tağıd
 ebesl,əbəşl
@@ -120419,7 +120418,7 @@ vison,vison
 lital,lital
 Yaell,Yaell
 aelle,aellə
-m-sey,m-səy
+m-sey,m-sey
 -seya,-səya
 Turne,Turne
 urner,urner
@@ -120602,7 +120601,7 @@ Ostin,Ostin
 Kalde,Kalde
 alder,alder
 ldero,ldero
-deron,dəron
+deron,deron
 Beatr,Beatr
 bbky,بابكي
 bky,ابكيا
@@ -121100,7 +121099,7 @@ KOS-a,KOS-a
 mrand,mrand
 cekac,çekaç
 kacax,kaçax
-egulm,əgülm
+egulm,egülm
 gulmi,gülmi
 isass,isass
 ialdi,ialdı
@@ -121209,7 +121208,7 @@ iymee,iyməə
 ymeet,yməət
 tleen,tləən
 leend,ləənd
-eendi,eendi
+eendi,əəndi
 omist,omist
 mist-,mist-
 st-de,st-də
@@ -121245,11 +121244,11 @@ rde-s,rdə-s
 de-su,də-sü
 e-sup,ə-süp
 uelad,uelad
-mezso,məzso
+mezso,məzsö
 ezsoy,əzsöy
 zsoyl,zsöyl
 tcilg,tçılğ
-HAMIL,HAMIL
+HAMIL,HAMİL
 AMILe,AMİLƏ
 MILeL,MİLƏL
 ILeLe,İLƏLƏ
@@ -121288,7 +121287,7 @@ alips,alips
 yardd,yardd
 bakac,bakac
 akaca,akaca
-kacak,kacak
+kacak,kaçak
 ursak,ursak
 henuz,hənuz
 Sakaa,Sakaa
@@ -121354,9 +121353,9 @@ MI-TE,Mİ-TE
 I-TEX,İ-TEX
 -TEXN,-TEXN
 XNIKI,XNİKİ
-INQIL,İNQIL
+INQIL,İNQİL
 NQILA,NQILA
-QILAB,QILAB
+QILAB,QİLAB
 SESIN,SESİN
 ESIND,ESİND
 eZeRe,ƏZƏRƏ
@@ -121445,8 +121444,8 @@ cabad,çabad
 abadz,abadz
 badze,badze
 tajce,tajçe
-ajcek,ajçek
-jcekm,jçekm
+ajcek,ajçək
+jcekm,jçəkm
 ra-av,ra-av
 a-ava,a-ava
 -avar,-avar
@@ -121465,7 +121464,7 @@ yuani,yuanı
 cerac,cəraç
 eraci,əraçı
 bbimd,bbimd
-avodi,avodı
+avodi,avodi
 astax,astax
 SKO-i,SKO-i
 KO-il,KO-il
@@ -121497,7 +121496,7 @@ Hirsi,Hirsi
 Rest-,Rəşt-
 est-A,əşt-A
 st-As,şt-As
-iydin,iydin
+iydin,ıydın
 "41,50","41,50"
 el-Xu,əl-Xü
 l-Xur,l-Xür
@@ -121536,7 +121535,7 @@ icvic,icvic
 cvice,cvicə
 29.0.,29.0.
 veder,vədər
-ederc,ədərc
+ederc,edərc
 QQeTd,QQƏTd
 QeTdi,QƏTdi
 eTdir,ƏTdir
@@ -121582,7 +121581,7 @@ uman-,uman-
 man-X,man-X
 n-Xez,n-Xəz
 tli-k,tlı-k
-i-koc,i-koc
+i-koc,ı-köç
 -koce,-köçə
 1064-,1064-
 064-c,064-c
@@ -121590,7 +121589,7 @@ Arsla,Arsla
 tdik-,tdik-
 dik-l,dik-l
 k-ler,k-lər
-onusd,önüşd
+onusd,onuşd
 nusdu,nuşdu
 Xuliq,Xuliq
 icata,icata
@@ -121792,7 +121791,7 @@ ktitl,ktitl
 ansfu,ansfu
 nsfuz,nsfuz
 sfuzi,sfuzi
-rsisa,rşısa
+rsisa,rsisa
 paday,paday
 90x60,90x60
 0x60x,0x60x
@@ -121914,7 +121913,7 @@ Suura,Şüura
 oposu,oposu
 posum,posum
 osuml,osuml
-ximis,ximis
+ximis,xımış
 let-h,lət-h
 ETALL,ETALL
 TALLA,TALLA
@@ -121980,7 +121979,7 @@ pzisi,pzisi
 yrane,yrane
 raned,raned
 exuml,exuml
-msayi,msayı
+msayi,mşayı
 Darxa,Darxa
 Kidir,Kıdır
 diral,dıral
@@ -122100,7 +122099,7 @@ den-z,dən-z
 en-za,ən-za
 n-zav,n-zav
 -zavo,-zavo
-hisiy,hısıy
+hisiy,hisiy
 isiyy,isiyy
 pepsi,pepsi
 izdiv,izdiv
@@ -122248,7 +122247,7 @@ bolsu,bölsü
 Dream,Dream
 Docto,Docto
 octor,octor
-ntiyi,ntiyi
+ntiyi,ntıyı
 tasen,taşen
 Cerba,Çerba
 Caree,Caree
@@ -122324,7 +122323,7 @@ dir-q,dir-q
 ir-qi,ir-qi
 r-qiy,r-qiy
 siq-s,şıq-ş
-iq-si,ıq-şı
+iq-si,ıq-sı
 q-siq,q-şıq
 mubta,mübta
 ubtal,übtal
@@ -122608,7 +122607,7 @@ Dikto,Dikto
 navti,navti
 avtik,avtik
 esent,əsənt
-an-Me,an-Mə
+an-Me,an-Me
 n-Mer,n-Mər
 -Mera,-Məra
 aslit,aslıt
@@ -122690,7 +122689,7 @@ eqeme,əqəmə
 qolba,qolba
 olbaq,olbaq
 eseyl,eşəyl
-mesni,məsni
+mesni,meşni
 ullev,ülləv
 AQTA-,AQTA-
 QTA-y,QTA-y
@@ -122755,7 +122754,7 @@ Mikri,Mikri
 Conge,Cöngə
 Kavey,Kavey
 aveyi,aveyi
-veyi-,veyi-
+veyi-,vəyi-
 yi-ah,yi-ah
 i-ahe,i-ahə
 Kaven,Kavən
@@ -122865,7 +122864,7 @@ evona,evona
 vonan,vonan
 amikd,amikd
 mikdi,mikdi
-laqem,laqəm
+laqem,laqem
 aqemi,aqəmi
 eleyl,ələyl
 mrudu,mrudu
@@ -122906,7 +122905,7 @@ ructi,ructi
 strie,strie
 triel,triel
 riell,riell
-Medit,Médit
+Medit,Medit
 rrane,rrané
 ranee,ranée
 rgere,rgərə
@@ -122921,7 +122920,7 @@ errel,ərrəl
 Tirpa,Tırpa
 dlovu,dlovu
 12-22,12-22
-Derse,Dərsə
+Derse,Derse
 Zedib,Zedib
 ediba,ediba
 diban,diban
@@ -123056,7 +123055,7 @@ rekpu,rəkpu
 ekpul,əkpul
 kpulu,kpulu
 Polly,Polly
-Samso,Samso
+Samso,Şamso
 amson,amson
 E-man,E-man
 -mana,-mana
@@ -123140,7 +123139,7 @@ nasey,nasey
 linii,lınıı
 nhayd,nhayd
 Biq-b,Biq-b
-iq-be,iq-be
+iq-be,ıq-bə
 q-ben,q-ben
 yuk-d,yük-d
 cbolm,çbölm
@@ -123383,7 +123382,7 @@ Ayvaz,Ayvaz
 Atero,Atero
 ninap,ninap
 sli-P,şli-P
-li-Pa,li-Pa
+li-Pa,lı-Pa
 i-Par,i-Par
 -Pars,-Pars
 Parsa,Parşa
@@ -123810,7 +123809,7 @@ afrad,afrad
 Aksen,Aksen
 accen,accen
 centu,centu
-entus,entus
+entus,əntuş
 rece-,rəcə-
 ece-d,əcə-d
 e-der,ə-dər
@@ -124057,7 +124056,7 @@ i-Biz,i-Biz
 ans-e,ans-Ə
 ns-er,ns-Ər
 s-ere,s-Ərə
-isbil,isbil
+isbil,işbil
 pdiqi,pdiqi
 diqim,diqim
 baqri,baqri
@@ -124074,7 +124073,7 @@ Miyan,Miyan
 Xiyav,Xiyav
 ilebo,iləbö
 ebord,əbörd
-bordd,bordd
+bordd,bördd
 Nadim,Nadim
 neiti,nəıti
 eitic,əıtic
@@ -124465,7 +124464,7 @@ lotor,lotor
 Kurqa,Kürqa
 urqar,ürqar
 rqara,rqara
-slida,şlıda
+slida,slıda
 olgul,ölgül
 lgule,lgülə
 krona,krona
@@ -124633,7 +124632,7 @@ gele-,gələ-
 ele-g,ələ-g
 le-ge,lə-gə
 e-gel,ə-gəl
-ehsiy,əhsiy
+ehsiy,əhşiy
 hsiym,hşiym
 kritp,kritp
 ritpo,ritpo
@@ -124867,7 +124866,7 @@ MVt-l,MVt-l
 Vt-li,Vt-lı
 t-liq,t-lıq
 fimas,fimas
-mahsu,mahşu
+mahsu,mahsu
 ahsul,ahsul
 sab-l,sab-l
 ab-la,ab-la
@@ -124915,7 +124914,7 @@ rsici,rsicı
 sicii,sicıı
 iciim,icıım
 341-c,341-c
-addeb,addəb
+addeb,addeb
 ddeba,ddəba
 achte,achte
 sucsu,süçsü
@@ -125064,7 +125063,7 @@ tdaya,tdaya
 l-esl,l-Əsl
 -esle,-Əslə
 Vaqqa,Vaqqa
-qasda,qasda
+qasda,qaşda
 bopbo,bopbo
 opboz,opboz
 apbay,apbay
@@ -125097,7 +125096,7 @@ Axtin,Axtin
 sizld,sizld
 izldi,izldi
 zldiy,zldiy
-yeiti,yəıti
+yeiti,yeiti
 eitir,eitir
 adass,adaşs
 Boyl-,Boyl-
@@ -125128,7 +125127,7 @@ izmci,izmçi
 zmcil,zmçil
 tno-m,tno-m
 no-mu,no-mu
-o-mus,o-muş
+o-mus,o-mus
 uzeys,uzeyş
 zeysu,zeyşü
 mozvz,mözvz
@@ -125254,7 +125253,7 @@ tevez,təvəz
 vezok,vəzök
 ezoka,əzöka
 ulken,ülken
-teror,terör
+teror,teror
 orgut,örgüt
 rgutu,rgütü
 leti',leti'
@@ -125309,7 +125308,7 @@ OLGeL,ÖLGƏL
 LGeLe,LGƏLƏ
 GeLeR,GƏLƏR
 rihin,rihin
-ihine,ihine
+ihine,ihinə
 kkure,kkürə
 gulab,gülab
 futly,futly
@@ -125514,7 +125513,7 @@ uratu,uratu
 Moudi,Moudi
 ufanl,ufanl
 fanla,fanla
-usmax,uşmax
+usmax,üşmax
 iltic,iltic
 ltica,ltica
 arpmi,arpmı
@@ -125788,7 +125787,7 @@ ruzga,rüzga
 racak,racak
 imdem,ımdem
 mdemo,mdemo
-Baxsa,Baxşa
+Baxsa,Baxsa
 Qerec,Qərəc
 Gorev,Görəv
 oreva,örəva
@@ -125948,8 +125947,8 @@ adiov,adiov
 diove,diove
 iover,iover
 tmega,tməğa
-megas,məğaş
-egasi,əgaşi
+megas,məgaş
+egasi,əğaşi
 carux,çarux
 aruxb,aruxb
 ruxba,ruxba
@@ -125957,7 +125956,7 @@ uxbag,uxbağ
 xbagi,xbaği
 udbay,üdbay
 dbaya,dbaya
-masek,maşek
+masek,maşək
 aseke,aşəkə
 oyayn,oyayn
 yayna,yayna
@@ -125969,7 +125968,7 @@ Dizqi,Dizqı
 izqir,izqır
 zqirm,zqırm
 cerex,cərəx
-erexo,ərəxo
+erexo,erexo
 rexor,rəxor
 exoru,əxoru
 kocit,koçit
@@ -125991,7 +125990,7 @@ qiuko,qiüko
 iukoz,iükoz
 hopur,hopur
 avmay,avmay
-IRINC,IRINC
+IRINC,İRİNC
 RINCI,RİNCİ
 racux,raçux
 acuxu,açuxu
@@ -126049,7 +126048,7 @@ sidie,sidie
 idiem,idiem
 dieme,dieme
 iemey,iemey
-orevi,örəvi
+orevi,orevi
 revin,revin
 uzv-o,üzv-ö
 zv-ol,zv-öl
@@ -126060,7 +126059,7 @@ urmac,urmaç
 14-nu,14-nü
 baq-q,baq-q
 q-qab,q-qab
-xi-mu,xi-mu
+xi-mu,xi-mü
 Albon,Albon
 lbonc,lbonc
 oncug,oncuğ
@@ -126093,7 +126092,7 @@ adigm,adığm
 omodu,omodu
 modum,modum
 oduma,oduma
-herne,herne
+herne,hərnə
 kolgl,kölgl
 olgle,ölglə
 lgley,lgləy
@@ -126340,7 +126339,7 @@ sosud,soşud
 osudu,oşudu
 sudul,şudul
 igdin,ığdın
-gdini,ğdini
+gdini,ğdını
 Kefay,Kefay
 ubuqd,ubuqd
 buqdu,buqdu
@@ -126658,7 +126657,7 @@ ravci,ravçi
 avcik,avçik
 Sixez,Şixez
 ixezi,ixezi
-Dosti,Dosti
+Dosti,Dostı
 tik-A,tık-A
 ik-Ak,ık-Ak
 k-Akt,k-Akt
@@ -126919,7 +126918,7 @@ enmiy,ənmiy
 cixab,çıxab
 ixabi,ıxabi
 xabil,xabil
-iyeme,iyəmə
+iyeme,iyemə
 TCAP-,TCAP-
 CAP-s,CAP-s
 AP-si,AP-si
@@ -127044,7 +127043,7 @@ a-lir,a-lir
 ndi-R,ndi-R
 di-Ru,di-Ru
 i-Rum,i-Rum
--Rumi,-Rumi
+-Rumi,-Rumı
 "980,1","980,1"
 "80,19","80,19"
 "0,198","0,198"
@@ -127151,7 +127150,7 @@ ldu-o,ldu-o
 du-ol,du-ol
 u-olm,u-olm
 isalu,ısalü
-salul,salül
+salul,şalül
 alule,alülə
 zarko,zarko
 umerd,umerd
@@ -127165,7 +127164,7 @@ medyi,mədyi
 ribe-,ribə-
 ibe-q,ibə-q
 be-qe,bə-qə
-e-qer,e-qər
+e-qer,ə-qər
 230-2,230-2
 30-26,30-26
 0-260,0-260
@@ -127443,7 +127442,7 @@ Brail,Brail
 ecano,əcano
 orerl,örərl
 irarm,ırarm
-eynan,eynan
+eynan,əynan
 cin-K,çın-K
 in-Ke,ın-Kə
 n-Kel,n-Kəl
@@ -127837,7 +127836,7 @@ ipath,ipath
 volus,volus
 olusa,olusa
 side-,şidə-
-ide-e,idə-ə
+ide-e,idə-e
 de-es,də-eş
 sunlu,sunlu
 soyer,söyər
@@ -128017,7 +128016,7 @@ nyann,nyann
 burga,burğa
 urgac,urğac
 iribm,iribm
-zbeks,zbəks
+zbeks,zbeks
 bekst,bəkst
 rgizs,rğızs
 gizst,ğızst
@@ -128374,7 +128373,7 @@ siq-a,şıq-a
 q-asi,q-aşı
 bocuq,bocuq
 yburt,yburt
-Tufen,Tüfen
+Tufen,Tüfən
 ufenk,üfenk
 fenkc,fenkc
 enkci,enkci
@@ -128524,7 +128523,7 @@ soral,soral
 qamqe,qamqe
 amqeb,amqeb
 mqebe,mqebe
-qebel,qebel
+qebel,qəbəl
 belis,belis
 gunus,günüs
 Linki,Linki
@@ -128828,7 +128827,7 @@ etirq,ətirq
 tirqa,tirqa
 irqab,irqab
 rqabi,rqabı
-inibs,inibs
+inibs,ınıbs
 qobul,qobul
 obula,obula
 busty,busty
@@ -128991,7 +128990,7 @@ sekur,şəkür
 4.9.2,4.9.2
 .9.20,.9.20
 nis'i,niş'i
-malde,maldə
+malde,malde
 alden,aldən
 2008d,2008d
 008de,008də
@@ -129253,7 +129252,7 @@ M-ini,M-ini
 estec,əstəç
 steci,stəçi
 Hinde,Hinde
-indem,indem
+indem,indəm
 demit,demit
 Gaius,Gaius
 Tacit,Tacit
@@ -130042,7 +130041,7 @@ qoqik,qoqik
 oqika,oqika
 qikad,qikad
 Senem,Sənəm
-ragiz,rağız
+ragiz,ragiz
 agizm,agizm
 -muva,-müva
 lcanl,lcanl
@@ -130237,7 +130236,7 @@ liakt,liakt
 iakti,iakti
 metub,mətub
 tubat,tubat
-mizi-,mizi-
+mizi-,mızı-
 izi-a,ızı-a
 zi-ac,zı-ac
 -acim,-acım
@@ -130246,7 +130245,7 @@ AESTE,AESTE
 Merah,Mərah
 Koqda,Koqda
 ollem,ölləm
-isalm,ısalm
+isalm,isalm
 altol,altol
 Agizd,Ağızd
 cikar,çıkar
@@ -130547,7 +130546,7 @@ kulyo,kulyo
 ulyoz,ulyoz
 ndilo,ndilo
 iloma,iloma
-soymu,soymu
+soymu,söymü
 yubel,yubəl
 ubel-,ubəl-
 bel-H,bəl-H
@@ -130678,7 +130677,7 @@ Maran,Maran
 Bakus,Bakus
 ikcaz,ikcaz
 vresl,vrəsl
-resli,rəsli
+resli,resli
 cem-s,cem-s
 em-se,em-se
 -seys,-seyş
@@ -130779,7 +130778,7 @@ Dalfo,Dalfo
 alfon,alfon
 lfonu,lfonu
 Aspat,Aspat
-spata,spata
+spata,şpata
 patan,patan
 Porat,Porat
 orata,orata
@@ -130902,7 +130901,7 @@ ipanl,ipanl
 15631,15631
 turli,türli
 urli-,ürli-
-li-tu,lı-tü
+li-tu,li-tü
 -turl,-türl
 raduc,raduc
 aducu,aducu
@@ -131011,7 +131010,7 @@ CPM-n,CPM-n
 nrasa,nrasa
 oxama,oxama
 xamal,xamal
-is-de,iş-də
+is-de,iş-de
 "240,0","240,0"
 "420,0","420,0"
 Niyel,Niyəl
@@ -131043,14 +131042,14 @@ NEYRO,NEYRO
 EYROP,EYROP
 YROPA,YROPA
 ROPAT,ROPAT
-OPATI,OPATİ
+OPATI,OPATI
 PATIY,PATIY
-ATIYA,ATİYA
+ATIYA,ATIYA
 TRAFL,TRAFL
 RAFLA,RAFLA
 AFLAR,AFLAR
 FLARI,FLARI
-ennix,ennix
+ennix,ennıx
 nnix-,nnix-
 nix-k,nix-k
 ix-ke,ix-kə
@@ -131124,7 +131123,7 @@ igrel,igrəl
 grele,grələ
 rzila,rzıla
 tabun,tabun
-sehre,sehrə
+sehre,şəhrə
 ehre-,əhrə-
 hre-m,hrə-m
 re-me,rə-mə
@@ -131511,7 +131510,7 @@ tan-b,tan-b
 n-bes,n-beş
 -besm,-beşm
 oriqi,oriqi
-iqina,iqina
+iqina,ıqına
 qinal,qinal
 135-c,135-c
 ml-de,ml-də
@@ -131865,7 +131864,7 @@ iband,iband
 apiqd,apıqd
 piqdi,pıqdı
 yumel,yüməl
-sarir,sarır
+sarir,şarır
 2D-re,2D-re
 D-rej,D-rej
 duymd,düymd
@@ -131905,7 +131904,7 @@ avlam,avlam
 "2,188","2,188"
 "27,81","27,81"
 "7,812","7,812"
-urril,ürril
+urril,urril
 rrile,rrilə
 mmerl,mmerl
 ksekh,ksəkh
@@ -132028,7 +132027,7 @@ qetls,qətls
 NEWSr,NEWSr
 EWSru,EWSru
 Sudab,Südab
-udabe,udabe
+udabe,üdabə
 dabex,dabəx
 abexa,abəxa
 ahyan,ahyan
@@ -132196,7 +132195,7 @@ scadi,scadı
 epsid,epsid
 pside,psidə
 oynes,öynəs
-ynese,ynəşə
+ynese,ynəsə
 Mayil,Mayıl
 cini-,çini-
 i-mac,i-maç
@@ -132228,7 +132227,7 @@ ici-k,ıçı-k
 ci-ku,çı-ku
 -kult,-kult
 nemay,nemay
-emaye,əmaye
+emaye,emayə
 ef-de,ef-de
 f-de-,f-de-
 -de-m,-de-m
@@ -132412,7 +132411,7 @@ muyux,muyux
 Helmi,Helmi
 yoxuq,yoxuq
 tekib,təkib
-ekibi,ekibi
+ekibi,əkibi
 Barim,Barım
 ramax,ramax
 ax-ax,ax-ax
@@ -132619,7 +132618,7 @@ ebade,əbadə
 iqmas,iqmas
 qmasi,qması
 el-di,el-di
-l-dir,l-dir
+l-dir,l-dır
 Irqle,İrqlə
 oyime,oyimə
 Lesay,Leşay
@@ -132946,7 +132945,7 @@ elifp,əlifp
 lifpl,lifpl
 ifpla,ifpla
 fplat,fplat
-Dagke,Dağkə
+Dagke,Dağke
 agkec,ağkeç
 gkeci,ğkeçi
 ocaqd,ocaqd
@@ -133190,7 +133189,7 @@ cmlil,cmlil
 Ilind,İlind
 43588,43588
 nterd,nterd
-SM-in,ŞM-in
+SM-in,SM-in
 Maqnu,Maqnu
 aqnus,aqnus
 stirk,ştirk
@@ -133216,7 +133215,7 @@ zaniq,zanıq
 cisml,cisml
 ddi-M,ddi-M
 di-Me,di-Mə
-lub-q,lub-q
+lub-q,lüb-q
 ub-qu,üb-qu
 isdel,işdəl
 sdeli,şdəli
@@ -133394,7 +133393,7 @@ imyat,imyat
 myate,myate
 yater,yater
 nafec,nafeç
-afeci,afəçi
+afeci,afeçi
 hemta,həmta
 emtay,əmtay
 mtayf,mtayf
@@ -133664,7 +133663,7 @@ eqs-m,əqs-m
 qs-ma,qs-ma
 s-mah,s-mah
 -mahn,-mahn
-nesek,nəşək
+nesek,nəsək
 116.3,116.3
 ardti,ardtı
 rdtin,rdtın
@@ -133695,7 +133694,7 @@ uzmaz,uzmaz
 zmazl,zmazl
 Ayibi,Ayıbı
 xusal,xusal
-usala,usala
+usala,üsala
 Karsd,Karsd
 irlmi,ırlmı
 rlmis,rlmış
@@ -133893,7 +133892,7 @@ ledli,lədli
 opuql,opuql
 puqlu,puqlu
 76000,76000
-YAZIS,YAZIŞ
+YAZIS,YAZIS
 ZISIN,ZISIN
 ISIND,ISIND
 EHTIY,EHTİY
@@ -134174,7 +134173,7 @@ l-biz,l-biz
 #230#,#230#
 230#Y,230#Y
 30#YE,30#YE
-SUReT,SURƏT
+SUReT,SÜRƏT
 UReTI,URƏTİ
 resay,reşay
 BBDO-,BBDO-
@@ -134736,7 +134735,7 @@ HEKAY,HEKAY
 EKAYe,EKAYƏ
 AYeTI,AYƏTİ
 riini,rıını
-iinin,ıının
+iinin,iinin
 asaml,aşaml
 ligil,lıgil
 ebisk,əbişk
@@ -134745,7 +134744,7 @@ Nasil,Nasıl
 qiye-,qiye-
 iye-s,iye-s
 -sant,-sant
-emirh,Əmirh
+emirh,əmirh
 mirha,mirha
 irhac,irhac
 rhaci,rhacı
@@ -135058,7 +135057,7 @@ ldimu,ldimü
 muhem,mühəm
 unmuh,unmüh
 nmuhe,nmühə
-dumur,dümür
+dumur,dumur
 20536,20536
 0536-,0536-
 536-e,536-ə
@@ -135155,7 +135154,7 @@ Kinof,Kinof
 Japon,Japon
 mafen,mafən
 8.5.3,8.5.3
-genek,gənək
+genek,genek
 eneko,eneko
 axdiy,axdıy
 xdiya,xdıya
@@ -135404,7 +135403,7 @@ onuda,onuda
 Lecey,Ləçəy
 komru,kömrü
 ddith,ddith
-hiled,hiləd
+hiled,hiled
 Oracl,Oracl
 racle,racle
 xsamm,xşamm
@@ -135521,7 +135520,7 @@ PASAB,PAŞAB
 ASABa,AŞABa
 SABan,ŞABan
 ABank,ABank
-risis,risis
+risis,rısıs
 giatd,giatd
 iatdi,iatdı
 koteq,koteq
@@ -135856,7 +135855,7 @@ ananm,ananm
 24-du,24-dü
 ezzad,əzzad
 zzada,zzada
-Reyce,Reyçe
+Reyce,Reyce
 eycel,eyçel
 Korri,Korri
 orrin,orrin
@@ -135996,7 +135995,7 @@ rer-i,rer-ı
 Yaeks,Yaeks
 cqini,çqını
 5.8.8,5.8.8
-ozlug,özlüğ
+ozlug,ozluğ
 nmust,nmüşt
 Anisi,Anisi
 isimo,isimo
@@ -136348,7 +136347,7 @@ llrin,llrin
 8.04.,8.04.
 ccerl,ccərl
 ertey,ərtəy
-rteye,rteyə
+rteye,rtəyə
 Malbi,Malbi
 albin,albin
 Xalda,Xalda
@@ -136654,7 +136653,7 @@ v-vah,v-vah
 -vahi,-vahi
 green,green
 cmirm,çmirm
-tis-s,tis-ş
+tis-s,tış-s
 Aqsak,Aqsak
 qsaka,qsaka
 BMP-n,BMP-n
@@ -137176,7 +137175,7 @@ t-bat,t-bat
 eynih,eynih
 ynihu,ynihü
 nihuq,nihüq
-Basag,Başag
+Basag,Başağ
 NYMEX,NYMEX
 rcant,rcant
 canti,canti
@@ -137428,7 +137427,7 @@ mama-,mama-
 ama-g,ama-g
 ma-gi,ma-gi
 a-gin,a-gin
-Perin,Pərin
+Perin,Perin
 FUTBO,FUTBO
 UTBOL,UTBOL
 42-de,42-də
@@ -137991,7 +137990,7 @@ utinl,utinl
 rajan,rajan
 ajanb,ajanb
 janba,janba
-anbas,anbaş
+anbas,anbas
 ikitr,ikitr
 kitre,kitrə
 itref,itrəf
@@ -138160,7 +138159,7 @@ m-dus,m-düş
 abaso,abaşo
 eyyat,əyyat
 fiqen,fiqən
-iqene,iqene
+iqene,iqənə
 elemn,elemn
 lemne,lemne
 emnet,emnet
@@ -138605,7 +138604,7 @@ Kolin,Kolin
 opduk,öpdük
 pdukc,pdükc
 rkabl,rkabl
-kabli,kablı
+kabli,kabli
 qumlu,qumlu
 lerep,lerep
 erepo,erepo
@@ -139078,7 +139077,7 @@ mbapa,mbapa
 bapal,bapal
 apalo,apalo
 palos,palos
-ablin,ablın
+ablin,ablin
 Oroti,Oroti
 rotiu,rotiu
 otius,otius
@@ -139376,7 +139375,7 @@ Frens,Frens
 ensis,ensis
 itanl,itanl
 4.8.4,4.8.4
-l-cir,l-çır
+l-cir,l-çir
 0-105,0-105
 -1050,-1050
 iya-l,iya-l
@@ -140274,7 +140273,7 @@ na-at,na-at
 qovmv,qovmv
 ovmvg,ovmvğ
 vmvga,vmvğa
-suruq,suruq
+suruq,şuruq
 azi-l,azi-l
 zi-le,zi-lə
 Alovd,Alovd
@@ -140411,7 +140410,7 @@ Nesra,Nəsra
 ktida,ktida
 tidad,tidad
 Ivanc,İvanc
-rslug,rsluğ
+rslug,rşluğ
 slugi,sluği
 elira,əlira
 yyeit,yyəıt
@@ -140455,7 +140454,7 @@ n-Mis,n-Miş
 -Misp,-Mişp
 ispat,işpat
 22.00,22.00
-stida,stida
+stida,stıda
 idade,idadə
 dadec,dadəç
 mur-s,mur-s
@@ -140536,8 +140535,8 @@ isein,isəin
 rdi-s,rdi-s
 di-so,di-so
 -sonr,-sonr
-perhi,pərhi
-erhiz,ərhiz
+perhi,perhi
+erhiz,erhiz
 rhizk,rhizk
 hizka,hizka
 Lecko,Leçko
@@ -140921,7 +140920,7 @@ zamim,zamım
 Benel,Benəl
 enelx,enəlx
 ilmec,ilməc
-klasi,klasi
+klasi,klası
 alga-,alğa-
 lga-z,lğa-z
 ga-ze,ğa-zə
@@ -141414,7 +141413,7 @@ loadi,loadi
 oadin,oadin
 Sinka,Şinka
 uaric,üaric
-ricet,rıçət
+ricet,ricət
 rbiti,rbiti
 yoran,yoran
 Qetle,Qətlə
@@ -142687,7 +142686,7 @@ yyee-,yyəə-
 yee-t,yəə-t
 ee-te,əə-tə
 e-tee,ə-təə
-teese,təəşə
+teese,təəsə
 eseer,əsəər
 seerr,səərr
 eerru,əərrü
@@ -142712,7 +142711,7 @@ maash,maash
 aashi,aashi
 Vercl,Vercl
 ercla,ercla
-cland,cland
+cland,çland
 Werge,Werge
 rgela,rgela
 gelan,gelan
@@ -143124,7 +143123,7 @@ sforu,sforu
 115.6,115.6
 115-c,115-c
 zel-c,zəl-ç
-el-ci,əl-çi
+el-ci,əl-çı
 -cirk,-çirk
 astol,astol
 izioq,izioq
@@ -143798,7 +143797,7 @@ notsi,notsi
 oker-,oker-
 ker-d,ker-d
 r-dil,r-dil
-edanl,ədanl
+edanl,edanl
 hleve,hləvə
 level,ləvəl
 979-a,979-a
@@ -144482,7 +144481,7 @@ bayac,bayac
 ansiv,ansiv
 47950,47950
 animm,anımm
-me-ni,me-ni
+me-ni,mə-ni
 e-nim,ə-nim
 -nims,-nims
 16724,16724
@@ -144607,7 +144606,7 @@ iviyi,iviyi
 04-ci,04-cı
 naetk,naətk
 kkira,kkira
-Sauls,Şauls
+Sauls,Sauls
 aulsk,aulsk
 ulski,ulski
 lskid,lskid
@@ -145321,7 +145320,7 @@ i-Sun,i-Sün
 isanu,isanu
 sanul,sanul
 pinaq,pınaq
-merge,merge
+merge,mərgə
 acqui,acqui
 cquis,cquis
 quisi,quisi
@@ -145460,7 +145459,7 @@ bneva,bnəva
 aciqu,açıqü
 ciquz,çıqüz
 iquzl,ıqüzl
-quzlu,qüzlu
+quzlu,qüzlü
 urets,urəts
 01-30,01-30
 yuneg,yunəg
@@ -145962,7 +145961,7 @@ luymu,luymu
 aci-n,acı-n
 ci-na,cı-na
 i-nac,ı-nac
--naca,-naca
+-naca,-naça
 bretl,brətl
 abiro,abiro
 birog,biroğ
@@ -146390,7 +146389,7 @@ batet,batət
 10:13,10:13
 XUII-,XÜII-
 II-XU,II-XÜ
-Degis,Değiş
+Degis,Dəgiş
 llu-v,llü-v
 lu-va,lü-va
 u-var,ü-var
