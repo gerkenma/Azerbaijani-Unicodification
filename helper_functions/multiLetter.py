@@ -15,7 +15,6 @@ def buildMultiLetter():
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
         for line in training:
             line = line.strip()
-
             length = 5
             while length >= 3:
                 start = 0
@@ -27,7 +26,6 @@ def buildMultiLetter():
                             threeLetter[unidecode(line[start:end]).replace("@", "e")].append(line[start:end])
                         except KeyError:
                             threeLetter[unidecode(line[start:end]).replace("@", "e")] = [(line[start:end])]
-
                     elif len(line[start:end]) == 4:
                         try:
                             fourLetter[unidecode(line[start:end]).replace("@", "e")].append(line[start:end])
@@ -60,13 +58,10 @@ def buildMultiLetter():
 
 def testMultiLetter(word, threeL, fourL, fiveL):
     length = 5
-    replace = None
 
     orig = word
     word = word.lower()
-    changes = 0
     while length >= 3:
-        temp = word
         start = 0
         found = False
         while start <= len(word) - length:
@@ -75,8 +70,6 @@ def testMultiLetter(word, threeL, fourL, fiveL):
             if len(word[start:end]) == 5:
                 try:
                     word = word.replace(word[start:end], fiveL[(word[start:end])])
-                    print("Replaced", temp[start:end], "with", word[start:end])
-                    changes += 1
                     found = True
                 except KeyError:
                     pass
@@ -84,8 +77,6 @@ def testMultiLetter(word, threeL, fourL, fiveL):
             elif len(word[start:end]) == 4:
                 try:
                     word = word.replace(word[start:end], fourL[(word[start:end])])
-                    print("Replaced", temp[start:end], "with", word[start:end])
-                    changes += 1
                     found = True
                 except KeyError:
                     pass
@@ -93,13 +84,10 @@ def testMultiLetter(word, threeL, fourL, fiveL):
             else:
                 try:
                     word = word.replace(word[start:end], threeL[(word[start:end])])
-                    print("Replaced", temp[start:end], "with", word[start:end])
-                    changes += 1
                     found = True
                 except KeyError:
                     pass
 
             start += 1
         length -= 1
-    print("Changes:", changes)
-    return helperFunctions.fixCaps(orig, replace), found
+    return helperFunctions.fixCaps(orig, word), found

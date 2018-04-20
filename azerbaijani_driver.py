@@ -48,9 +48,9 @@ with open("input.csv", "r", encoding="UTF-8") as test:
         if not found:
             predictions[i], found = multiLetter.testMultiLetter(predictions[i], threeLetter, fourLetter, fiveLetter)
             if found: multiLetterCount += 1
-            predictions[i] = letterFreq.testLetterFreq(line, freqList)
 
-        if i >= 100: break
+        if not found:
+            predictions[i] = letterFreq.testLetterFreq(line, freqList)
 
 helperFunctions.writeDictionary(predictions, "prediction.csv")
 print("Output file successfully written.")

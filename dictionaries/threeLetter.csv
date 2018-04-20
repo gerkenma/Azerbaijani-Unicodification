@@ -2431,7 +2431,7 @@ r-B,r-B
 naq,naq
 aqo,aqo
 qoq,qoq
-is-,is-
+is-,ış-
 s-m,s-m
 -me,-mə
 zal,zal
@@ -3855,7 +3855,7 @@ Ceh,Cəh
 mog,moğ
 ogo,ogo
 Osm,Osm
-li',li’
+li',lı’
 i'y,ı’y
 'ya,’ya
 ltu,ltu
@@ -5176,7 +5176,7 @@ Yix,Yıx
 vql,vql
 Ohd,Öhd
 gic,ğıc
-i-C,i-Ç
+i-C,i-C
 -Cu,-Çu
 Cux,Çux
 e-D,ə-D
@@ -5379,7 +5379,7 @@ nqu,nqu
 Rud,Rud
 udo,udo
 olf,olf
-Kun,Kun
+Kun,Kün
 Ore,Ore
 Keb,Kəb
 l-s,l-ş
@@ -5427,7 +5427,7 @@ SIN,SİN
 IND,IND
 GEK,GEK
 EKO,EKO
-KOM,KOM
+KOM,KÖM
 OMM,OMM
 MME,MME
 MEN,MEN
@@ -5559,7 +5559,7 @@ Cer,Çər
 vuc,vuc
 usn,üsn
 snu,snü
-qec,qeç
+qec,qəç
 i-g,i-g
 dih,dih
 Sig,Sığ
@@ -5629,7 +5629,7 @@ ibB,ibB
 bBe,bBə
 Reg,Reg
 veT,vəT
-eTu,əTu
+eTu,əTü
 Fol,Fol
 8-e,8-ə
 xda,xda
@@ -5818,7 +5818,7 @@ toa,toa
 oat,oat
 Inz,İnz
 rt',rt’
-t'i,t’ı
+t'i,t'i
 e-E,ə-E
 -Er,-Er
 t-t,t-t
@@ -5835,8 +5835,8 @@ Nog,Noğ
 qom,qom
 Maq,Maq
 Tin,Tin
-tu-,tü-
-u-x,u-x
+tu-,tu-
+u-x,ü-x
 -xa,-xa
 Vaq,Vaq
 qif,qif
@@ -6278,7 +6278,7 @@ Bru,Brü
 ysl,ysl
 Ayh,Ayh
 yha,yha
-uin,uin
+uin,üin
 7-8,7-8
 Spa,Spa
 kia,kia
@@ -6375,7 +6375,7 @@ y-y,y-y
 bro,bro
 Zah,Zah
 idb,idb
-Mev,Mev
+Mev,Məv
 Zor,Zor
 Qat,Qat
 Tep,Təp
@@ -6716,7 +6716,7 @@ Lut,Lüt
 ilb,ilb
 eil,eil
 fus,füs
-eoz,eoz
+eoz,əöz
 7-3,7-3
 -31,-31
 3-3,3-3
@@ -6935,8 +6935,8 @@ TNS,TNS
 siu,siu
 Fez,Fəz
 MC-,MC-
-C-l,C-l
-Te',Tə’
+C-l,Ç-l
+Te',Tə'
 e'y,ə'y
 'yi,'yi
 fe',fe'
@@ -6963,7 +6963,7 @@ iar,iar
 4.9,4.9
 Tau,Tau
 auz,auz
-uzs,üzs
+uzs,uzs
 zsk,zsk
 kae,kae
 ydj,ydj
@@ -7127,7 +7127,7 @@ qii,qii
 Peh,Pəh
 Add,Add
 dub,dub
-uzq,uzq
+uzq,üzq
 zqu,zqu
 i-A,i-A
 r-m,r-m
@@ -7547,7 +7547,7 @@ vvo,vvo
 vot,vot
 t-Y,t-Y
 Kaf,Kaf
-urh,ürh
+urh,urh
 9.4,9.4
 apc,apç
 pci,pçı
@@ -7916,7 +7916,7 @@ con,con
 699,699
 672,672
 Rol,Rol
-voo,voö
+voo,voo
 oob,oob
 voy,voy
 Ica,İca
@@ -7963,7 +7963,7 @@ RSA,RSA
 TRA,TRA
 RAD,RAD
 ADI,ADİ
-DIG,DİG
+DIG,DIĞ
 IGI,IĞI
 GIN,ĞIN
 vlo,vlo
@@ -8137,7 +8137,7 @@ y-b,y-b
 Gez,Gez
 rst,rst
 rks,rks
-VIP,VİP
+VIP,VIP
 omf,omf
 mtu,mtü
 ahv,ahv
@@ -8171,7 +8171,7 @@ edn,ədn
 Orq,Orq
 s-c,ş-ç
 Ipe,İpə
-kyo,kyo
+kyo,kyö
 ILC,İLÇ
 LCe,LÇƏ
 CeK,ÇƏK
@@ -8620,7 +8620,7 @@ LES,LES
 cml,cml
 uzm,üzm
 Yub,Yub
-dao,dao
+dao,daö
 aon,aon
 ooo,ooo
 Inq,İnq
@@ -8680,7 +8680,7 @@ IT-,İT-
 T-h,T-h
 CeB,CƏB
 eBI,ƏBİ
-BIT,BİT
+BIT,BIT
 ekg,əkg
 kge,kgə
 Mou,Mou
@@ -8699,7 +8699,7 @@ oyi,oyi
 Aqs,Aqş
 sba,sba
 r-e,r-ə
--ej,-Əj
+-ej,-əj
 e-f,ə-f
 -fe,-fə
 144,144
@@ -9005,7 +9005,7 @@ x-M,x-M
 Lug,Lüğ
 Pel,Pel
 Hom,Hom
-ZAR,ZÄR
+ZAR,ZAR
 ARB,ARB
 cokh,çoх
 okhd,oхd
@@ -9027,7 +9027,7 @@ aac,aaç
 oss,oss
 EEM,EEM
 Fut,Fut
-ISS,İSS
+ISS,ISS
 SSE,SSE
 yom,yom
 rph,rph
@@ -9194,7 +9194,7 @@ ELI,ELİ
 KUR,KUR
 URI,URİ
 RIK,RİK
-IKU,IKU
+IKU,İKU
 KUL,KUL
 ULU,ULU
 LUM,LUM
@@ -9700,7 +9700,7 @@ EXC,EXC
 XCE,XCE
 ELS,ELS
 LSI,LSI
-SIO,SIO
+SIO,SİO
 IOR,IOR
 eHS,ƏHS
 HSI,HSİ
@@ -9904,7 +9904,7 @@ Qom,Qom
 ouT,ouT
 uTu,uTu
 Tub,Tub
-prs,prs
+prs,prş
 soe,soe
 oes,oes
 SVB,SVB
@@ -9981,7 +9981,7 @@ ofr,ofr
 yue,yue
 eRA,ƏRA
 RAR,RAR
-LIR,LİR
+LIR,LIR
 OYU,ÖYÜ
 UKD,ÜKD
 KDU,KDÜ
@@ -10102,7 +10102,7 @@ fia,fia
 foz,foz
 bau,bau
 bav,bav
-FID,FİD
+FID,FID
 AAK,AAK
 I-V,I-V
 ubp,ubp
@@ -10311,7 +10311,7 @@ yos,yos
 UTX,UTX
 TXH,TXH
 l-n,l-n
-He-,Hə-
+He-,HƏ-
 EOS,EOS
 OSO,OSÖ
 SOR,SOR
@@ -10520,7 +10520,7 @@ Iya,İya
 Agq,Ağq
 gqo,ğqo
 dup,dup
-ieh,ıəh
+ieh,iəh
 54-,54-
 xef,xəf
 fif,fif
@@ -10703,7 +10703,7 @@ sht,sht
 732,732
 TIM,TİM
 IMU,İMU
-MUL,MÜL
+MUL,MUL
 SEV,SEV
 ORU,ORU
 YAs,YAş
@@ -10866,7 +10866,7 @@ jiq,jiq
 nqv,nqv
 gap,ğap
 ULS,ULS
-LSA,LSA
+LSA,LŞA
 SAM,SAM
 evk,evk
 vkl,vkl
@@ -10938,7 +10938,7 @@ n'i,n’ı
 Moq,Moq
 inT,ınT
 214,214
-ocr,ocr
+ocr,öçr
 ubM,ubM
 bMa,bMa
 QOS,QOS
@@ -10966,7 +10966,7 @@ UKL,ÜKL
 rds,rds
 dse,dse
 Rih,Rıh
-iht,ıht
+iht,iht
 inh,inh
 nhi,nhi
 -At,-At
@@ -10983,7 +10983,7 @@ Kez,Kez
 986,986
 hu-,hu-
 u-t,u-t
-eje,eje
+eje,əjə
 psu,psu
 PER,PER
 q-e,q-ə
@@ -11015,9 +11015,9 @@ wat,wat
 792,792
 478,478
 782,782
-DOR,DÖR
-ORD,ÖRD
-RDU,RDU
+DOR,DOR
+ORD,ORD
+RDU,RDÜ
 DUN,DÜN
 UNC,ÜNC
 FeS,FƏS
@@ -11036,7 +11036,7 @@ S-0,S-0
 086,086
 8-6,8-6
 -62,-62
-CIA,CIA
+CIA,CİA
 yms,yms
 Uol,Uol
 Jam,Jam
@@ -11045,7 +11045,7 @@ B-P,B-P
 u-b,u-b
 iog,ıoğ
 u-a,u-a
-KUT,KÜT
+KUT,KUT
 UTl,ÜTl
 Tle,Tle
 4.8,4.8
@@ -11230,7 +11230,7 @@ ORL,ORL
 RLA,RLA
 664,664
 645,645
-daI,daİ
+daI,daI
 aIr,aİr
 215,215
 517,517
@@ -11371,7 +11371,7 @@ KKI,KKİ
 cao,cao
 aog,aoğ
 Lus,Lüs
-BMU,BMU
+BMU,BMÜ
 UTT,ÜTT
 Rif,Rif
 riA,riA
@@ -11486,7 +11486,7 @@ otn,otn
 jiv,jiv
 upn,upn
 pni,pnı
-lgs,lğs
+lgs,lğş
 gso,ğşo
 tvu,tvu
 SMT,SMT
@@ -11645,8 +11645,8 @@ a-X,a-X
 596,596
 nej,nej
 avb,avb
-riN,riN
-iNo,ıNo
+riN,rıN
+iNo,iNo
 8-j,8-j
 -ji,-ji
 u-X,u-X
@@ -11717,7 +11717,7 @@ kiv,kiv
 G-n,G-n
 Tug,Tuğ
 387,387
-u-d,u-d
+u-d,ü-d
 rml,rml
 kvt,kvt
 Tit,Tit
@@ -11813,7 +11813,7 @@ Zub,Zub
 Ayp,Ayp
 omj,omj
 mjl,mjl
-nih,nih
+nih,nıh
 085,085
 DOS,DOS
 EFP,EFP
@@ -11895,7 +11895,7 @@ irA,irA
 rAz,rAz
 V-1,V-1
 iea,iea
-srt,srt
+srt,şrt
 312,312
 414,414
 moa,moa
@@ -11937,7 +11937,7 @@ szi,szi
 :53,:53
 K-d,K-d
 lcg,lçğ
-Una,Una
+Una,Üna
 vuq,vüq
 Paz,Paz
 384,384
@@ -12002,7 +12002,7 @@ nvu,nvu
 Uns,Üns
 E-q,E-q
 BMP,BMP
-PIS,PİS
+PIS,PIS
 Qli,Qli
 Tao,Tao
 Xoa,Xoa
@@ -12049,7 +12049,7 @@ Olt,Olt
 mrh,mrh
 Ati,Atı
 beT,bəT
-eTz,əTz
+eTz,eTz
 Tzi,Tzi
 -16,-16
 nll,nll
@@ -12132,7 +12132,7 @@ Me-,Me-
 ebj,əbj
 bje,bje
 je-,jə-
-z-O,z-Ö
+z-O,z-O
 -Ob,-Ob
 Yez,Yez
 irw,irw
@@ -12178,7 +12178,7 @@ vzo,vzo
 TVn,TVn
 Vni,Vni
 Fus,Fus
-iAz,ıAz
+iAz,iAz
 BTA,BTA
 i-1,i-1
 xt-,xt-
@@ -12218,12 +12218,12 @@ ibS,ibS
 bSu,bSu
 Suq,Suq
 uqn,uqn
-qiu,qiu
-iul,iul
-ISD,İŞD
+qiu,qiü
+iul,iül
+ISD,IŞD
 SDI,ŞDİ
 ARL,ARL
-RLI,RLİ
+RLI,RLI
 eqy,əqy
 q-a,q-a
 k-q,k-q
@@ -12234,13 +12234,13 @@ utk,utk
 Zim,Zim
 Ahr,Ahr
 Qai,Qai
-HTS,HTS
+HTS,HTŞ
 joo,joo
 iov,iov
 zrx,zrx
 xax,xax
 DMN,DMN
-unh,unh
+unh,ünh
 nhu,nhu
 UMT,ÜMT
 3-n,3-n
@@ -12329,7 +12329,7 @@ cDe,cDe
 YIG,YIĞ
 GIM,ĞIM
 Exo,Exo
-a-e,a-ə
+a-e,a-e
 -ec,-Əc
 eTn,əTn
 Tni,Tni
@@ -12368,7 +12368,7 @@ QMA,QMA
 JIC,JIC
 AZB,AZB
 P-4,P-4
-C-2,Ç-2
+C-2,C-2
 lfo,lfo
 ssh,ssh
 XIN,XİN
@@ -12443,7 +12443,7 @@ Run,Run
 Ziv,Ziv
 LeM,LƏM
 ycv,ycv
-cva,cva
+cva,çva
 cnl,cnl
 286,286
 c-S,c-S
@@ -12541,7 +12541,7 @@ Oso,Oşo
 #0#,#0#
 0#Y,0#Y
 Clu,Clu
-cii,cıı
+cii,ciı
 m-c,m-ç
 Him,Him
 Ark,Ark
@@ -12582,7 +12582,7 @@ BSi,BŞı
 Ret,Ret
 Jon,Jon
 Coh,Coh
-qei,qəı
+qei,qei
 eim,əim
 i-N,i-N
 -No,-No
@@ -12756,7 +12756,7 @@ azt,azt
 hax,hax
 vzn,vzn
 zno,zno
-bku,bkü
+bku,bku
 Suj,Süj
 Yoh,Yoh
 ra1,ra1
@@ -12773,7 +12773,7 @@ AFN,AFN
 Adu,Adu
 aav,aav
 gks,gkş
-gki,gki
+gki,ğki
 -kv,-kv
 uxi,uxi
 272,272
@@ -12787,7 +12787,7 @@ URO,URO
 OSA,OSA
 Efi,Efi
 RUS,RÜS
-USV,ÜŞV
+USV,ÜSV
 SVA,SVA
 VAY,VAY
 AFU,AFU
@@ -12883,7 +12883,7 @@ Teo,Teo
 906,906
 amh,amh
 moy,moy
-yuf,yuf
+yuf,yüf
 381,381
 udx,udx
 e-c,ə-ç
@@ -12901,7 +12901,7 @@ R-s,R-s
 :59,:59
 59:,59:
 "7,6","7,6"
-As-,Aş-
+As-,As-
 -Au,-Au
 Aus,Aus
 b-x,b-x
@@ -12941,7 +12941,7 @@ GAH,GAH
 I-M,İ-M
 KSI,KSİ
 rkb,rkb
-f-s,f-s
+f-s,f-ş
 d_0,d_0
 _08,_08
 :22,:22
@@ -12953,7 +12953,7 @@ nnt,nnt
 Usi,Uşi
 l-F,l-F
 ntt,ntt
-Cub,Cüb
+Cub,Çub
 bnb,bnb
 821,821
 duh,düh
@@ -12976,7 +12976,7 @@ pem,pəm
 -AB,-AB
 msx,msx
 u-L,ü-L
--Lu,-Lü
+-Lu,-Lu
 Luq,Luq
 orz,orz
 rzm,rzm
@@ -12991,9 +12991,9 @@ RAY,RAY
 ROF,ROF
 OFE,OFE
 FES,FES
-SSO,SСO
+SSO,SSO
 SEY,SEY
-YID,YID
+YID,YİD
 IDO,İDO
 OVU,OVU
 VUN,VUN
@@ -13002,7 +13002,7 @@ YIH,YİH
 IHe,İHƏ
 -pl,-pl
 axk,axk
-xke,xkə
+xke,xke
 v-B,v-B
 'yl,'yl
 Hib,Hib
@@ -13023,7 +13023,7 @@ CSO,CSO
 dki,dki
 826,826
 eit,eit
-erS,erS
+erS,ərŞ
 rSi,rSı
 Wi-,Wi-
 i-F,i-F
@@ -13061,7 +13061,7 @@ HSe,HŞƏ
 Fou,Fou
 Squ,Squ
 oux,oüx
-cui,cui
+cui,cüi
 uie,üiə
 vej,vej
 ejg,ejğ
@@ -13078,11 +13078,11 @@ SDA,SDA
 Boc,Boç
 occ,occ
 Fuq,Fuq
-duo,duo
+duo,duö
 uog,üoğ
 e-N,e-N
 -Ni,-Ni
-uzz,üzz
+uzz,uzz
 qqd,qqd
 50y,50y
 0ye,0yə
@@ -13319,7 +13319,7 @@ d'A,d’A
 'Az,’Az
 idj,idj
 le_,le_
-e_s,e_s
+e_s,ə_s
 _su,_su
 Er-,Er-
 XDM,XDM
@@ -13639,12 +13639,12 @@ Sme,Sme
 agg,agg
 ggi,ggi
 Duc,Duc
-shn,shn
+shn,شنا
 841,841
 398,398
 zox,zox
 a-B,a-B
-m-S,m-Ş
+m-S,m-S
 9:3,9:3
 :31,:31
 rmy,rmy
@@ -13842,7 +13842,7 @@ re',rə'
 yia,yia
 LLE,LLE
 LER,LER
-RIM,RİM
+RIM,RIM
 QOY,QOY
 OYM,OYM
 YMA,YMA
@@ -13855,7 +13855,7 @@ NDE,NDE
 SHI,SHI
 HIN,HIN
 FRA,FRA
-RAI,RAI
+RAI,RAİ
 ERB,ERB
 Joh,Joh
 hnn,hnn
@@ -13871,7 +13871,7 @@ l-1,l-1
 r-D,r-D
 AAC,AAC
 Loz,Loz
-Esb,Eşb
+Esb,Esb
 Ann,Ann
 Uzv,Üzv
 CER,ÇER
@@ -13954,11 +13954,11 @@ CAD,CAD
 DEM,DEM
 MIC,MIC
 lmh,lmh
-luv,lüv
+luv,luv
 DNA,DNA
 NA-,NA-
 AMS,AMS
-MSU,MŞÜ
+MSU,MSU
 UNG,UNG
 kjt,kjt
 jtr,jtr
@@ -13992,10 +13992,10 @@ Lel,Ləl
 5-9,5-9
 -96,-96
 Xon,Xon
-LTI,LTI
+LTI,LTİ
 eNM,ƏNM
 NMe,NMƏ
--IC,-IC
+-IC,-İC
 CTI,CTİ
 MAI,MAİ
 HUS,HÜS
@@ -14143,7 +14143,7 @@ DPA,DPA
 TSH,TSH
 EFE,EFE
 ENA,ENA
-INH,INH
+INH,İNH
 NHU,NHU
 HUA,HUA
 vuy,vüy
@@ -14184,7 +14184,7 @@ c-q,c-q
 Ops,Ops
 le7,le7
 vu_,vü_
-u__,u__
+u__,ü__
 gi_,ği_
 Kuz,Kuz
 bbd,bbd
@@ -14290,7 +14290,7 @@ E-n,E-n
 MHs,MHs
 Hs-,Hs-
 s-l,s-l
-onh,onh
+onh,önh
 jik,jik
 Aug,Aug
 o-n,o-n
@@ -14420,7 +14420,7 @@ HS-,HS-
 S-1,S-1
 ltt,ltt
 Raa,Raa
-vte,vtə
+vte,vte
 EHF,EHF
 HF_,HF_
 F_1,F_1
@@ -14475,7 +14475,7 @@ yeb,yəb
 rqq,rqq
 Ion,İon
 Pun,Pun
--ga,-ğa
+-ga,-ga
 __u,__ü
 _un,_ün
 "1,4","1,4"
@@ -14552,7 +14552,7 @@ lfq,lfq
 "2,7","2,7"
 ",75",",75"
 ulx,ülx
-SAY,ŞAY
+SAY,SAY
 YIe,YİƏ
 UNM,UNM
 NMA,NMA
@@ -14710,7 +14710,7 @@ ANO,ANO
 HUQ,HÜQ
 UQU,ÜQU
 QUQ,QUQ
-SUR,SÜR
+SUR,ŞUR
 ICL,İCL
 ETM,ETM
 TMI,TMİ
@@ -14748,7 +14748,7 @@ Tv-,Tv-
 bvi,bvi
 Aha,Aha
 znu,znu
-SII,Sİİ
+SII,SIİ
 IIL,İİL
 n-5,n-5
 lyn,lyn
@@ -14767,7 +14767,7 @@ SSI,SSİ
 ISe,İSƏ
 VAH,VAH
 IDL,IDL
-TIL,TİL
+TIL,TIL
 567,567
 ggy,ggy
 v-6,v-6
@@ -14872,7 +14872,7 @@ Akh,Akh
 okj,ökj
 .68,.68
 3D-,3D-
-D-e,D-ə
+D-e,D-e
 qeq,qəq
 d-o,d-o
 mea,mea
@@ -15023,7 +15023,7 @@ HEL,HEL
 ELP,ELP
 Xax,Xax
 -dc,-dc
-Gus,Guş
+Gus,Gus
 k-b,k-b
 058,058
 589,589
@@ -15163,7 +15163,7 @@ okk,okk
 Wis,Wis
 tdr,tdr
 f-b,f-b
-a-S,a-S
+a-S,a-Ş
 MTN,MTN
 zoz,zöz
 akb,akb
@@ -15382,7 +15382,7 @@ DQS,DQS
 748,748
 Uct,Üçt
 byo,byo
-Sne,Şne
+Sne,Sne
 stC,stC
 tCo,tCo
 -Aq,-Aq
@@ -15470,7 +15470,7 @@ IRe,İRƏ
 EVA,EVA
 arN,arN
 rNe,rNe
-seu,seu
+seu,şəü
 AzD,AzD
 zDa,zDa
 taK,taK
@@ -15515,7 +15515,7 @@ luo,lüo
 uom,uom
 Esr,Esr
 Pi-,Pi-
-SO-,SO-
+SO-,СO-
 raA,raA
 aAs,aAs
 omq,omq
@@ -15637,7 +15637,7 @@ EYG,EYĞ
 YGe,YĞƏ
 GeM,GƏM
 ARU,ARÜ
-URB,URB
+URB,ÜRB
 RBe,RBƏ
 BeS,BƏS
 ejm,ejm
@@ -15709,7 +15709,7 @@ AUC,AUC
 UCH,UCH
 CHE,CHE
 AUS,AUS
-'bi,'bi
+'bi,’bi
 otb,otb
 azx,azx
 _32,_32
@@ -15866,7 +15866,7 @@ amN,amN
 mNe,mNe
 464,464
 VAK,VAK
-Agu,Ağu
+Agu,Agu
 YAF,YAF
 AFE,AFE
 403,403
@@ -15880,7 +15880,7 @@ p-d,p-d
 ovv,ovv
 yip,yip
 KTA,KTA
-Ule,Ülə
+Ule,Ule
 Mae,Mae
 Ony,Öny
 Bou,Bou
@@ -15893,8 +15893,8 @@ PDA,PDA
 79.,79.
 99',99'
 9'u,9'u
-n'd,n’d
-'di,'di
+n'd,n'd
+'di,'dı
 SUY,SUY
 UYO,ÜYO
 YOR,YOR
@@ -15924,7 +15924,7 @@ eRi,ƏRi
 ve1,və1
 e15,ə15
 RIP,RIP
-IPE,İPE
+IPE,IPE
 IBO,IBO
 SOK,ŞOK
 Cru,Cru
@@ -15964,7 +15964,7 @@ ltz,ltz
 PhD,PhD
 WPK,WPK
 PKA,PKA
-SNI,SNI
+SNI,SNİ
 ICK,ICK
 CKE,CKE
 KER,KER
@@ -15980,7 +15980,7 @@ opq,opq
 AMM,AMM
 MMM,MMM
 Azl,Azl
-GSU,ĞSU
+GSU,GSU
 SHK,ŞHK
 qdk,qdk
 Pua,Pua
@@ -16075,7 +16075,7 @@ NKr,NKr
 15G,15G
 5GB,5GB
 vii,vii
-rxc,rxç
+rxc,rxc
 6:2,6:2
 zTE,zTE
 Cri,Cri
@@ -16443,7 +16443,7 @@ UZI,UZİ
 754,754
 "08,","08,"
 sgz,sğz
-gzu,ğzü
+gzu,ğzu
 654,654
 JES,JES
 fru,frü
@@ -16580,7 +16580,7 @@ Tsa,Tsa
 WIP,WIP
 uyy,uyy
 vrk,vrk
-grd,ğrd
+grd,grd
 "8,0","8,0"
 "98,","98,"
 d-M,d-M
@@ -16592,7 +16592,7 @@ khum,хum
 yt-,yt-
 htm,htm
 y-O,y-O
--Ok,-Ok
+-Ok,-Ök
 DR-,DR-
 Lhu,Lhu
 hui,hui
@@ -16628,7 +16628,7 @@ W3C,W3C
 779,779
 FEC,FEC
 u-2,u-2
-BES,BES
+BES,BEŞ
 STD,STD
 TDO,TDO
 POR,POR
@@ -16637,7 +16637,7 @@ yi1,yi1
 i18,i18
 vu-,vü-
 ndm,ndm
-lii,lıi
+lii,lii
 zob,zob
 IDK,İDK
 vhd,vhd
@@ -16739,7 +16739,7 @@ LBA,LBA
 ILS,İLS
 LSe,LSƏ
 nyl,nyl
-ibx,ibx
+ibx,ıbx
 afs,afs
 Onk,Onk
 ipn,ipn
@@ -16889,7 +16889,7 @@ XeS,XƏS
 UGI,UGİ
 a-E,a-E
 .84,.84
-uac,uaç
+uac,üaç
 Doz,Döz
 SDF,SDF
 DFP,DFP
@@ -17000,7 +17000,7 @@ khdi,хdı
 mr-,mr-
 mp3,mp3
 NM-,NM-
-aif,aif
+aif,aıf
 MDT,MDT
 DTU,DTU
 IFR,IFR
@@ -17029,7 +17029,7 @@ Daw,Daw
 awn,awn
 Jen,Jen
 .54,.54
-eTd,ƏTd
+eTd,eTd
 Tda,Tda
 Umb,Umb
 616,616
@@ -17056,7 +17056,7 @@ pp-,pp-
 CRM,CRM
 523,523
 lmm,lmm
-IGM,İGM
+IGM,IĞM
 SXE,SXE
 XEM,XEM
 .69,.69
@@ -17090,7 +17090,7 @@ wki,wki
 6x0,6x0
 KET,KET
 -55,-55
-DeC,DƏC
+DeC,DƏÇ
 USB,USB
 504,504
 E-p,E-p
@@ -17112,7 +17112,7 @@ Xom,Xom
 AZ7,AZ7
 Z70,Z70
 ivt,ivt
-Ile,İlə
+Ile,İle
 BIB,BİB
 abv,abv
 Ioh,İoh
@@ -17164,7 +17164,7 @@ OIK,OİK
 Quq,Quq
 L-1,L-1
 x-d,x-d
-Cok,Çok
+Cok,Çök
 A6y,A6y
 6yl,6yl
 eHM,ƏHM
@@ -17189,7 +17189,7 @@ E-t,E-t
 ekA,əkA
 kAz,kAz
 KHK,KHK
-fe-,fe-
+fe-,fə-
 i1e,i1ə
 mui,mui
 upc,üpç
@@ -17255,7 +17255,7 @@ AEA,AEA
 iiy,iiy
 uoq,üoq
 llk,llk
-i-6,ı-6
+i-6,i-6
 E-d,E-d
 CED,CED
 EDE,EDE
@@ -17453,7 +17453,7 @@ DRe,DRƏ
 O-t,O-t
 'yu,'yu
 S-A,Ş-A
-myn,myn
+myn,мын
 S-Z,S-Z
 et_,et_
 t_3,t_3
@@ -17492,7 +17492,7 @@ Ier,İer
 Avv,Avv
 Niv,Niv
 ivx,ivx
-UNS,ÜNS
+UNS,UNS
 z-T,z-T
 463,463
 896,896
@@ -17510,7 +17510,7 @@ a'w,a'w
 Som,Som
 ANR,ANR
 NRI,NRI
-RID,RİD
+RID,RID
 QIR,QIR
 IRG,IRĞ
 RKL,RKL
@@ -17620,7 +17620,7 @@ wap,wap
 Odi,Odi
 Buc,Buc
 niia,ния
-hzi,hzi
+hzi,hzı
 eTr,eTr
 TOE,TOE
 OEF,OEF
@@ -17683,7 +17683,7 @@ RXI,RXI
 PAY,PAY
 YIZ,YIZ
 glm,ğlm
-Kox,Köx
+Kox,Kox
 HeB,HƏB
 eBS,ƏBS
 NeF,NƏF
@@ -17817,8 +17817,8 @@ Alr,Alr
 lru,lru
 kBu,kBu
 FIL,FİL
-LIA,LİA
-INV,INV
+LIA,LIA
+INV,İNV
 RGe,RGƏ
 5-V,5-V
 eGe,ƏGƏ
@@ -17858,8 +17858,8 @@ Etm,Etm
 OCS,OCS
 SMN,SMN
 MN-,MN-
-ov',ov'
-v's,v’s
+ov',ov’
+v's,v's
 Ads,Ads
 "5,5","5,5"
 ",53",",53"
@@ -17980,7 +17980,7 @@ AG-,AĞ-
 G-T,Ğ-T
 -TW,-TW
 WEN,WEN
-UDA,UDA
+UDA,ÜDA
 453,453
 532,532
 eii,eıi
@@ -18003,7 +18003,7 @@ GUC,GÜC
 ihs,ihs
 uzt,üzt
 zta,zta
-ixz,ıxz
+ixz,ixz
 ck-,ck-
 Xei,Xei
 dbb,dbb
@@ -18048,7 +18048,7 @@ rt_,rt_
 t_N,t_N
 _Nu,_Nu
 xls,xls
-Vse,Vse
+Vse,Vsə
 SIT,SİT
 1-8,1-8
 -88,-88
@@ -18204,7 +18204,7 @@ IBB,İBB
 Anu,Anu
 351,351
 89c,89c
-iik,ıik
+iik,iik
 278,278
 tfd,tfd
 Wir,Wir
@@ -18281,7 +18281,7 @@ EMD,EMD
 MDA,MDA
 FTK,FTK
 g-x,ğ-x
-IAN,İAN
+IAN,IAN
 NDS,NDS
 -QR,-QR
 fts,fts
@@ -18319,11 +18319,11 @@ RE-,RE-
 E-T,E-T
 -TE,-TE
 3M-,3M-
-Cxa,Cxa
+Cxa,Çxa
 Zdz,Zdz
 toS,toS
 oSt,oSt
-iuc,ıuç
+iuc,ıüç
 AMP,AMP
 XSS,XSS
 eykh,eyх
@@ -18488,7 +18488,7 @@ x-G,x-G
 -Fu,-Fü
 SGS,SGS
 Inb,Inb
-ISB,ISB
+ISB,İSB
 SBA,SBA
 t_6,t_6
 _64,_64
@@ -18675,7 +18675,7 @@ FAN,FAN
 EAN,EAN
 326,326
 qek,qək
-eik,eik
+eik,əik
 Jim,Jim
 hrf,hrf
 IIB,İİB
@@ -18691,7 +18691,7 @@ C03,C03
 653,653
 kdl,kdl
 soj,soj
-jie,jie
+jie,jiə
 Enf,Enf
 Ecm,Eçm
 kmo,kmo
@@ -18777,7 +18777,7 @@ H-6,H-6
 VC-,VC-
 C-5,C-5
 it',it'
-ya',ya'
+ya',ya’
 a'd,a’d
 Xpo,Xpo
 Eru,Eru
@@ -18820,7 +18820,7 @@ lkt,lkt
 ocs,öçs
 E-e,E-Ə
 qej,qej
-Oqo,Oqo
+Oqo,Öqo
 mql,mql
 caX,çaX
 aXe,aXə
@@ -18892,7 +18892,7 @@ sdz,sdz
 E-h,E-h
 Neo,Neo
 Tsx,Tsx
-ilI,ilİ
+ilI,ilI
 lIk,lİk
 053,053
 "2,8","2,8"
@@ -19104,7 +19104,7 @@ qrp,qrp
 LEB,LEB
 EBI,EBİ
 BTQ,BTQ
-s'e,ş'e
+s'e,ş’ə
 guj,güj
 ujl,üjl
 jlu,jlü
@@ -19124,7 +19124,7 @@ po2,po2
 siT,sıT
 iTu,ıTü
 kV-,kV-
-irI,irİ
+irI,ırİ
 rIr,rİr
 3PL,3PL
 S-m,S-m
@@ -19133,7 +19133,7 @@ uqv,uqv
 -fr,-fr
 dly,dly
 2-C,2-C
-ri',ri’
+ri',ri'
 eqc,eqç
 qce,qçe
 OGM,OGM
@@ -19358,8 +19358,8 @@ SL2,SL2
 Way,Way
 ePa,ePa
 I-T,İ-T
-NQI,NQİ
-QIL,QIL
+NQI,NQI
+QIL,QİL
 LAB,LAB
 cs-,cs-
 nr-,nr-
@@ -19371,7 +19371,7 @@ O-i,O-i
 ugg,ugg
 ggl,ggl
 icv,icv
-cvi,çvi
+cvi,cvi
 z14,z14
 -a1,-a1
 a15,a15
@@ -19568,7 +19568,7 @@ ttp,ttp
 uax,uax
 uaq,üaq
 TTF,TTF
-TTU,TTÜ
+TTU,TTU
 BPM,BPM
 PMY,PMY
 MY-,MY-
@@ -19626,7 +19626,7 @@ y-1,y-1
 D-1,D-1
 XH-,XH-
 Ilt,İlt
-gaf,ğaf
+gaf,gaf
 lxl,lxl
 Hei,Hei
 -97,-97
@@ -19697,7 +19697,7 @@ TUE,TUE
 DRV,DRV
 RVs,RVs
 gkl,ğkl
-khey,хey
+khey,хəy
 4j-,4ј-
 j-e,ј-ə
 KCK,KCK
@@ -19757,7 +19757,7 @@ kCi,kCi
 roP,roP
 oPa,oPa
 P-t,P-t
-u-v,ü-v
+u-v,u-v
 l-D,l-D
 iuk,iük
 pmd,pmd
@@ -19927,7 +19927,7 @@ le3,lə3
 e38,ə38
 Cya,Cya
 AMR,AMR
-cst,çst
+cst,cst
 jrz,jrz
 MU-,MU-
 uul,uul
@@ -20009,7 +20009,7 @@ wl',wl’
 l'd,l’d
 fng,fng
 i-7,i-7
-u-1,u-1
+u-1,ü-1
 Tza,Tza
 xml,xml
 itS,itS
@@ -20142,7 +20142,7 @@ byl,byl
 mkl,mkl
 acv,açv
 B-l,B-l
-AGM,AĞM
+AGM,AGM
 KBP,KBP
 Xre,Xre
 Hiq,Hiq
@@ -20363,7 +20363,7 @@ miX,mıX
 iXo,ıXo
 UDL,UDL
 dlr,dlr
-edf,ədf
+edf,edf
 -QH,-QH
 T-M,T-M
 kyt,kyt
@@ -20646,7 +20646,7 @@ li1,li1
 Mzi,Mzi
 NP-,NP-
 eMS,ƏMS
-IBI,İBİ
+IBI,İBI
 ISG,İŞG
 9-j,9-j
 xix,xix
@@ -20771,7 +20771,7 @@ afI,afİ
 fIe,fİə
 esI,əsİ
 ldr,ldr
-nIn,nİn
+nIn,nIn
 efI,əfİ
 fIn,fİn
 zuu,züü
@@ -20847,7 +20847,7 @@ sIq,şIq
 FMF,FMF
 anH,anH
 nHe,nHe
-cei,çəi
+cei,cəi
 qup,qup
 upq,upq
 pqu,pqu
@@ -20937,7 +20937,7 @@ Mna,Mna
 UKR,UKR
 YNA,YNA
 DON,DON
-RCe,RCƏ
+RCe,RÇƏ
 Glu,Ğlu
 CUL,ÇÜL
 SKA,ŞKA
@@ -21069,7 +21069,7 @@ gvh,gvh
 tnf,tnf
 an5,an5
 PZR,PZR
-AIL,AİL
+AIL,AIL
 LYK,LYK
 YKA,YKA
 AKH,AKH
@@ -21112,7 +21112,7 @@ NKO,NKO
 xge,xge
 q-8,q-8
 ul2,ül2
-hze,hzə
+hze,hze
 1de,1də
 59m,59m
 9mm,9mm
@@ -21281,7 +21281,7 @@ Z2C,Z2C
 m's,m's
 jea,jea
 ns',ns'
-s'l,s'l
+s'l,s’l
 'le,'lə
 yzd,yzd
 nDO,nDO
