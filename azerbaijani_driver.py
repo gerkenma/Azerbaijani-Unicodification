@@ -37,14 +37,20 @@ with open("input.csv", "r", encoding="UTF-8") as test:
     test.readline()
 
     for line in test:
+        found = False
         i += 1
         line = re.split('[0-9]+,', line)[1].strip().replace('"', '')
-        predictions[i] = vocabulary.testVocabulary(line, wordSet)
-
-        if predictions[i] is None:
+        if not found:
+            predictions[i], found = vocabulary.testVocabulary(line, wordSet)
+        elif not found:
+            predictions[i], found = multiLetter.testMultiLetter(predictions[i], threeLetter, fourLetter, fiveLetter)
+        elif not found:
             predictions[i] = letterFreq.testLetterFreq(line, freqList)
-            multiLetterEval = multiLetter.testMultiLetter(predictions[i], threeLetter, fourLetter, fiveLetter)
-            predictions[i] = multiLetterEval
+        elif not found:
+            predictions[i] = line
+            print("default:", predictions[i])
+        else:
+            print("Something has gone horribly wrong.")
 
 helperFunctions.writeDictionary(predictions, "prediction.csv")
 print("Output file successfully written.")

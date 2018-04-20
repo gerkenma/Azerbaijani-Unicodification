@@ -13,8 +13,6 @@ def buildMultiLetter():
     fourLetter = {}
     fiveLetter = {}
     with open("azj-train.txt", "r", encoding="UTF-8") as training:
-        line = training.readline()
-
         for line in training:
             line = line.strip()
 
@@ -69,28 +67,32 @@ def testMultiLetter(word, threeL, fourL, fiveL):
 
     while length >= 3:
         start = 0
+        found = False
         while start <= len(word) - length:
             end = start + length
 
             if len(word[start:end]) == 5:
                 try:
                     replace = word.replace(word[start:end], fiveL[(word[start:end])])
+                    found = True
                 except KeyError:
                     pass
 
             elif len(word[start:end]) == 4:
                 try:
                     replace = word.replace(word[start:end], fourL[(word[start:end])])
+                    found = True
                 except KeyError:
                     pass
 
             else:
                 try:
                     replace = word.replace(word[start:end], threeL[(word[start:end])])
+                    found = True
                 except KeyError:
                     pass
 
             start += 1
         length -= 1
 
-    return helperFunctions.fixCaps(orig, word)
+    return helperFunctions.fixCaps(orig, replace), found

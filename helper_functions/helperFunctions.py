@@ -14,6 +14,7 @@ def findSubset(X, Y):
 
 
 def fixCaps(original, lower):
+    if lower is None: return lower
     capArray = []
     for letter in original:
         if letter.isupper():

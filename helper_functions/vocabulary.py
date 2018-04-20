@@ -29,8 +29,8 @@ def testVocabulary(word, vocab):
 
     if word in vocab:
         if upperFlag:
-            return vocab[word].capitalize()
+            return vocab[word].capitalize(), True
         else:
-            return vocab[word]
+            return vocab[word], True
     else:
-        return None
+        return word, False

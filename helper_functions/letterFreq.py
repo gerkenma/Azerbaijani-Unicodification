@@ -37,6 +37,7 @@ def testLetterFreq(word, freqList):
     guess = ""
     for letter in word:
         upperFlag = letter.isupper()
+        letter = letter.lower()
 
         if letter in freqList:
             guess += freqList[letter]
