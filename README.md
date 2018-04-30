@@ -62,3 +62,8 @@ Program would skip short strings, as well as cut out lines with commas. Logic an
 
 Program would return empty strings on ASCII characters not encountered before, now resolved. Changed order of restoration to Dictionary -> 5 Letter -> 4 Letter -> 3 Letter -> Frequency List -> Default. Needs functionality for allowing multiple multiLetter replacements in a single line. Attempt #10 involved restoring lines with quotes to see if possible error came from only commas being surrounded by quotes. Made no affect. Unsure why percentage went down by two percent.
 > Result: ~~0.88577~~ 0.88577
+
+**Attempt #11:** Support for multiple multi-letter pattern recognition
+
+Program will now continue to look for additional letter patterns in words, and will not just move to the next word after the first pattern is found. Program first scans through word comparing all five letter combos, then four, then three. If a conversion is done, guaranteed that any pattern containing that converted character will not appear within the comparison dictionaries.
+> Result: 0.92202
