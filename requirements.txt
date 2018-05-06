@@ -1,2 +1,8 @@
-unicodecsv==0.14.1
-unidecode==1.0.22
+unicodecsv
+unidecode
+numpy
+scipy
+tensorflow
+tensorflow-gpu
+keras
+six
