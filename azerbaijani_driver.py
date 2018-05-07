@@ -12,7 +12,7 @@ except FileNotFoundError:
     vocabulary.buildVocabulary()
     wordSet = helperFunctions.readDictionary("vocabulary.csv")
 
-# Creates dictionary of seen 5/4/3 letter patterns
+# Creates dictionary of seen 3/4/5 letter patterns
 try:
     threeLetter = helperFunctions.readDictionary("threeLetter.csv")
     fourLetter = helperFunctions.readDictionary("fourLetter.csv")
@@ -30,7 +30,7 @@ except FileNotFoundError:
     letterFreq.buildLetterFreq()
     freqList = helperFunctions.readDictionary("letterFreq.csv")
 
-# Begins testing
+# Begin testing
 with open("input.csv", "r", encoding="UTF-8") as test:
     i = 0
     predictions = {}

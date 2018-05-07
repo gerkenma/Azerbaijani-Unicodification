@@ -1,5 +1,4 @@
 import unicodecsv
-import codecs
 
 
 def mostCommon(lst):
@@ -45,7 +44,6 @@ def writeDictionary(dict, name):
             writer.writerow([key, value])
 
 
-
 def readDictionary(name):
     dict = {}
     with open('dictionaries/' + name, 'r', encoding="UTF-8") as data:
@@ -54,20 +52,6 @@ def readDictionary(name):
             dict[line.split(",")[0]] = line.split(",")[1].strip().replace('"', '')
 
     return dict
-
-
-def writeList(lst, name):
-    output = codecs.open("lists/"+name, "wb", encoding="utf-8")
-    for item in lst:
-        output.write(item)
-    output.close()
-
-
-def readList(name):
-    lst = []
-    input = codecs.open("lists/"+name, "r", encoding="utf-8")
-    lst = input.read()
-    return lst
 
 if __name__ == "__main__":
     orig = "hElLo!"
