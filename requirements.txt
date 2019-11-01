@@ -17,4 +17,4 @@ tensorflow==1.13.1
 termcolor==1.1.0
 unicodecsv==0.14.1
 Unidecode==1.0.22
-Werkzeug==0.14.1
+Werkzeug==0.15.3
